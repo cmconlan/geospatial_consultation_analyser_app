@@ -1,0 +1,140 @@
+{
+  "seed": 42,
+  "start_month": "2024-11",
+  "end_month": "2026-10",
+  "scenarios": [
+    {
+      "name": "background",
+      "area_label": "Brighton & Hove (general)",
+      "description": "Diffuse everyday casework across residential neighbourhoods.",
+      "temporal": {
+        "profile": "seasonal",
+        "amplitude": 0.15,
+        "peak_month": 6
+      },
+      "theme_weights": {
+        "traffic_parking": 3,
+        "daylight_overlooking": 3,
+        "trees_green_space": 2.5,
+        "construction_disruption": 2,
+        "height_massing": 1.5,
+        "heritage_conservation": 1,
+        "noise_night_economy": 1,
+        "affordable_housing": 1,
+        "hmo_student_housing": 0.5,
+        "seafront_tourism": 0.3
+      }
+    },
+    {
+      "name": "lanes_night_economy",
+      "area_label": "North Laine & The Lanes",
+      "description": "Seasonal: licensing and noise objections peak each summer.",
+      "temporal": {
+        "profile": "seasonal",
+        "amplitude": 0.9,
+        "peak_month": 7
+      },
+      "theme_weights": {
+        "noise_night_economy": 6,
+        "heritage_conservation": 4,
+        "traffic_parking": 1
+      }
+    },
+    {
+      "name": "kemptown_heritage",
+      "area_label": "Kemptown & East Cliff",
+      "description": "Steady: persistent, mostly negative heritage objections.",
+      "temporal": {
+        "profile": "flat"
+      },
+      "theme_weights": {
+        "heritage_conservation": 7,
+        "daylight_overlooking": 2,
+        "construction_disruption": 1
+      }
+    },
+    {
+      "name": "lewes_road_hmo",
+      "area_label": "Lewes Road & Moulsecoomb",
+      "description": "Steady: HMO conversions drawing moderate objections.",
+      "temporal": {
+        "profile": "flat"
+      },
+      "theme_weights": {
+        "hmo_student_housing": 7,
+        "traffic_parking": 2,
+        "noise_night_economy": 2
+      }
+    },
+    {
+      "name": "hove_seafront_tall",
+      "area_label": "Hove seafront",
+      "description": "Polarised: a few tall-building schemes with very high response volumes.",
+      "temporal": {
+        "profile": "flat"
+      },
+      "theme_weights": {
+        "height_massing": 6,
+        "daylight_overlooking": 3,
+        "seafront_tourism": 2,
+        "affordable_housing": 1
+      }
+    },
+    {
+      "name": "marina_tall",
+      "area_label": "Brighton Marina",
+      "description": "Polarised: large schemes with split opinion.",
+      "temporal": {
+        "profile": "flat"
+      },
+      "theme_weights": {
+        "height_massing": 5,
+        "traffic_parking": 3,
+        "seafront_tourism": 2
+      }
+    },
+    {
+      "name": "london_road_regen",
+      "area_label": "London Road & Preston Road",
+      "description": "Fading: a mostly supportive regeneration consultation peaking early on.",
+      "temporal": {
+        "profile": "fading",
+        "peak_index": 3,
+        "width": 4
+      },
+      "theme_weights": {
+        "affordable_housing": 6,
+        "height_massing": 2,
+        "trees_green_space": 1
+      }
+    },
+    {
+      "name": "western_road_baseline",
+      "area_label": "Western Road",
+      "description": "Ordinary high-street casework along Western Road.",
+      "temporal": {
+        "profile": "flat"
+      },
+      "theme_weights": {
+        "traffic_parking": 3,
+        "noise_night_economy": 1,
+        "heritage_conservation": 1
+      }
+    },
+    {
+      "name": "western_road_works",
+      "area_label": "Western Road",
+      "description": "EMERGING: construction disruption along Western Road from March 2026.",
+      "temporal": {
+        "profile": "emerging",
+        "start_index": 16,
+        "growth": 0.25
+      },
+      "theme_weights": {
+        "construction_disruption": 7,
+        "traffic_parking": 4,
+        "noise_night_economy": 1
+      }
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+.ipynb_checkpoints/
+
+# Diagnostics (regenerate with python/check_synthetic.py)
+data/synthetic/checks/
+
+# Front end (added later)
+node_modules/
+web/dist/
+
+.DS_Store

@@ -1,0 +1,42 @@
+[
+  {
+    "id": "traffic_parking",
+    "label": "Traffic & parking"
+  },
+  {
+    "id": "heritage_conservation",
+    "label": "Heritage & conservation"
+  },
+  {
+    "id": "height_massing",
+    "label": "Height & massing"
+  },
+  {
+    "id": "daylight_overlooking",
+    "label": "Daylight & overlooking"
+  },
+  {
+    "id": "noise_night_economy",
+    "label": "Noise & night-time economy"
+  },
+  {
+    "id": "hmo_student_housing",
+    "label": "HMOs & student housing"
+  },
+  {
+    "id": "affordable_housing",
+    "label": "Affordable housing"
+  },
+  {
+    "id": "trees_green_space",
+    "label": "Trees & green space"
+  },
+  {
+    "id": "construction_disruption",
+    "label": "Construction disruption"
+  },
+  {
+    "id": "seafront_tourism",
+    "label": "Seafront & tourism"
+  }
+]

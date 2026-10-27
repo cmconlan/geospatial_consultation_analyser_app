@@ -1,0 +1,1247 @@
+application_id,scenario,area_label,lat,lon,app_type,description,submitted_date,status
+DEMO-2026-00001,background,Brighton & Hove (general),50.808129,-0.037269,shopfront,Replacement shopfront and illuminated signage,2026-05-08,approved
+DEMO-2025-00002,background,Brighton & Hove (general),50.859652,-0.151182,householder,Single-storey rear extension and alterations,2025-09-17,approved
+DEMO-2026-00003,background,Brighton & Hove (general),50.830853,-0.080497,householder,Single-storey rear extension and alterations,2026-07-29,approved
+DEMO-2026-00004,background,Brighton & Hove (general),50.870706,-0.143337,basement,Excavation of basement and lightwell to front,2026-04-12,refused
+DEMO-2025-00005,background,Brighton & Hove (general),50.848369,-0.128185,householder,Single-storey rear extension and alterations,2025-01-07,approved
+DEMO-2026-00006,background,Brighton & Hove (general),50.857616,-0.139329,householder,Single-storey rear extension and alterations,2026-10-11,refused
+DEMO-2026-00007,background,Brighton & Hove (general),50.833989,-0.101975,householder,Single-storey rear extension and alterations,2026-05-25,approved
+DEMO-2026-00008,background,Brighton & Hove (general),50.831193,-0.122375,householder,Single-storey rear extension and alterations,2026-06-16,approved
+DEMO-2025-00009,background,Brighton & Hove (general),50.859091,-0.166092,demolition,Demolition of existing building and construction of replacement,2025-02-27,approved
+DEMO-2025-00010,background,Brighton & Hove (general),50.850115,-0.121476,householder,Single-storey rear extension and alterations,2025-09-07,approved
+DEMO-2025-00011,background,Brighton & Hove (general),50.832019,-0.174555,householder,Single-storey rear extension and alterations,2025-07-16,pending
+DEMO-2026-00012,background,Brighton & Hove (general),50.835102,-0.070028,demolition,Demolition of existing building and construction of replacement,2026-09-03,approved
+DEMO-2026-00013,background,Brighton & Hove (general),50.836937,-0.187238,householder,Single-storey rear extension and alterations,2026-02-25,approved
+DEMO-2026-00014,background,Brighton & Hove (general),50.809794,-0.043644,householder,Single-storey rear extension and alterations,2026-06-02,approved
+DEMO-2025-00015,background,Brighton & Hove (general),50.819034,-0.093751,householder,Single-storey rear extension and alterations,2025-09-29,pending
+DEMO-2025-00016,background,Brighton & Hove (general),50.866782,-0.160886,basement,Excavation of basement and lightwell to front,2025-04-08,pending
+DEMO-2025-00017,background,Brighton & Hove (general),50.808225,-0.059105,shopfront,Replacement shopfront and illuminated signage,2025-12-27,pending
+DEMO-2024-00018,background,Brighton & Hove (general),50.852625,-0.172568,householder,Single-storey rear extension and alterations,2024-12-26,pending
+DEMO-2026-00019,background,Brighton & Hove (general),50.847466,-0.146013,householder,Single-storey rear extension and alterations,2026-06-07,refused
+DEMO-2026-00020,background,Brighton & Hove (general),50.830496,-0.191205,demolition,Demolition of existing building and construction of replacement,2026-02-10,pending
+DEMO-2026-00021,background,Brighton & Hove (general),50.867238,-0.153522,shopfront,Replacement shopfront and illuminated signage,2026-05-05,pending
+DEMO-2025-00022,background,Brighton & Hove (general),50.858391,-0.178566,householder,Single-storey rear extension and alterations,2025-07-30,refused
+DEMO-2026-00023,background,Brighton & Hove (general),50.851769,-0.123315,demolition,Demolition of existing building and construction of replacement,2026-10-11,approved
+DEMO-2026-00024,background,Brighton & Hove (general),50.851836,-0.15212,householder,Single-storey rear extension and alterations,2026-08-28,approved
+DEMO-2026-00025,background,Brighton & Hove (general),50.808145,-0.050454,demolition,Demolition of existing building and construction of replacement,2026-05-30,approved
+DEMO-2025-00026,background,Brighton & Hove (general),50.856455,-0.117779,householder,Single-storey rear extension and alterations,2025-04-21,approved
+DEMO-2025-00027,background,Brighton & Hove (general),50.856912,-0.159029,demolition,Demolition of existing building and construction of replacement,2025-10-03,withdrawn
+DEMO-2024-00028,background,Brighton & Hove (general),50.806162,-0.035224,tree_works,Felling of trees and replacement planting,2024-12-23,withdrawn
+DEMO-2025-00029,background,Brighton & Hove (general),50.84038,-0.082804,tree_works,Felling of trees and replacement planting,2025-03-02,approved
+DEMO-2026-00030,background,Brighton & Hove (general),50.829248,-0.193556,tree_works,Felling of trees and replacement planting,2026-03-09,pending
+DEMO-2026-00031,background,Brighton & Hove (general),50.804995,-0.036564,householder,Single-storey rear extension and alterations,2026-05-18,approved
+DEMO-2026-00032,background,Brighton & Hove (general),50.823108,-0.1059,householder,Single-storey rear extension and alterations,2026-10-18,refused
+DEMO-2025-00033,background,Brighton & Hove (general),50.830308,-0.108432,tree_works,Felling of trees and replacement planting,2025-06-30,approved
+DEMO-2025-00034,background,Brighton & Hove (general),50.850006,-0.138225,householder,Single-storey rear extension and alterations,2025-07-14,approved
+DEMO-2025-00035,background,Brighton & Hove (general),50.832995,-0.130384,householder,Single-storey rear extension and alterations,2025-10-05,approved
+DEMO-2025-00036,background,Brighton & Hove (general),50.855562,-0.148557,basement,Excavation of basement and lightwell to front,2025-04-26,approved
+DEMO-2025-00037,background,Brighton & Hove (general),50.856659,-0.150764,demolition,Demolition of existing building and construction of replacement,2025-02-07,approved
+DEMO-2025-00038,background,Brighton & Hove (general),50.843876,-0.146003,householder,Single-storey rear extension and alterations,2025-10-11,approved
+DEMO-2025-00039,background,Brighton & Hove (general),50.829479,-0.111019,householder,Single-storey rear extension and alterations,2025-04-04,approved
+DEMO-2026-00040,background,Brighton & Hove (general),50.855797,-0.17236,householder,Single-storey rear extension and alterations,2026-03-15,approved
+DEMO-2025-00041,background,Brighton & Hove (general),50.840413,-0.1442,shopfront,Replacement shopfront and illuminated signage,2025-09-27,approved
+DEMO-2026-00042,background,Brighton & Hove (general),50.804529,-0.050001,householder,Single-storey rear extension and alterations,2026-07-27,approved
+DEMO-2026-00043,background,Brighton & Hove (general),50.83223,-0.1875,householder,Single-storey rear extension and alterations,2026-04-30,pending
+DEMO-2025-00044,background,Brighton & Hove (general),50.864813,-0.162379,tree_works,Felling of trees and replacement planting,2025-06-01,approved
+DEMO-2026-00045,background,Brighton & Hove (general),50.839872,-0.084465,householder,Single-storey rear extension and alterations,2026-07-01,approved
+DEMO-2026-00046,background,Brighton & Hove (general),50.868544,-0.159318,householder,Single-storey rear extension and alterations,2026-06-26,pending
+DEMO-2025-00047,background,Brighton & Hove (general),50.842137,-0.151626,shopfront,Replacement shopfront and illuminated signage,2025-08-02,pending
+DEMO-2025-00048,background,Brighton & Hove (general),50.838268,-0.071325,householder,Single-storey rear extension and alterations,2025-06-20,refused
+DEMO-2026-00049,background,Brighton & Hove (general),50.844581,-0.216816,householder,Single-storey rear extension and alterations,2026-03-07,approved
+DEMO-2025-00050,background,Brighton & Hove (general),50.863188,-0.163048,householder,Single-storey rear extension and alterations,2025-02-18,approved
+DEMO-2025-00051,background,Brighton & Hove (general),50.829605,-0.067418,householder,Single-storey rear extension and alterations,2025-04-13,pending
+DEMO-2024-00052,background,Brighton & Hove (general),50.841782,-0.146268,shopfront,Replacement shopfront and illuminated signage,2024-11-30,pending
+DEMO-2026-00053,background,Brighton & Hove (general),50.836389,-0.18182,householder,Single-storey rear extension and alterations,2026-06-10,pending
+DEMO-2026-00054,background,Brighton & Hove (general),50.829737,-0.177797,householder,Single-storey rear extension and alterations,2026-03-01,pending
+DEMO-2026-00055,background,Brighton & Hove (general),50.840514,-0.145782,shopfront,Replacement shopfront and illuminated signage,2026-04-22,approved
+DEMO-2026-00056,background,Brighton & Hove (general),50.853786,-0.130084,householder,Single-storey rear extension and alterations,2026-06-04,pending
+DEMO-2025-00057,background,Brighton & Hove (general),50.855996,-0.132898,householder,Single-storey rear extension and alterations,2025-09-22,approved
+DEMO-2025-00058,background,Brighton & Hove (general),50.860245,-0.145249,demolition,Demolition of existing building and construction of replacement,2025-12-14,withdrawn
+DEMO-2025-00059,background,Brighton & Hove (general),50.830184,-0.193692,basement,Excavation of basement and lightwell to front,2025-02-17,pending
+DEMO-2025-00060,background,Brighton & Hove (general),50.842455,-0.118756,householder,Single-storey rear extension and alterations,2025-02-15,approved
+DEMO-2026-00061,background,Brighton & Hove (general),50.829495,-0.137699,householder,Single-storey rear extension and alterations,2026-03-18,pending
+DEMO-2025-00062,background,Brighton & Hove (general),50.846821,-0.120861,shopfront,Replacement shopfront and illuminated signage,2025-10-16,pending
+DEMO-2025-00063,background,Brighton & Hove (general),50.860953,-0.142211,householder,Single-storey rear extension and alterations,2025-12-28,approved
+DEMO-2026-00064,background,Brighton & Hove (general),50.843568,-0.171587,householder,Single-storey rear extension and alterations,2026-05-14,pending
+DEMO-2026-00065,background,Brighton & Hove (general),50.821267,-0.133012,householder,Single-storey rear extension and alterations,2026-02-18,approved
+DEMO-2025-00066,background,Brighton & Hove (general),50.856982,-0.152807,householder,Single-storey rear extension and alterations,2025-12-24,withdrawn
+DEMO-2025-00067,background,Brighton & Hove (general),50.841647,-0.214753,demolition,Demolition of existing building and construction of replacement,2025-12-07,approved
+DEMO-2025-00068,background,Brighton & Hove (general),50.855332,-0.128026,householder,Single-storey rear extension and alterations,2025-06-23,approved
+DEMO-2024-00069,background,Brighton & Hove (general),50.856344,-0.129918,householder,Single-storey rear extension and alterations,2024-11-20,approved
+DEMO-2025-00070,background,Brighton & Hove (general),50.832925,-0.198287,major_residential,Erection of mixed-use residential-led building,2025-09-10,pending
+DEMO-2025-00071,background,Brighton & Hove (general),50.811075,-0.072748,householder,Single-storey rear extension and alterations,2025-04-09,pending
+DEMO-2025-00072,background,Brighton & Hove (general),50.828691,-0.077118,householder,Single-storey rear extension and alterations,2025-08-11,withdrawn
+DEMO-2026-00073,background,Brighton & Hove (general),50.826324,-0.110005,basement,Excavation of basement and lightwell to front,2026-07-09,pending
+DEMO-2025-00074,background,Brighton & Hove (general),50.853252,-0.162563,householder,Single-storey rear extension and alterations,2025-05-13,approved
+DEMO-2024-00075,background,Brighton & Hove (general),50.831676,-0.192882,householder,Single-storey rear extension and alterations,2024-12-01,pending
+DEMO-2025-00076,background,Brighton & Hove (general),50.830678,-0.175449,householder,Single-storey rear extension and alterations,2025-06-20,approved
+DEMO-2025-00077,background,Brighton & Hove (general),50.823638,-0.122046,householder,Single-storey rear extension and alterations,2025-06-01,approved
+DEMO-2026-00078,background,Brighton & Hove (general),50.825522,-0.133712,basement,Excavation of basement and lightwell to front,2026-03-09,approved
+DEMO-2025-00079,background,Brighton & Hove (general),50.835014,-0.18834,tree_works,Felling of trees and replacement planting,2025-12-19,refused
+DEMO-2026-00080,background,Brighton & Hove (general),50.828976,-0.112417,demolition,Demolition of existing building and construction of replacement,2026-06-28,approved
+DEMO-2026-00081,background,Brighton & Hove (general),50.840069,-0.215839,demolition,Demolition of existing building and construction of replacement,2026-03-30,approved
+DEMO-2025-00082,background,Brighton & Hove (general),50.844934,-0.161918,demolition,Demolition of existing building and construction of replacement,2025-08-26,approved
+DEMO-2026-00083,background,Brighton & Hove (general),50.833234,-0.169827,basement,Excavation of basement and lightwell to front,2026-06-04,pending
+DEMO-2025-00084,background,Brighton & Hove (general),50.808688,-0.060992,householder,Single-storey rear extension and alterations,2025-03-17,pending
+DEMO-2024-00085,background,Brighton & Hove (general),50.831385,-0.130752,householder,Single-storey rear extension and alterations,2024-11-18,approved
+DEMO-2025-00086,background,Brighton & Hove (general),50.835992,-0.141401,householder,Single-storey rear extension and alterations,2025-01-22,approved
+DEMO-2026-00087,background,Brighton & Hove (general),50.842641,-0.222133,demolition,Demolition of existing building and construction of replacement,2026-04-23,refused
+DEMO-2025-00088,background,Brighton & Hove (general),50.855018,-0.128091,householder,Single-storey rear extension and alterations,2025-10-27,approved
+DEMO-2025-00089,background,Brighton & Hove (general),50.854626,-0.119487,householder,Single-storey rear extension and alterations,2025-03-08,approved
+DEMO-2025-00090,background,Brighton & Hove (general),50.825736,-0.096242,tree_works,Felling of trees and replacement planting,2025-11-23,refused
+DEMO-2025-00091,background,Brighton & Hove (general),50.80603,-0.052827,householder,Single-storey rear extension and alterations,2025-03-17,pending
+DEMO-2026-00092,background,Brighton & Hove (general),50.829742,-0.086315,householder,Single-storey rear extension and alterations,2026-04-06,approved
+DEMO-2025-00093,background,Brighton & Hove (general),50.831218,-0.19373,householder,Single-storey rear extension and alterations,2025-09-19,withdrawn
+DEMO-2025-00094,background,Brighton & Hove (general),50.805748,-0.034965,tree_works,Felling of trees and replacement planting,2025-08-08,pending
+DEMO-2025-00095,background,Brighton & Hove (general),50.846433,-0.147378,householder,Single-storey rear extension and alterations,2025-06-17,approved
+DEMO-2026-00096,background,Brighton & Hove (general),50.847836,-0.160186,demolition,Demolition of existing building and construction of replacement,2026-02-07,pending
+DEMO-2025-00097,background,Brighton & Hove (general),50.833794,-0.217773,demolition,Demolition of existing building and construction of replacement,2025-07-11,withdrawn
+DEMO-2025-00098,background,Brighton & Hove (general),50.839606,-0.205403,major_residential,Erection of mixed-use residential-led building,2025-01-04,pending
+DEMO-2025-00099,background,Brighton & Hove (general),50.835678,-0.07238,householder,Single-storey rear extension and alterations,2025-02-14,pending
+DEMO-2026-00100,background,Brighton & Hove (general),50.855628,-0.159025,householder,Single-storey rear extension and alterations,2026-10-29,withdrawn
+DEMO-2026-00101,background,Brighton & Hove (general),50.862249,-0.156374,demolition,Demolition of existing building and construction of replacement,2026-08-09,pending
+DEMO-2026-00102,background,Brighton & Hove (general),50.83645,-0.179451,householder,Single-storey rear extension and alterations,2026-04-19,pending
+DEMO-2025-00103,background,Brighton & Hove (general),50.865809,-0.157857,householder,Single-storey rear extension and alterations,2025-05-19,approved
+DEMO-2026-00104,background,Brighton & Hove (general),50.830936,-0.193176,major_residential,Erection of mixed-use residential-led building,2026-10-24,approved
+DEMO-2026-00105,background,Brighton & Hove (general),50.830993,-0.106283,shopfront,Replacement shopfront and illuminated signage,2026-05-13,pending
+DEMO-2026-00106,background,Brighton & Hove (general),50.857229,-0.132549,demolition,Demolition of existing building and construction of replacement,2026-04-03,approved
+DEMO-2025-00107,background,Brighton & Hove (general),50.857419,-0.165254,tree_works,Felling of trees and replacement planting,2025-09-19,pending
+DEMO-2025-00108,background,Brighton & Hove (general),50.825307,-0.11152,householder,Single-storey rear extension and alterations,2025-05-23,approved
+DEMO-2025-00109,background,Brighton & Hove (general),50.82212,-0.089429,householder,Single-storey rear extension and alterations,2025-01-18,approved
+DEMO-2026-00110,background,Brighton & Hove (general),50.860882,-0.153169,demolition,Demolition of existing building and construction of replacement,2026-08-15,refused
+DEMO-2025-00111,background,Brighton & Hove (general),50.855554,-0.150363,householder,Single-storey rear extension and alterations,2025-09-09,pending
+DEMO-2025-00112,background,Brighton & Hove (general),50.831485,-0.104671,shopfront,Replacement shopfront and illuminated signage,2025-04-26,approved
+DEMO-2025-00113,background,Brighton & Hove (general),50.845147,-0.150066,tree_works,Felling of trees and replacement planting,2025-06-18,approved
+DEMO-2026-00114,background,Brighton & Hove (general),50.836233,-0.172864,shopfront,Replacement shopfront and illuminated signage,2026-01-26,approved
+DEMO-2025-00115,background,Brighton & Hove (general),50.853381,-0.145051,major_residential,Erection of mixed-use residential-led building,2025-03-02,withdrawn
+DEMO-2026-00116,background,Brighton & Hove (general),50.840864,-0.220923,householder,Single-storey rear extension and alterations,2026-07-30,approved
+DEMO-2026-00117,background,Brighton & Hove (general),50.83035,-0.189374,householder,Single-storey rear extension and alterations,2026-05-03,pending
+DEMO-2026-00118,background,Brighton & Hove (general),50.840302,-0.187386,tree_works,Felling of trees and replacement planting,2026-04-30,approved
+DEMO-2025-00119,background,Brighton & Hove (general),50.831321,-0.184727,demolition,Demolition of existing building and construction of replacement,2025-09-06,pending
+DEMO-2026-00120,background,Brighton & Hove (general),50.804919,-0.051681,basement,Excavation of basement and lightwell to front,2026-02-23,withdrawn
+DEMO-2026-00121,background,Brighton & Hove (general),50.830245,-0.06399,householder,Single-storey rear extension and alterations,2026-01-17,pending
+DEMO-2026-00122,background,Brighton & Hove (general),50.829564,-0.135877,householder,Single-storey rear extension and alterations,2026-03-24,pending
+DEMO-2025-00123,background,Brighton & Hove (general),50.825651,-0.12302,householder,Single-storey rear extension and alterations,2025-01-12,refused
+DEMO-2025-00124,background,Brighton & Hove (general),50.846896,-0.177625,demolition,Demolition of existing building and construction of replacement,2025-08-06,approved
+DEMO-2024-00125,background,Brighton & Hove (general),50.819366,-0.097748,householder,Single-storey rear extension and alterations,2024-12-29,pending
+DEMO-2025-00126,background,Brighton & Hove (general),50.854382,-0.124077,major_residential,Erection of mixed-use residential-led building,2025-10-12,pending
+DEMO-2025-00127,background,Brighton & Hove (general),50.856644,-0.16278,householder,Single-storey rear extension and alterations,2025-07-08,withdrawn
+DEMO-2025-00128,background,Brighton & Hove (general),50.847119,-0.219739,householder,Single-storey rear extension and alterations,2025-02-21,approved
+DEMO-2025-00129,background,Brighton & Hove (general),50.845374,-0.144394,tree_works,Felling of trees and replacement planting,2025-01-07,withdrawn
+DEMO-2026-00130,background,Brighton & Hove (general),50.849508,-0.160584,householder,Single-storey rear extension and alterations,2026-01-29,pending
+DEMO-2025-00131,background,Brighton & Hove (general),50.859476,-0.153294,major_residential,Erection of mixed-use residential-led building,2025-03-18,approved
+DEMO-2026-00132,background,Brighton & Hove (general),50.845334,-0.219422,tree_works,Felling of trees and replacement planting,2026-09-26,approved
+DEMO-2026-00133,background,Brighton & Hove (general),50.862294,-0.167274,householder,Single-storey rear extension and alterations,2026-01-27,refused
+DEMO-2025-00134,background,Brighton & Hove (general),50.839002,-0.082007,tree_works,Felling of trees and replacement planting,2025-07-26,pending
+DEMO-2026-00135,background,Brighton & Hove (general),50.830363,-0.109933,householder,Single-storey rear extension and alterations,2026-01-16,pending
+DEMO-2024-00136,background,Brighton & Hove (general),50.855174,-0.148359,householder,Single-storey rear extension and alterations,2024-11-19,approved
+DEMO-2026-00137,background,Brighton & Hove (general),50.829398,-0.175416,householder,Single-storey rear extension and alterations,2026-09-07,approved
+DEMO-2025-00138,background,Brighton & Hove (general),50.821114,-0.112332,shopfront,Replacement shopfront and illuminated signage,2025-10-25,approved
+DEMO-2026-00139,background,Brighton & Hove (general),50.839253,-0.215465,demolition,Demolition of existing building and construction of replacement,2026-06-24,withdrawn
+DEMO-2025-00140,background,Brighton & Hove (general),50.846093,-0.146804,demolition,Demolition of existing building and construction of replacement,2025-01-19,approved
+DEMO-2025-00141,background,Brighton & Hove (general),50.860941,-0.129713,householder,Single-storey rear extension and alterations,2025-10-25,approved
+DEMO-2025-00142,background,Brighton & Hove (general),50.83576,-0.084793,tree_works,Felling of trees and replacement planting,2025-10-30,approved
+DEMO-2026-00143,background,Brighton & Hove (general),50.804781,-0.058691,demolition,Demolition of existing building and construction of replacement,2026-09-22,pending
+DEMO-2026-00144,background,Brighton & Hove (general),50.823283,-0.138908,householder,Single-storey rear extension and alterations,2026-01-15,withdrawn
+DEMO-2025-00145,background,Brighton & Hove (general),50.839862,-0.194812,householder,Single-storey rear extension and alterations,2025-10-31,pending
+DEMO-2025-00146,background,Brighton & Hove (general),50.841763,-0.165544,householder,Single-storey rear extension and alterations,2025-05-08,withdrawn
+DEMO-2025-00147,background,Brighton & Hove (general),50.834816,-0.120022,demolition,Demolition of existing building and construction of replacement,2025-07-13,pending
+DEMO-2025-00148,background,Brighton & Hove (general),50.847518,-0.161558,householder,Single-storey rear extension and alterations,2025-11-06,refused
+DEMO-2025-00149,background,Brighton & Hove (general),50.852423,-0.128855,householder,Single-storey rear extension and alterations,2025-09-25,pending
+DEMO-2024-00150,background,Brighton & Hove (general),50.853502,-0.117695,basement,Excavation of basement and lightwell to front,2024-11-16,approved
+DEMO-2026-00151,background,Brighton & Hove (general),50.827734,-0.168245,householder,Single-storey rear extension and alterations,2026-06-11,pending
+DEMO-2026-00152,background,Brighton & Hove (general),50.85903,-0.144393,householder,Single-storey rear extension and alterations,2026-08-08,pending
+DEMO-2025-00153,background,Brighton & Hove (general),50.830727,-0.126025,householder,Single-storey rear extension and alterations,2025-02-01,refused
+DEMO-2025-00154,background,Brighton & Hove (general),50.81094,-0.072652,tree_works,Felling of trees and replacement planting,2025-12-12,pending
+DEMO-2025-00155,background,Brighton & Hove (general),50.840245,-0.153664,householder,Single-storey rear extension and alterations,2025-02-04,approved
+DEMO-2026-00156,background,Brighton & Hove (general),50.81014,-0.059934,householder,Single-storey rear extension and alterations,2026-03-04,approved
+DEMO-2025-00157,background,Brighton & Hove (general),50.835173,-0.175942,tree_works,Felling of trees and replacement planting,2025-06-13,approved
+DEMO-2026-00158,background,Brighton & Hove (general),50.865535,-0.142518,tree_works,Felling of trees and replacement planting,2026-03-06,approved
+DEMO-2026-00159,background,Brighton & Hove (general),50.859788,-0.110801,householder,Single-storey rear extension and alterations,2026-04-27,approved
+DEMO-2026-00160,background,Brighton & Hove (general),50.848032,-0.168025,householder,Single-storey rear extension and alterations,2026-05-13,withdrawn
+DEMO-2025-00161,background,Brighton & Hove (general),50.855365,-0.120625,householder,Single-storey rear extension and alterations,2025-01-12,approved
+DEMO-2026-00162,background,Brighton & Hove (general),50.805225,-0.036534,tree_works,Felling of trees and replacement planting,2026-08-13,approved
+DEMO-2025-00163,background,Brighton & Hove (general),50.834048,-0.147687,shopfront,Replacement shopfront and illuminated signage,2025-04-17,pending
+DEMO-2024-00164,background,Brighton & Hove (general),50.830639,-0.182887,basement,Excavation of basement and lightwell to front,2024-12-14,refused
+DEMO-2025-00165,background,Brighton & Hove (general),50.850203,-0.162387,householder,Single-storey rear extension and alterations,2025-12-27,pending
+DEMO-2025-00166,background,Brighton & Hove (general),50.866649,-0.119138,householder,Single-storey rear extension and alterations,2025-07-06,approved
+DEMO-2026-00167,background,Brighton & Hove (general),50.848932,-0.162795,demolition,Demolition of existing building and construction of replacement,2026-07-25,approved
+DEMO-2026-00168,background,Brighton & Hove (general),50.806724,-0.069172,householder,Single-storey rear extension and alterations,2026-06-28,approved
+DEMO-2025-00169,background,Brighton & Hove (general),50.834388,-0.189263,shopfront,Replacement shopfront and illuminated signage,2025-06-28,approved
+DEMO-2026-00170,background,Brighton & Hove (general),50.828949,-0.107972,householder,Single-storey rear extension and alterations,2026-09-04,pending
+DEMO-2025-00171,background,Brighton & Hove (general),50.858602,-0.164408,demolition,Demolition of existing building and construction of replacement,2025-06-14,approved
+DEMO-2025-00172,background,Brighton & Hove (general),50.836455,-0.180365,householder,Single-storey rear extension and alterations,2025-11-22,approved
+DEMO-2025-00173,background,Brighton & Hove (general),50.805336,-0.057717,tree_works,Felling of trees and replacement planting,2025-05-07,pending
+DEMO-2026-00174,background,Brighton & Hove (general),50.822624,-0.093698,householder,Single-storey rear extension and alterations,2026-09-28,withdrawn
+DEMO-2025-00175,background,Brighton & Hove (general),50.830376,-0.195715,shopfront,Replacement shopfront and illuminated signage,2025-03-08,pending
+DEMO-2024-00176,background,Brighton & Hove (general),50.855246,-0.149225,demolition,Demolition of existing building and construction of replacement,2024-12-28,approved
+DEMO-2025-00177,background,Brighton & Hove (general),50.864082,-0.110331,householder,Single-storey rear extension and alterations,2025-09-16,approved
+DEMO-2026-00178,background,Brighton & Hove (general),50.829131,-0.132824,householder,Single-storey rear extension and alterations,2026-10-22,withdrawn
+DEMO-2026-00179,background,Brighton & Hove (general),50.846202,-0.15504,householder,Single-storey rear extension and alterations,2026-08-15,approved
+DEMO-2026-00180,background,Brighton & Hove (general),50.837324,-0.076971,shopfront,Replacement shopfront and illuminated signage,2026-05-24,approved
+DEMO-2026-00181,background,Brighton & Hove (general),50.837051,-0.172724,householder,Single-storey rear extension and alterations,2026-08-20,pending
+DEMO-2026-00182,background,Brighton & Hove (general),50.834058,-0.08115,householder,Single-storey rear extension and alterations,2026-08-28,refused
+DEMO-2025-00183,background,Brighton & Hove (general),50.813598,-0.06,tree_works,Felling of trees and replacement planting,2025-11-18,pending
+DEMO-2025-00184,background,Brighton & Hove (general),50.854686,-0.156812,major_residential,Erection of mixed-use residential-led building,2025-06-22,approved
+DEMO-2026-00185,background,Brighton & Hove (general),50.832114,-0.176907,householder,Single-storey rear extension and alterations,2026-05-14,approved
+DEMO-2026-00186,background,Brighton & Hove (general),50.802675,-0.056236,tree_works,Felling of trees and replacement planting,2026-03-27,approved
+DEMO-2025-00187,background,Brighton & Hove (general),50.849237,-0.174844,major_residential,Erection of mixed-use residential-led building,2025-07-13,refused
+DEMO-2025-00188,background,Brighton & Hove (general),50.847736,-0.15462,tree_works,Felling of trees and replacement planting,2025-01-19,pending
+DEMO-2026-00189,background,Brighton & Hove (general),50.843587,-0.073462,basement,Excavation of basement and lightwell to front,2026-05-10,approved
+DEMO-2025-00190,background,Brighton & Hove (general),50.843452,-0.144271,householder,Single-storey rear extension and alterations,2025-05-25,approved
+DEMO-2026-00191,background,Brighton & Hove (general),50.851084,-0.139126,major_residential,Erection of mixed-use residential-led building,2026-09-19,refused
+DEMO-2025-00192,background,Brighton & Hove (general),50.812946,-0.028996,demolition,Demolition of existing building and construction of replacement,2025-05-14,approved
+DEMO-2025-00193,background,Brighton & Hove (general),50.828726,-0.183583,householder,Single-storey rear extension and alterations,2025-02-23,refused
+DEMO-2026-00194,background,Brighton & Hove (general),50.862194,-0.154213,householder,Single-storey rear extension and alterations,2026-07-16,withdrawn
+DEMO-2025-00195,background,Brighton & Hove (general),50.830512,-0.189137,householder,Single-storey rear extension and alterations,2025-03-11,refused
+DEMO-2025-00196,background,Brighton & Hove (general),50.85679,-0.133897,householder,Single-storey rear extension and alterations,2025-03-31,pending
+DEMO-2026-00197,background,Brighton & Hove (general),50.857271,-0.164408,householder,Single-storey rear extension and alterations,2026-01-10,refused
+DEMO-2026-00198,background,Brighton & Hove (general),50.843873,-0.137514,shopfront,Replacement shopfront and illuminated signage,2026-07-28,approved
+DEMO-2025-00199,background,Brighton & Hove (general),50.83044,-0.196539,major_residential,Erection of mixed-use residential-led building,2025-04-12,approved
+DEMO-2025-00200,background,Brighton & Hove (general),50.855004,-0.167125,tree_works,Felling of trees and replacement planting,2025-06-03,approved
+DEMO-2026-00201,background,Brighton & Hove (general),50.810854,-0.055553,householder,Single-storey rear extension and alterations,2026-05-02,approved
+DEMO-2026-00202,background,Brighton & Hove (general),50.827331,-0.124605,demolition,Demolition of existing building and construction of replacement,2026-10-30,approved
+DEMO-2025-00203,background,Brighton & Hove (general),50.851622,-0.155301,basement,Excavation of basement and lightwell to front,2025-11-27,approved
+DEMO-2025-00204,background,Brighton & Hove (general),50.848344,-0.155668,householder,Single-storey rear extension and alterations,2025-02-21,approved
+DEMO-2024-00205,background,Brighton & Hove (general),50.815026,-0.041833,householder,Single-storey rear extension and alterations,2024-11-14,pending
+DEMO-2025-00206,background,Brighton & Hove (general),50.855323,-0.135374,householder,Single-storey rear extension and alterations,2025-04-22,pending
+DEMO-2025-00207,background,Brighton & Hove (general),50.820013,-0.130544,householder,Single-storey rear extension and alterations,2025-02-08,approved
+DEMO-2026-00208,background,Brighton & Hove (general),50.834416,-0.180398,householder,Single-storey rear extension and alterations,2026-03-10,pending
+DEMO-2025-00209,background,Brighton & Hove (general),50.867424,-0.148628,householder,Single-storey rear extension and alterations,2025-02-27,approved
+DEMO-2025-00210,background,Brighton & Hove (general),50.854521,-0.121766,householder,Single-storey rear extension and alterations,2025-11-17,approved
+DEMO-2026-00211,background,Brighton & Hove (general),50.831116,-0.189154,householder,Single-storey rear extension and alterations,2026-04-23,approved
+DEMO-2026-00212,background,Brighton & Hove (general),50.843545,-0.152589,basement,Excavation of basement and lightwell to front,2026-01-01,pending
+DEMO-2025-00213,background,Brighton & Hove (general),50.858715,-0.163783,householder,Single-storey rear extension and alterations,2025-04-25,pending
+DEMO-2026-00214,background,Brighton & Hove (general),50.844371,-0.163665,tree_works,Felling of trees and replacement planting,2026-06-28,refused
+DEMO-2026-00215,background,Brighton & Hove (general),50.857042,-0.171115,householder,Single-storey rear extension and alterations,2026-04-05,approved
+DEMO-2026-00216,background,Brighton & Hove (general),50.831716,-0.175804,major_residential,Erection of mixed-use residential-led building,2026-05-11,pending
+DEMO-2025-00217,background,Brighton & Hove (general),50.824771,-0.120536,householder,Single-storey rear extension and alterations,2025-02-13,refused
+DEMO-2025-00218,background,Brighton & Hove (general),50.828364,-0.196976,householder,Single-storey rear extension and alterations,2025-02-06,approved
+DEMO-2026-00219,background,Brighton & Hove (general),50.830782,-0.170618,householder,Single-storey rear extension and alterations,2026-09-05,pending
+DEMO-2025-00220,background,Brighton & Hove (general),50.828106,-0.104739,basement,Excavation of basement and lightwell to front,2025-08-03,approved
+DEMO-2025-00221,background,Brighton & Hove (general),50.852678,-0.154046,householder,Single-storey rear extension and alterations,2025-06-24,pending
+DEMO-2025-00222,background,Brighton & Hove (general),50.851835,-0.181275,demolition,Demolition of existing building and construction of replacement,2025-10-07,pending
+DEMO-2026-00223,background,Brighton & Hove (general),50.85446,-0.135562,demolition,Demolition of existing building and construction of replacement,2026-03-17,approved
+DEMO-2026-00224,background,Brighton & Hove (general),50.85768,-0.121136,shopfront,Replacement shopfront and illuminated signage,2026-09-08,approved
+DEMO-2025-00225,background,Brighton & Hove (general),50.802726,-0.047495,shopfront,Replacement shopfront and illuminated signage,2025-06-13,approved
+DEMO-2026-00226,background,Brighton & Hove (general),50.828926,-0.075788,householder,Single-storey rear extension and alterations,2026-09-19,approved
+DEMO-2024-00227,background,Brighton & Hove (general),50.858968,-0.168471,householder,Single-storey rear extension and alterations,2024-11-25,refused
+DEMO-2025-00228,background,Brighton & Hove (general),50.853814,-0.156743,householder,Single-storey rear extension and alterations,2025-12-20,approved
+DEMO-2026-00229,background,Brighton & Hove (general),50.833365,-0.171027,householder,Single-storey rear extension and alterations,2026-02-17,approved
+DEMO-2025-00230,background,Brighton & Hove (general),50.812093,-0.03449,householder,Single-storey rear extension and alterations,2025-01-08,approved
+DEMO-2025-00231,background,Brighton & Hove (general),50.832351,-0.089057,householder,Single-storey rear extension and alterations,2025-02-12,pending
+DEMO-2025-00232,background,Brighton & Hove (general),50.833531,-0.128632,basement,Excavation of basement and lightwell to front,2025-08-20,approved
+DEMO-2026-00233,background,Brighton & Hove (general),50.839883,-0.074958,householder,Single-storey rear extension and alterations,2026-10-06,withdrawn
+DEMO-2026-00234,background,Brighton & Hove (general),50.842511,-0.076437,tree_works,Felling of trees and replacement planting,2026-01-15,pending
+DEMO-2026-00235,background,Brighton & Hove (general),50.854674,-0.158604,basement,Excavation of basement and lightwell to front,2026-09-08,pending
+DEMO-2026-00236,background,Brighton & Hove (general),50.840066,-0.099804,householder,Single-storey rear extension and alterations,2026-06-11,pending
+DEMO-2025-00237,background,Brighton & Hove (general),50.826768,-0.078706,demolition,Demolition of existing building and construction of replacement,2025-10-25,approved
+DEMO-2026-00238,background,Brighton & Hove (general),50.838807,-0.213945,householder,Single-storey rear extension and alterations,2026-06-25,refused
+DEMO-2024-00239,background,Brighton & Hove (general),50.857158,-0.161973,tree_works,Felling of trees and replacement planting,2024-11-07,refused
+DEMO-2025-00240,background,Brighton & Hove (general),50.829013,-0.139688,basement,Excavation of basement and lightwell to front,2025-02-19,pending
+DEMO-2026-00241,background,Brighton & Hove (general),50.848301,-0.160323,major_residential,Erection of mixed-use residential-led building,2026-07-18,refused
+DEMO-2026-00242,background,Brighton & Hove (general),50.848253,-0.171794,householder,Single-storey rear extension and alterations,2026-06-10,approved
+DEMO-2025-00243,background,Brighton & Hove (general),50.812639,-0.050853,householder,Single-storey rear extension and alterations,2025-04-27,refused
+DEMO-2025-00244,background,Brighton & Hove (general),50.808637,-0.062788,householder,Single-storey rear extension and alterations,2025-11-29,approved
+DEMO-2026-00245,background,Brighton & Hove (general),50.854969,-0.134524,shopfront,Replacement shopfront and illuminated signage,2026-01-10,approved
+DEMO-2026-00246,background,Brighton & Hove (general),50.86131,-0.118869,shopfront,Replacement shopfront and illuminated signage,2026-07-30,approved
+DEMO-2026-00247,background,Brighton & Hove (general),50.850956,-0.16253,householder,Single-storey rear extension and alterations,2026-01-04,pending
+DEMO-2025-00248,background,Brighton & Hove (general),50.840347,-0.062503,tree_works,Felling of trees and replacement planting,2025-08-07,approved
+DEMO-2025-00249,background,Brighton & Hove (general),50.828205,-0.187641,householder,Single-storey rear extension and alterations,2025-07-02,refused
+DEMO-2025-00250,background,Brighton & Hove (general),50.844355,-0.210698,householder,Single-storey rear extension and alterations,2025-09-13,approved
+DEMO-2026-00251,background,Brighton & Hove (general),50.852043,-0.145065,householder,Single-storey rear extension and alterations,2026-03-31,approved
+DEMO-2026-00252,background,Brighton & Hove (general),50.84648,-0.084191,demolition,Demolition of existing building and construction of replacement,2026-07-05,approved
+DEMO-2025-00253,background,Brighton & Hove (general),50.823946,-0.174802,householder,Single-storey rear extension and alterations,2025-09-11,approved
+DEMO-2025-00254,background,Brighton & Hove (general),50.842334,-0.149215,householder,Single-storey rear extension and alterations,2025-05-31,approved
+DEMO-2025-00255,background,Brighton & Hove (general),50.829975,-0.073144,demolition,Demolition of existing building and construction of replacement,2025-05-01,approved
+DEMO-2026-00256,background,Brighton & Hove (general),50.844443,-0.173414,demolition,Demolition of existing building and construction of replacement,2026-05-28,approved
+DEMO-2026-00257,background,Brighton & Hove (general),50.806427,-0.058303,shopfront,Replacement shopfront and illuminated signage,2026-06-23,approved
+DEMO-2025-00258,background,Brighton & Hove (general),50.868806,-0.151369,shopfront,Replacement shopfront and illuminated signage,2025-01-15,pending
+DEMO-2024-00259,background,Brighton & Hove (general),50.802246,-0.037498,major_residential,Erection of mixed-use residential-led building,2024-12-30,approved
+DEMO-2026-00260,background,Brighton & Hove (general),50.854176,-0.164016,householder,Single-storey rear extension and alterations,2026-01-07,pending
+DEMO-2025-00261,background,Brighton & Hove (general),50.808316,-0.02851,householder,Single-storey rear extension and alterations,2025-02-20,approved
+DEMO-2026-00262,background,Brighton & Hove (general),50.802848,-0.049536,householder,Single-storey rear extension and alterations,2026-06-20,withdrawn
+DEMO-2025-00263,background,Brighton & Hove (general),50.836746,-0.134207,householder,Single-storey rear extension and alterations,2025-06-30,approved
+DEMO-2025-00264,background,Brighton & Hove (general),50.838184,-0.169421,shopfront,Replacement shopfront and illuminated signage,2025-02-19,approved
+DEMO-2026-00265,background,Brighton & Hove (general),50.835772,-0.145781,householder,Single-storey rear extension and alterations,2026-09-13,refused
+DEMO-2025-00266,background,Brighton & Hove (general),50.86223,-0.141994,tree_works,Felling of trees and replacement planting,2025-03-26,approved
+DEMO-2025-00267,background,Brighton & Hove (general),50.831078,-0.080937,tree_works,Felling of trees and replacement planting,2025-06-26,approved
+DEMO-2025-00268,background,Brighton & Hove (general),50.836425,-0.060352,householder,Single-storey rear extension and alterations,2025-03-06,approved
+DEMO-2025-00269,background,Brighton & Hove (general),50.856409,-0.158512,householder,Single-storey rear extension and alterations,2025-02-14,approved
+DEMO-2024-00270,background,Brighton & Hove (general),50.802818,-0.038645,householder,Single-storey rear extension and alterations,2024-11-05,refused
+DEMO-2024-00271,background,Brighton & Hove (general),50.834044,-0.121399,tree_works,Felling of trees and replacement planting,2024-12-11,approved
+DEMO-2025-00272,background,Brighton & Hove (general),50.807405,-0.059067,householder,Single-storey rear extension and alterations,2025-03-30,approved
+DEMO-2024-00273,background,Brighton & Hove (general),50.851588,-0.143275,householder,Single-storey rear extension and alterations,2024-12-02,approved
+DEMO-2026-00274,background,Brighton & Hove (general),50.801892,-0.048175,householder,Single-storey rear extension and alterations,2026-01-12,approved
+DEMO-2026-00275,background,Brighton & Hove (general),50.841633,-0.218664,householder,Single-storey rear extension and alterations,2026-03-21,approved
+DEMO-2025-00276,background,Brighton & Hove (general),50.863053,-0.154505,tree_works,Felling of trees and replacement planting,2025-08-10,refused
+DEMO-2025-00277,background,Brighton & Hove (general),50.804197,-0.056944,householder,Single-storey rear extension and alterations,2025-06-19,refused
+DEMO-2025-00278,background,Brighton & Hove (general),50.827286,-0.176547,tree_works,Felling of trees and replacement planting,2025-11-21,approved
+DEMO-2026-00279,background,Brighton & Hove (general),50.831381,-0.175768,tree_works,Felling of trees and replacement planting,2026-08-14,approved
+DEMO-2026-00280,background,Brighton & Hove (general),50.832342,-0.161294,householder,Single-storey rear extension and alterations,2026-07-25,approved
+DEMO-2024-00281,background,Brighton & Hove (general),50.851533,-0.126957,basement,Excavation of basement and lightwell to front,2024-12-26,refused
+DEMO-2025-00282,background,Brighton & Hove (general),50.830307,-0.099447,householder,Single-storey rear extension and alterations,2025-03-04,refused
+DEMO-2025-00283,background,Brighton & Hove (general),50.841,-0.203845,householder,Single-storey rear extension and alterations,2025-05-25,approved
+DEMO-2025-00284,background,Brighton & Hove (general),50.854768,-0.164457,householder,Single-storey rear extension and alterations,2025-05-08,approved
+DEMO-2025-00285,background,Brighton & Hove (general),50.847883,-0.154968,major_residential,Erection of mixed-use residential-led building,2025-12-31,pending
+DEMO-2025-00286,background,Brighton & Hove (general),50.829851,-0.121832,householder,Single-storey rear extension and alterations,2025-08-30,approved
+DEMO-2024-00287,background,Brighton & Hove (general),50.835173,-0.177043,householder,Single-storey rear extension and alterations,2024-12-16,refused
+DEMO-2025-00288,background,Brighton & Hove (general),50.82501,-0.122596,householder,Single-storey rear extension and alterations,2025-07-08,pending
+DEMO-2025-00289,background,Brighton & Hove (general),50.857958,-0.141434,householder,Single-storey rear extension and alterations,2025-11-15,approved
+DEMO-2025-00290,background,Brighton & Hove (general),50.840868,-0.218527,householder,Single-storey rear extension and alterations,2025-01-16,approved
+DEMO-2026-00291,background,Brighton & Hove (general),50.858918,-0.150229,tree_works,Felling of trees and replacement planting,2026-07-24,approved
+DEMO-2024-00292,background,Brighton & Hove (general),50.845381,-0.112106,shopfront,Replacement shopfront and illuminated signage,2024-12-03,approved
+DEMO-2026-00293,background,Brighton & Hove (general),50.854656,-0.168107,householder,Single-storey rear extension and alterations,2026-09-06,pending
+DEMO-2025-00294,background,Brighton & Hove (general),50.8445,-0.21467,householder,Single-storey rear extension and alterations,2025-01-12,pending
+DEMO-2026-00295,background,Brighton & Hove (general),50.857078,-0.117049,householder,Single-storey rear extension and alterations,2026-07-04,withdrawn
+DEMO-2026-00296,background,Brighton & Hove (general),50.849653,-0.144173,demolition,Demolition of existing building and construction of replacement,2026-08-03,approved
+DEMO-2026-00297,background,Brighton & Hove (general),50.835762,-0.113774,tree_works,Felling of trees and replacement planting,2026-10-12,approved
+DEMO-2026-00298,background,Brighton & Hove (general),50.846048,-0.160303,householder,Single-storey rear extension and alterations,2026-06-26,approved
+DEMO-2026-00299,background,Brighton & Hove (general),50.834865,-0.152269,tree_works,Felling of trees and replacement planting,2026-05-30,approved
+DEMO-2026-00300,background,Brighton & Hove (general),50.843001,-0.166184,householder,Single-storey rear extension and alterations,2026-02-12,approved
+DEMO-2026-00301,background,Brighton & Hove (general),50.830651,-0.114314,demolition,Demolition of existing building and construction of replacement,2026-05-03,approved
+DEMO-2025-00302,background,Brighton & Hove (general),50.836998,-0.169836,householder,Single-storey rear extension and alterations,2025-02-28,approved
+DEMO-2025-00303,background,Brighton & Hove (general),50.849327,-0.144269,householder,Single-storey rear extension and alterations,2025-11-19,pending
+DEMO-2025-00304,background,Brighton & Hove (general),50.82787,-0.132063,demolition,Demolition of existing building and construction of replacement,2025-11-10,refused
+DEMO-2026-00305,background,Brighton & Hove (general),50.827137,-0.103262,householder,Single-storey rear extension and alterations,2026-07-09,withdrawn
+DEMO-2025-00306,background,Brighton & Hove (general),50.806561,-0.069836,householder,Single-storey rear extension and alterations,2025-10-11,refused
+DEMO-2025-00307,background,Brighton & Hove (general),50.801374,-0.038223,householder,Single-storey rear extension and alterations,2025-08-16,withdrawn
+DEMO-2026-00308,background,Brighton & Hove (general),50.850379,-0.166097,major_residential,Erection of mixed-use residential-led building,2026-02-24,pending
+DEMO-2025-00309,background,Brighton & Hove (general),50.851855,-0.157093,householder,Single-storey rear extension and alterations,2025-05-08,pending
+DEMO-2025-00310,background,Brighton & Hove (general),50.8558,-0.147679,householder,Single-storey rear extension and alterations,2025-02-26,refused
+DEMO-2025-00311,background,Brighton & Hove (general),50.848239,-0.141042,major_residential,Erection of mixed-use residential-led building,2025-10-01,pending
+DEMO-2025-00312,background,Brighton & Hove (general),50.832736,-0.131558,tree_works,Felling of trees and replacement planting,2025-08-28,approved
+DEMO-2025-00313,background,Brighton & Hove (general),50.838228,-0.070953,householder,Single-storey rear extension and alterations,2025-04-23,refused
+DEMO-2025-00314,background,Brighton & Hove (general),50.837569,-0.208736,householder,Single-storey rear extension and alterations,2025-07-16,approved
+DEMO-2025-00315,background,Brighton & Hove (general),50.847837,-0.07282,householder,Single-storey rear extension and alterations,2025-07-16,pending
+DEMO-2025-00316,background,Brighton & Hove (general),50.821674,-0.10813,tree_works,Felling of trees and replacement planting,2025-06-30,approved
+DEMO-2025-00317,background,Brighton & Hove (general),50.854077,-0.152576,demolition,Demolition of existing building and construction of replacement,2025-08-08,pending
+DEMO-2026-00318,background,Brighton & Hove (general),50.834809,-0.105273,demolition,Demolition of existing building and construction of replacement,2026-03-25,pending
+DEMO-2025-00319,background,Brighton & Hove (general),50.855202,-0.150995,major_residential,Erection of mixed-use residential-led building,2025-06-15,approved
+DEMO-2026-00320,background,Brighton & Hove (general),50.852159,-0.219793,householder,Single-storey rear extension and alterations,2026-09-16,pending
+DEMO-2026-00321,background,Brighton & Hove (general),50.84117,-0.071492,basement,Excavation of basement and lightwell to front,2026-08-10,approved
+DEMO-2025-00322,background,Brighton & Hove (general),50.853354,-0.178058,householder,Single-storey rear extension and alterations,2025-10-24,pending
+DEMO-2025-00323,background,Brighton & Hove (general),50.828446,-0.180169,householder,Single-storey rear extension and alterations,2025-07-25,refused
+DEMO-2025-00324,background,Brighton & Hove (general),50.855877,-0.150368,householder,Single-storey rear extension and alterations,2025-11-06,approved
+DEMO-2026-00325,background,Brighton & Hove (general),50.835948,-0.069289,householder,Single-storey rear extension and alterations,2026-07-12,refused
+DEMO-2026-00326,background,Brighton & Hove (general),50.861438,-0.155369,demolition,Demolition of existing building and construction of replacement,2026-03-10,approved
+DEMO-2026-00327,background,Brighton & Hove (general),50.845411,-0.152855,demolition,Demolition of existing building and construction of replacement,2026-06-29,approved
+DEMO-2025-00328,background,Brighton & Hove (general),50.845491,-0.221541,householder,Single-storey rear extension and alterations,2025-11-22,refused
+DEMO-2026-00329,background,Brighton & Hove (general),50.826751,-0.18473,householder,Single-storey rear extension and alterations,2026-02-27,refused
+DEMO-2025-00330,background,Brighton & Hove (general),50.824763,-0.177274,householder,Single-storey rear extension and alterations,2025-06-16,approved
+DEMO-2026-00331,background,Brighton & Hove (general),50.853575,-0.161862,householder,Single-storey rear extension and alterations,2026-05-09,approved
+DEMO-2025-00332,background,Brighton & Hove (general),50.801343,-0.04732,shopfront,Replacement shopfront and illuminated signage,2025-04-11,withdrawn
+DEMO-2026-00333,background,Brighton & Hove (general),50.802443,-0.055164,major_residential,Erection of mixed-use residential-led building,2026-04-11,pending
+DEMO-2026-00334,background,Brighton & Hove (general),50.855406,-0.152917,householder,Single-storey rear extension and alterations,2026-07-23,withdrawn
+DEMO-2025-00335,background,Brighton & Hove (general),50.85003,-0.076974,householder,Single-storey rear extension and alterations,2025-02-21,approved
+DEMO-2026-00336,background,Brighton & Hove (general),50.840352,-0.146614,shopfront,Replacement shopfront and illuminated signage,2026-02-22,pending
+DEMO-2025-00337,background,Brighton & Hove (general),50.878943,-0.157763,major_residential,Erection of mixed-use residential-led building,2025-01-27,pending
+DEMO-2026-00338,background,Brighton & Hove (general),50.843406,-0.188862,householder,Single-storey rear extension and alterations,2026-04-26,refused
+DEMO-2025-00339,background,Brighton & Hove (general),50.841416,-0.194023,householder,Single-storey rear extension and alterations,2025-01-31,approved
+DEMO-2026-00340,background,Brighton & Hove (general),50.809799,-0.038881,shopfront,Replacement shopfront and illuminated signage,2026-09-01,approved
+DEMO-2025-00341,background,Brighton & Hove (general),50.854539,-0.144377,householder,Single-storey rear extension and alterations,2025-02-26,approved
+DEMO-2026-00342,background,Brighton & Hove (general),50.858248,-0.140733,demolition,Demolition of existing building and construction of replacement,2026-09-20,approved
+DEMO-2026-00343,background,Brighton & Hove (general),50.833292,-0.133103,householder,Single-storey rear extension and alterations,2026-06-11,withdrawn
+DEMO-2026-00344,background,Brighton & Hove (general),50.838802,-0.091865,householder,Single-storey rear extension and alterations,2026-01-09,approved
+DEMO-2026-00345,background,Brighton & Hove (general),50.811264,-0.04378,householder,Single-storey rear extension and alterations,2026-06-28,approved
+DEMO-2026-00346,background,Brighton & Hove (general),50.860202,-0.156537,householder,Single-storey rear extension and alterations,2026-06-26,approved
+DEMO-2026-00347,background,Brighton & Hove (general),50.810749,-0.030308,shopfront,Replacement shopfront and illuminated signage,2026-09-08,approved
+DEMO-2025-00348,background,Brighton & Hove (general),50.846125,-0.182121,householder,Single-storey rear extension and alterations,2025-05-31,approved
+DEMO-2026-00349,background,Brighton & Hove (general),50.853659,-0.148073,householder,Single-storey rear extension and alterations,2026-01-03,approved
+DEMO-2025-00350,background,Brighton & Hove (general),50.82847,-0.127744,basement,Excavation of basement and lightwell to front,2025-01-30,refused
+DEMO-2026-00351,background,Brighton & Hove (general),50.823926,-0.102248,tree_works,Felling of trees and replacement planting,2026-02-26,approved
+DEMO-2025-00352,background,Brighton & Hove (general),50.832763,-0.181491,householder,Single-storey rear extension and alterations,2025-03-22,approved
+DEMO-2025-00353,background,Brighton & Hove (general),50.853992,-0.122776,householder,Single-storey rear extension and alterations,2025-12-25,refused
+DEMO-2026-00354,background,Brighton & Hove (general),50.854531,-0.156417,householder,Single-storey rear extension and alterations,2026-01-10,approved
+DEMO-2025-00355,background,Brighton & Hove (general),50.803569,-0.046101,householder,Single-storey rear extension and alterations,2025-10-18,refused
+DEMO-2025-00356,background,Brighton & Hove (general),50.840017,-0.060695,householder,Single-storey rear extension and alterations,2025-11-04,refused
+DEMO-2026-00357,background,Brighton & Hove (general),50.815847,-0.047491,householder,Single-storey rear extension and alterations,2026-05-09,approved
+DEMO-2026-00358,background,Brighton & Hove (general),50.843541,-0.092658,householder,Single-storey rear extension and alterations,2026-06-12,refused
+DEMO-2025-00359,background,Brighton & Hove (general),50.805745,-0.065309,shopfront,Replacement shopfront and illuminated signage,2025-10-28,approved
+DEMO-2026-00360,background,Brighton & Hove (general),50.833099,-0.175184,householder,Single-storey rear extension and alterations,2026-01-19,withdrawn
+DEMO-2026-00361,background,Brighton & Hove (general),50.809069,-0.051996,householder,Single-storey rear extension and alterations,2026-09-15,approved
+DEMO-2025-00362,background,Brighton & Hove (general),50.840491,-0.072347,householder,Single-storey rear extension and alterations,2025-02-14,approved
+DEMO-2025-00363,background,Brighton & Hove (general),50.806521,-0.04029,householder,Single-storey rear extension and alterations,2025-02-12,approved
+DEMO-2025-00364,background,Brighton & Hove (general),50.850332,-0.209225,shopfront,Replacement shopfront and illuminated signage,2025-01-10,approved
+DEMO-2026-00365,background,Brighton & Hove (general),50.856713,-0.127252,householder,Single-storey rear extension and alterations,2026-03-17,refused
+DEMO-2025-00366,background,Brighton & Hove (general),50.828284,-0.180297,shopfront,Replacement shopfront and illuminated signage,2025-08-25,pending
+DEMO-2026-00367,background,Brighton & Hove (general),50.829955,-0.195818,householder,Single-storey rear extension and alterations,2026-05-15,pending
+DEMO-2026-00368,background,Brighton & Hove (general),50.868344,-0.152909,householder,Single-storey rear extension and alterations,2026-03-03,approved
+DEMO-2025-00369,background,Brighton & Hove (general),50.831948,-0.16738,householder,Single-storey rear extension and alterations,2025-07-21,approved
+DEMO-2026-00370,background,Brighton & Hove (general),50.836905,-0.12423,tree_works,Felling of trees and replacement planting,2026-08-29,refused
+DEMO-2026-00371,background,Brighton & Hove (general),50.816676,-0.05865,demolition,Demolition of existing building and construction of replacement,2026-05-30,approved
+DEMO-2025-00372,background,Brighton & Hove (general),50.836575,-0.176651,shopfront,Replacement shopfront and illuminated signage,2025-05-02,approved
+DEMO-2025-00373,background,Brighton & Hove (general),50.85454,-0.132985,householder,Single-storey rear extension and alterations,2025-07-29,pending
+DEMO-2025-00374,background,Brighton & Hove (general),50.855726,-0.112853,householder,Single-storey rear extension and alterations,2025-06-16,refused
+DEMO-2025-00375,background,Brighton & Hove (general),50.834063,-0.08135,tree_works,Felling of trees and replacement planting,2025-03-01,approved
+DEMO-2025-00376,background,Brighton & Hove (general),50.840639,-0.175076,householder,Single-storey rear extension and alterations,2025-03-12,approved
+DEMO-2026-00377,background,Brighton & Hove (general),50.837967,-0.101048,householder,Single-storey rear extension and alterations,2026-09-11,approved
+DEMO-2025-00378,background,Brighton & Hove (general),50.847039,-0.149243,householder,Single-storey rear extension and alterations,2025-09-09,approved
+DEMO-2025-00379,background,Brighton & Hove (general),50.849419,-0.176644,householder,Single-storey rear extension and alterations,2025-08-13,pending
+DEMO-2026-00380,background,Brighton & Hove (general),50.831958,-0.112396,householder,Single-storey rear extension and alterations,2026-04-16,pending
+DEMO-2025-00381,background,Brighton & Hove (general),50.868208,-0.150031,householder,Single-storey rear extension and alterations,2025-12-22,approved
+DEMO-2026-00382,background,Brighton & Hove (general),50.85399,-0.15122,householder,Single-storey rear extension and alterations,2026-09-12,approved
+DEMO-2026-00383,background,Brighton & Hove (general),50.857846,-0.145356,shopfront,Replacement shopfront and illuminated signage,2026-06-25,pending
+DEMO-2025-00384,background,Brighton & Hove (general),50.829786,-0.187507,householder,Single-storey rear extension and alterations,2025-10-14,withdrawn
+DEMO-2025-00385,background,Brighton & Hove (general),50.805301,-0.03309,demolition,Demolition of existing building and construction of replacement,2025-08-06,approved
+DEMO-2026-00386,background,Brighton & Hove (general),50.864586,-0.14644,householder,Single-storey rear extension and alterations,2026-10-23,approved
+DEMO-2026-00387,background,Brighton & Hove (general),50.828853,-0.13097,householder,Single-storey rear extension and alterations,2026-04-17,approved
+DEMO-2026-00388,background,Brighton & Hove (general),50.805978,-0.058437,householder,Single-storey rear extension and alterations,2026-09-22,approved
+DEMO-2025-00389,background,Brighton & Hove (general),50.811081,-0.0427,basement,Excavation of basement and lightwell to front,2025-02-05,approved
+DEMO-2026-00390,background,Brighton & Hove (general),50.805394,-0.047737,demolition,Demolition of existing building and construction of replacement,2026-07-12,pending
+DEMO-2026-00391,background,Brighton & Hove (general),50.855581,-0.121835,demolition,Demolition of existing building and construction of replacement,2026-02-12,approved
+DEMO-2025-00392,background,Brighton & Hove (general),50.844583,-0.145946,householder,Single-storey rear extension and alterations,2025-02-19,approved
+DEMO-2026-00393,background,Brighton & Hove (general),50.849907,-0.178534,tree_works,Felling of trees and replacement planting,2026-01-02,approved
+DEMO-2026-00394,background,Brighton & Hove (general),50.830312,-0.18186,householder,Single-storey rear extension and alterations,2026-03-24,refused
+DEMO-2024-00395,background,Brighton & Hove (general),50.825819,-0.128247,householder,Single-storey rear extension and alterations,2024-11-18,approved
+DEMO-2025-00396,background,Brighton & Hove (general),50.859744,-0.150169,householder,Single-storey rear extension and alterations,2025-09-17,approved
+DEMO-2026-00397,background,Brighton & Hove (general),50.830804,-0.077002,householder,Single-storey rear extension and alterations,2026-06-21,withdrawn
+DEMO-2025-00398,background,Brighton & Hove (general),50.866311,-0.151519,householder,Single-storey rear extension and alterations,2025-06-02,approved
+DEMO-2025-00399,background,Brighton & Hove (general),50.828063,-0.109881,shopfront,Replacement shopfront and illuminated signage,2025-09-12,pending
+DEMO-2025-00400,background,Brighton & Hove (general),50.834524,-0.196661,householder,Single-storey rear extension and alterations,2025-09-02,approved
+DEMO-2025-00401,background,Brighton & Hove (general),50.812734,-0.056107,tree_works,Felling of trees and replacement planting,2025-06-12,approved
+DEMO-2026-00402,background,Brighton & Hove (general),50.836897,-0.218571,householder,Single-storey rear extension and alterations,2026-08-05,approved
+DEMO-2026-00403,background,Brighton & Hove (general),50.841493,-0.171667,householder,Single-storey rear extension and alterations,2026-06-20,approved
+DEMO-2025-00404,background,Brighton & Hove (general),50.8533,-0.109883,householder,Single-storey rear extension and alterations,2025-02-19,pending
+DEMO-2026-00405,background,Brighton & Hove (general),50.852164,-0.16242,householder,Single-storey rear extension and alterations,2026-10-07,approved
+DEMO-2026-00406,background,Brighton & Hove (general),50.844554,-0.209046,householder,Single-storey rear extension and alterations,2026-08-10,approved
+DEMO-2025-00407,background,Brighton & Hove (general),50.821086,-0.108038,householder,Single-storey rear extension and alterations,2025-06-22,approved
+DEMO-2026-00408,background,Brighton & Hove (general),50.841126,-0.15433,householder,Single-storey rear extension and alterations,2026-07-28,pending
+DEMO-2025-00409,background,Brighton & Hove (general),50.807068,-0.054156,householder,Single-storey rear extension and alterations,2025-01-30,approved
+DEMO-2026-00410,background,Brighton & Hove (general),50.824277,-0.091725,householder,Single-storey rear extension and alterations,2026-10-09,withdrawn
+DEMO-2026-00411,background,Brighton & Hove (general),50.813882,-0.031771,tree_works,Felling of trees and replacement planting,2026-03-08,pending
+DEMO-2026-00412,background,Brighton & Hove (general),50.826228,-0.109217,tree_works,Felling of trees and replacement planting,2026-03-10,approved
+DEMO-2025-00413,background,Brighton & Hove (general),50.834039,-0.179949,householder,Single-storey rear extension and alterations,2025-01-14,approved
+DEMO-2026-00414,background,Brighton & Hove (general),50.853975,-0.1233,tree_works,Felling of trees and replacement planting,2026-08-11,refused
+DEMO-2024-00415,background,Brighton & Hove (general),50.858572,-0.123115,householder,Single-storey rear extension and alterations,2024-11-28,withdrawn
+DEMO-2025-00416,background,Brighton & Hove (general),50.843319,-0.185043,householder,Single-storey rear extension and alterations,2025-05-21,approved
+DEMO-2025-00417,background,Brighton & Hove (general),50.802885,-0.046464,major_residential,Erection of mixed-use residential-led building,2025-02-19,approved
+DEMO-2026-00418,background,Brighton & Hove (general),50.853266,-0.168754,householder,Single-storey rear extension and alterations,2026-05-23,approved
+DEMO-2025-00419,background,Brighton & Hove (general),50.824559,-0.092188,householder,Single-storey rear extension and alterations,2025-04-29,approved
+DEMO-2026-00420,background,Brighton & Hove (general),50.82717,-0.17713,tree_works,Felling of trees and replacement planting,2026-08-26,refused
+DEMO-2026-00421,background,Brighton & Hove (general),50.860045,-0.126254,householder,Single-storey rear extension and alterations,2026-03-17,approved
+DEMO-2024-00422,background,Brighton & Hove (general),50.836337,-0.102607,householder,Single-storey rear extension and alterations,2024-11-19,approved
+DEMO-2024-00423,background,Brighton & Hove (general),50.848992,-0.152517,householder,Single-storey rear extension and alterations,2024-11-23,approved
+DEMO-2024-00424,background,Brighton & Hove (general),50.857438,-0.145971,demolition,Demolition of existing building and construction of replacement,2024-12-07,approved
+DEMO-2026-00425,background,Brighton & Hove (general),50.825412,-0.101616,householder,Single-storey rear extension and alterations,2026-01-01,pending
+DEMO-2026-00426,background,Brighton & Hove (general),50.806858,-0.055301,householder,Single-storey rear extension and alterations,2026-06-05,approved
+DEMO-2025-00427,background,Brighton & Hove (general),50.844611,-0.142383,tree_works,Felling of trees and replacement planting,2025-05-30,pending
+DEMO-2026-00428,background,Brighton & Hove (general),50.815417,-0.063525,shopfront,Replacement shopfront and illuminated signage,2026-07-05,pending
+DEMO-2024-00429,background,Brighton & Hove (general),50.860651,-0.146727,demolition,Demolition of existing building and construction of replacement,2024-12-30,approved
+DEMO-2026-00430,background,Brighton & Hove (general),50.806376,-0.058672,demolition,Demolition of existing building and construction of replacement,2026-06-30,pending
+DEMO-2026-00431,background,Brighton & Hove (general),50.831929,-0.12212,householder,Single-storey rear extension and alterations,2026-09-25,pending
+DEMO-2026-00432,background,Brighton & Hove (general),50.844286,-0.182232,householder,Single-storey rear extension and alterations,2026-05-21,approved
+DEMO-2026-00433,background,Brighton & Hove (general),50.855239,-0.128114,tree_works,Felling of trees and replacement planting,2026-04-02,approved
+DEMO-2026-00434,background,Brighton & Hove (general),50.804033,-0.035489,householder,Single-storey rear extension and alterations,2026-07-28,refused
+DEMO-2024-00435,background,Brighton & Hove (general),50.83289,-0.173038,householder,Single-storey rear extension and alterations,2024-12-05,approved
+DEMO-2025-00436,background,Brighton & Hove (general),50.831213,-0.165347,tree_works,Felling of trees and replacement planting,2025-04-15,approved
+DEMO-2025-00437,background,Brighton & Hove (general),50.830176,-0.10051,major_residential,Erection of mixed-use residential-led building,2025-02-24,approved
+DEMO-2025-00438,background,Brighton & Hove (general),50.831745,-0.173702,householder,Single-storey rear extension and alterations,2025-11-12,pending
+DEMO-2026-00439,background,Brighton & Hove (general),50.836335,-0.192068,tree_works,Felling of trees and replacement planting,2026-05-10,withdrawn
+DEMO-2026-00440,background,Brighton & Hove (general),50.839982,-0.222889,demolition,Demolition of existing building and construction of replacement,2026-02-03,withdrawn
+DEMO-2026-00441,background,Brighton & Hove (general),50.822121,-0.112801,householder,Single-storey rear extension and alterations,2026-07-22,approved
+DEMO-2025-00442,background,Brighton & Hove (general),50.808476,-0.033347,householder,Single-storey rear extension and alterations,2025-03-12,withdrawn
+DEMO-2026-00443,background,Brighton & Hove (general),50.832021,-0.168476,major_residential,Erection of mixed-use residential-led building,2026-05-28,approved
+DEMO-2025-00444,background,Brighton & Hove (general),50.859005,-0.148819,householder,Single-storey rear extension and alterations,2025-04-18,approved
+DEMO-2025-00445,background,Brighton & Hove (general),50.82899,-0.099213,basement,Excavation of basement and lightwell to front,2025-05-30,pending
+DEMO-2026-00446,background,Brighton & Hove (general),50.842625,-0.149574,householder,Single-storey rear extension and alterations,2026-04-03,withdrawn
+DEMO-2026-00447,background,Brighton & Hove (general),50.852058,-0.160818,shopfront,Replacement shopfront and illuminated signage,2026-10-20,approved
+DEMO-2026-00448,background,Brighton & Hove (general),50.857727,-0.147769,householder,Single-storey rear extension and alterations,2026-02-14,pending
+DEMO-2024-00449,background,Brighton & Hove (general),50.852858,-0.146814,householder,Single-storey rear extension and alterations,2024-12-03,refused
+DEMO-2026-00450,background,Brighton & Hove (general),50.838739,-0.208309,major_residential,Erection of mixed-use residential-led building,2026-02-20,pending
+DEMO-2024-00451,background,Brighton & Hove (general),50.85881,-0.164749,householder,Single-storey rear extension and alterations,2024-12-08,pending
+DEMO-2026-00452,background,Brighton & Hove (general),50.84483,-0.14306,demolition,Demolition of existing building and construction of replacement,2026-08-27,approved
+DEMO-2026-00453,background,Brighton & Hove (general),50.855378,-0.142725,householder,Single-storey rear extension and alterations,2026-04-14,approved
+DEMO-2025-00454,background,Brighton & Hove (general),50.850471,-0.151754,householder,Single-storey rear extension and alterations,2025-03-04,pending
+DEMO-2025-00455,background,Brighton & Hove (general),50.834226,-0.08069,householder,Single-storey rear extension and alterations,2025-01-27,refused
+DEMO-2025-00456,background,Brighton & Hove (general),50.864747,-0.149479,tree_works,Felling of trees and replacement planting,2025-03-23,refused
+DEMO-2026-00457,background,Brighton & Hove (general),50.838439,-0.191997,householder,Single-storey rear extension and alterations,2026-10-01,approved
+DEMO-2025-00458,background,Brighton & Hove (general),50.850189,-0.159026,householder,Single-storey rear extension and alterations,2025-09-25,approved
+DEMO-2026-00459,background,Brighton & Hove (general),50.822478,-0.097972,householder,Single-storey rear extension and alterations,2026-06-07,approved
+DEMO-2026-00460,background,Brighton & Hove (general),50.834551,-0.17332,major_residential,Erection of mixed-use residential-led building,2026-02-14,approved
+DEMO-2026-00461,background,Brighton & Hove (general),50.861362,-0.148898,tree_works,Felling of trees and replacement planting,2026-01-25,approved
+DEMO-2025-00462,background,Brighton & Hove (general),50.838729,-0.206342,householder,Single-storey rear extension and alterations,2025-02-22,approved
+DEMO-2026-00463,background,Brighton & Hove (general),50.863994,-0.143303,householder,Single-storey rear extension and alterations,2026-09-18,refused
+DEMO-2025-00464,background,Brighton & Hove (general),50.827689,-0.1026,basement,Excavation of basement and lightwell to front,2025-06-20,pending
+DEMO-2026-00465,background,Brighton & Hove (general),50.826573,-0.174349,tree_works,Felling of trees and replacement planting,2026-01-25,approved
+DEMO-2026-00466,background,Brighton & Hove (general),50.83417,-0.167605,householder,Single-storey rear extension and alterations,2026-04-26,pending
+DEMO-2026-00467,background,Brighton & Hove (general),50.825976,-0.106472,householder,Single-storey rear extension and alterations,2026-03-25,approved
+DEMO-2026-00468,background,Brighton & Hove (general),50.857424,-0.125442,demolition,Demolition of existing building and construction of replacement,2026-09-21,pending
+DEMO-2025-00469,background,Brighton & Hove (general),50.851784,-0.141736,householder,Single-storey rear extension and alterations,2025-03-22,approved
+DEMO-2025-00470,background,Brighton & Hove (general),50.812598,-0.04642,householder,Single-storey rear extension and alterations,2025-11-21,approved
+DEMO-2025-00471,background,Brighton & Hove (general),50.841243,-0.153714,tree_works,Felling of trees and replacement planting,2025-08-27,pending
+DEMO-2025-00472,background,Brighton & Hove (general),50.834166,-0.177714,tree_works,Felling of trees and replacement planting,2025-10-08,approved
+DEMO-2025-00473,background,Brighton & Hove (general),50.858377,-0.14754,householder,Single-storey rear extension and alterations,2025-02-04,approved
+DEMO-2025-00474,background,Brighton & Hove (general),50.857687,-0.125127,householder,Single-storey rear extension and alterations,2025-02-12,approved
+DEMO-2025-00475,background,Brighton & Hove (general),50.862107,-0.157823,householder,Single-storey rear extension and alterations,2025-05-06,approved
+DEMO-2025-00476,background,Brighton & Hove (general),50.81057,-0.039353,basement,Excavation of basement and lightwell to front,2025-06-16,approved
+DEMO-2025-00477,background,Brighton & Hove (general),50.828732,-0.130747,shopfront,Replacement shopfront and illuminated signage,2025-09-19,approved
+DEMO-2026-00478,background,Brighton & Hove (general),50.849557,-0.120559,householder,Single-storey rear extension and alterations,2026-02-02,pending
+DEMO-2026-00479,background,Brighton & Hove (general),50.828779,-0.181326,householder,Single-storey rear extension and alterations,2026-02-12,approved
+DEMO-2025-00480,background,Brighton & Hove (general),50.803639,-0.059406,householder,Single-storey rear extension and alterations,2025-08-17,approved
+DEMO-2025-00481,background,Brighton & Hove (general),50.850689,-0.152651,demolition,Demolition of existing building and construction of replacement,2025-08-13,refused
+DEMO-2025-00482,background,Brighton & Hove (general),50.848519,-0.156379,householder,Single-storey rear extension and alterations,2025-04-18,pending
+DEMO-2026-00483,background,Brighton & Hove (general),50.830854,-0.158984,householder,Single-storey rear extension and alterations,2026-01-09,approved
+DEMO-2025-00484,background,Brighton & Hove (general),50.841867,-0.073664,householder,Single-storey rear extension and alterations,2025-06-01,approved
+DEMO-2024-00485,background,Brighton & Hove (general),50.845174,-0.148887,shopfront,Replacement shopfront and illuminated signage,2024-11-02,approved
+DEMO-2025-00486,background,Brighton & Hove (general),50.846667,-0.215847,householder,Single-storey rear extension and alterations,2025-08-18,approved
+DEMO-2025-00487,background,Brighton & Hove (general),50.840907,-0.210765,householder,Single-storey rear extension and alterations,2025-10-04,approved
+DEMO-2025-00488,background,Brighton & Hove (general),50.852226,-0.227827,householder,Single-storey rear extension and alterations,2025-04-17,pending
+DEMO-2026-00489,background,Brighton & Hove (general),50.848377,-0.153419,householder,Single-storey rear extension and alterations,2026-01-28,refused
+DEMO-2025-00490,background,Brighton & Hove (general),50.828985,-0.167722,demolition,Demolition of existing building and construction of replacement,2025-12-05,refused
+DEMO-2026-00491,background,Brighton & Hove (general),50.836786,-0.19861,basement,Excavation of basement and lightwell to front,2026-04-13,pending
+DEMO-2026-00492,background,Brighton & Hove (general),50.834438,-0.147109,shopfront,Replacement shopfront and illuminated signage,2026-03-27,approved
+DEMO-2026-00493,background,Brighton & Hove (general),50.835485,-0.079679,householder,Single-storey rear extension and alterations,2026-03-24,approved
+DEMO-2025-00494,background,Brighton & Hove (general),50.829968,-0.187315,shopfront,Replacement shopfront and illuminated signage,2025-06-17,pending
+DEMO-2026-00495,background,Brighton & Hove (general),50.830915,-0.125056,householder,Single-storey rear extension and alterations,2026-06-03,approved
+DEMO-2025-00496,background,Brighton & Hove (general),50.812909,-0.067459,householder,Single-storey rear extension and alterations,2025-12-06,pending
+DEMO-2025-00497,background,Brighton & Hove (general),50.810052,-0.067745,householder,Single-storey rear extension and alterations,2025-09-30,refused
+DEMO-2026-00498,background,Brighton & Hove (general),50.862988,-0.152748,major_residential,Erection of mixed-use residential-led building,2026-02-08,approved
+DEMO-2025-00499,background,Brighton & Hove (general),50.860076,-0.116152,householder,Single-storey rear extension and alterations,2025-07-02,refused
+DEMO-2025-00500,background,Brighton & Hove (general),50.854782,-0.128899,householder,Single-storey rear extension and alterations,2025-11-11,approved
+DEMO-2026-00501,background,Brighton & Hove (general),50.866415,-0.157068,householder,Single-storey rear extension and alterations,2026-05-19,pending
+DEMO-2026-00502,background,Brighton & Hove (general),50.832229,-0.166227,shopfront,Replacement shopfront and illuminated signage,2026-08-15,approved
+DEMO-2026-00503,background,Brighton & Hove (general),50.831792,-0.171611,shopfront,Replacement shopfront and illuminated signage,2026-09-14,refused
+DEMO-2025-00504,background,Brighton & Hove (general),50.831957,-0.178122,basement,Excavation of basement and lightwell to front,2025-11-14,approved
+DEMO-2025-00505,background,Brighton & Hove (general),50.829981,-0.118064,householder,Single-storey rear extension and alterations,2025-11-03,pending
+DEMO-2026-00506,background,Brighton & Hove (general),50.828888,-0.138112,householder,Single-storey rear extension and alterations,2026-06-08,refused
+DEMO-2025-00507,background,Brighton & Hove (general),50.857618,-0.145983,householder,Single-storey rear extension and alterations,2025-06-13,approved
+DEMO-2026-00508,background,Brighton & Hove (general),50.853179,-0.140922,basement,Excavation of basement and lightwell to front,2026-07-03,approved
+DEMO-2025-00509,background,Brighton & Hove (general),50.858913,-0.143703,shopfront,Replacement shopfront and illuminated signage,2025-10-20,approved
+DEMO-2025-00510,background,Brighton & Hove (general),50.824482,-0.132768,shopfront,Replacement shopfront and illuminated signage,2025-02-19,refused
+DEMO-2025-00511,background,Brighton & Hove (general),50.858728,-0.127244,tree_works,Felling of trees and replacement planting,2025-01-15,refused
+DEMO-2026-00512,background,Brighton & Hove (general),50.804862,-0.035526,householder,Single-storey rear extension and alterations,2026-07-18,approved
+DEMO-2024-00513,background,Brighton & Hove (general),50.851071,-0.139315,householder,Single-storey rear extension and alterations,2024-12-31,pending
+DEMO-2025-00514,background,Brighton & Hove (general),50.826123,-0.107742,householder,Single-storey rear extension and alterations,2025-06-07,pending
+DEMO-2025-00515,background,Brighton & Hove (general),50.861228,-0.153677,tree_works,Felling of trees and replacement planting,2025-07-21,refused
+DEMO-2025-00516,background,Brighton & Hove (general),50.855798,-0.115779,tree_works,Felling of trees and replacement planting,2025-03-05,approved
+DEMO-2025-00517,background,Brighton & Hove (general),50.865515,-0.143654,tree_works,Felling of trees and replacement planting,2025-06-27,approved
+DEMO-2026-00518,background,Brighton & Hove (general),50.857207,-0.116162,householder,Single-storey rear extension and alterations,2026-05-15,approved
+DEMO-2024-00519,background,Brighton & Hove (general),50.864124,-0.15489,shopfront,Replacement shopfront and illuminated signage,2024-11-06,pending
+DEMO-2026-00520,background,Brighton & Hove (general),50.806293,-0.060459,householder,Single-storey rear extension and alterations,2026-06-01,approved
+DEMO-2026-00521,background,Brighton & Hove (general),50.859289,-0.149467,householder,Single-storey rear extension and alterations,2026-07-22,approved
+DEMO-2025-00522,background,Brighton & Hove (general),50.841306,-0.082212,householder,Single-storey rear extension and alterations,2025-07-14,pending
+DEMO-2025-00523,background,Brighton & Hove (general),50.852279,-0.145766,tree_works,Felling of trees and replacement planting,2025-03-04,approved
+DEMO-2026-00524,background,Brighton & Hove (general),50.840837,-0.073418,basement,Excavation of basement and lightwell to front,2026-01-19,pending
+DEMO-2025-00525,background,Brighton & Hove (general),50.826457,-0.176694,major_residential,Erection of mixed-use residential-led building,2025-02-20,pending
+DEMO-2025-00526,background,Brighton & Hove (general),50.856401,-0.163659,shopfront,Replacement shopfront and illuminated signage,2025-07-06,withdrawn
+DEMO-2026-00527,background,Brighton & Hove (general),50.835877,-0.089358,tree_works,Felling of trees and replacement planting,2026-09-01,approved
+DEMO-2026-00528,background,Brighton & Hove (general),50.84165,-0.084817,householder,Single-storey rear extension and alterations,2026-10-27,approved
+DEMO-2026-00529,background,Brighton & Hove (general),50.827729,-0.094083,demolition,Demolition of existing building and construction of replacement,2026-05-15,withdrawn
+DEMO-2025-00530,background,Brighton & Hove (general),50.810897,-0.048464,demolition,Demolition of existing building and construction of replacement,2025-06-15,approved
+DEMO-2026-00531,background,Brighton & Hove (general),50.854048,-0.126811,basement,Excavation of basement and lightwell to front,2026-03-13,approved
+DEMO-2026-00532,background,Brighton & Hove (general),50.803971,-0.045079,major_residential,Erection of mixed-use residential-led building,2026-04-20,pending
+DEMO-2025-00533,background,Brighton & Hove (general),50.858262,-0.14515,basement,Excavation of basement and lightwell to front,2025-08-29,approved
+DEMO-2026-00534,background,Brighton & Hove (general),50.855827,-0.147312,householder,Single-storey rear extension and alterations,2026-02-10,approved
+DEMO-2024-00535,background,Brighton & Hove (general),50.85832,-0.156763,householder,Single-storey rear extension and alterations,2024-11-24,approved
+DEMO-2025-00536,background,Brighton & Hove (general),50.839569,-0.086348,tree_works,Felling of trees and replacement planting,2025-04-20,pending
+DEMO-2025-00537,background,Brighton & Hove (general),50.837694,-0.076118,householder,Single-storey rear extension and alterations,2025-11-20,pending
+DEMO-2025-00538,background,Brighton & Hove (general),50.834897,-0.080567,householder,Single-storey rear extension and alterations,2025-03-13,pending
+DEMO-2025-00539,background,Brighton & Hove (general),50.846499,-0.11924,tree_works,Felling of trees and replacement planting,2025-03-12,refused
+DEMO-2026-00540,background,Brighton & Hove (general),50.821751,-0.102499,householder,Single-storey rear extension and alterations,2026-07-01,approved
+DEMO-2026-00541,background,Brighton & Hove (general),50.872387,-0.154043,householder,Single-storey rear extension and alterations,2026-10-24,approved
+DEMO-2025-00542,background,Brighton & Hove (general),50.843169,-0.204424,householder,Single-storey rear extension and alterations,2025-12-15,withdrawn
+DEMO-2026-00543,background,Brighton & Hove (general),50.846322,-0.121723,householder,Single-storey rear extension and alterations,2026-07-29,approved
+DEMO-2026-00544,background,Brighton & Hove (general),50.852769,-0.160818,householder,Single-storey rear extension and alterations,2026-10-02,pending
+DEMO-2025-00545,background,Brighton & Hove (general),50.872698,-0.141055,householder,Single-storey rear extension and alterations,2025-02-27,approved
+DEMO-2025-00546,background,Brighton & Hove (general),50.842636,-0.086572,shopfront,Replacement shopfront and illuminated signage,2025-09-20,approved
+DEMO-2025-00547,background,Brighton & Hove (general),50.840803,-0.159923,basement,Excavation of basement and lightwell to front,2025-08-08,approved
+DEMO-2025-00548,background,Brighton & Hove (general),50.867732,-0.154621,householder,Single-storey rear extension and alterations,2025-01-09,refused
+DEMO-2026-00549,background,Brighton & Hove (general),50.829121,-0.117813,demolition,Demolition of existing building and construction of replacement,2026-05-09,approved
+DEMO-2025-00550,background,Brighton & Hove (general),50.834574,-0.176178,householder,Single-storey rear extension and alterations,2025-09-27,withdrawn
+DEMO-2025-00551,background,Brighton & Hove (general),50.806199,-0.043544,demolition,Demolition of existing building and construction of replacement,2025-10-13,approved
+DEMO-2025-00552,background,Brighton & Hove (general),50.854292,-0.130168,householder,Single-storey rear extension and alterations,2025-03-01,approved
+DEMO-2025-00553,background,Brighton & Hove (general),50.849634,-0.156964,householder,Single-storey rear extension and alterations,2025-03-18,withdrawn
+DEMO-2026-00554,background,Brighton & Hove (general),50.842404,-0.086998,householder,Single-storey rear extension and alterations,2026-08-27,refused
+DEMO-2024-00555,background,Brighton & Hove (general),50.831945,-0.100095,basement,Excavation of basement and lightwell to front,2024-12-02,approved
+DEMO-2025-00556,background,Brighton & Hove (general),50.837455,-0.088756,householder,Single-storey rear extension and alterations,2025-04-03,approved
+DEMO-2025-00557,background,Brighton & Hove (general),50.85774,-0.161237,demolition,Demolition of existing building and construction of replacement,2025-06-22,approved
+DEMO-2025-00558,background,Brighton & Hove (general),50.853183,-0.138876,householder,Single-storey rear extension and alterations,2025-10-04,approved
+DEMO-2026-00559,background,Brighton & Hove (general),50.805747,-0.061286,demolition,Demolition of existing building and construction of replacement,2026-01-21,approved
+DEMO-2025-00560,background,Brighton & Hove (general),50.849404,-0.123507,householder,Single-storey rear extension and alterations,2025-10-26,approved
+DEMO-2025-00561,background,Brighton & Hove (general),50.864206,-0.162331,householder,Single-storey rear extension and alterations,2025-01-11,approved
+DEMO-2025-00562,background,Brighton & Hove (general),50.80515,-0.057776,demolition,Demolition of existing building and construction of replacement,2025-05-30,pending
+DEMO-2026-00563,background,Brighton & Hove (general),50.836776,-0.077242,householder,Single-storey rear extension and alterations,2026-07-02,approved
+DEMO-2026-00564,background,Brighton & Hove (general),50.834416,-0.189132,tree_works,Felling of trees and replacement planting,2026-02-01,approved
+DEMO-2026-00565,background,Brighton & Hove (general),50.830856,-0.090877,householder,Single-storey rear extension and alterations,2026-03-04,pending
+DEMO-2026-00566,background,Brighton & Hove (general),50.831283,-0.098518,householder,Single-storey rear extension and alterations,2026-03-03,approved
+DEMO-2026-00567,background,Brighton & Hove (general),50.876442,-0.145217,tree_works,Felling of trees and replacement planting,2026-05-26,refused
+DEMO-2024-00568,background,Brighton & Hove (general),50.812034,-0.057148,householder,Single-storey rear extension and alterations,2024-12-03,refused
+DEMO-2025-00569,background,Brighton & Hove (general),50.835416,-0.17908,householder,Single-storey rear extension and alterations,2025-07-01,refused
+DEMO-2025-00570,background,Brighton & Hove (general),50.805638,-0.060602,tree_works,Felling of trees and replacement planting,2025-12-20,approved
+DEMO-2025-00571,background,Brighton & Hove (general),50.843024,-0.160626,tree_works,Felling of trees and replacement planting,2025-07-29,approved
+DEMO-2026-00572,background,Brighton & Hove (general),50.839699,-0.205258,tree_works,Felling of trees and replacement planting,2026-07-19,approved
+DEMO-2025-00573,background,Brighton & Hove (general),50.837443,-0.07032,householder,Single-storey rear extension and alterations,2025-10-24,approved
+DEMO-2026-00574,background,Brighton & Hove (general),50.84642,-0.153765,major_residential,Erection of mixed-use residential-led building,2026-05-13,pending
+DEMO-2026-00575,background,Brighton & Hove (general),50.807773,-0.065169,tree_works,Felling of trees and replacement planting,2026-07-06,refused
+DEMO-2025-00576,background,Brighton & Hove (general),50.825643,-0.095429,householder,Single-storey rear extension and alterations,2025-11-22,pending
+DEMO-2026-00577,background,Brighton & Hove (general),50.847907,-0.152029,shopfront,Replacement shopfront and illuminated signage,2026-08-06,approved
+DEMO-2026-00578,background,Brighton & Hove (general),50.809717,-0.058779,demolition,Demolition of existing building and construction of replacement,2026-01-30,pending
+DEMO-2026-00579,background,Brighton & Hove (general),50.842631,-0.152523,shopfront,Replacement shopfront and illuminated signage,2026-07-27,pending
+DEMO-2025-00580,background,Brighton & Hove (general),50.85489,-0.147762,householder,Single-storey rear extension and alterations,2025-07-10,approved
+DEMO-2025-00581,background,Brighton & Hove (general),50.835109,-0.158105,householder,Single-storey rear extension and alterations,2025-10-03,pending
+DEMO-2025-00582,background,Brighton & Hove (general),50.869493,-0.135436,householder,Single-storey rear extension and alterations,2025-11-25,pending
+DEMO-2025-00583,background,Brighton & Hove (general),50.844268,-0.214637,shopfront,Replacement shopfront and illuminated signage,2025-01-17,refused
+DEMO-2025-00584,background,Brighton & Hove (general),50.854497,-0.179094,householder,Single-storey rear extension and alterations,2025-08-09,approved
+DEMO-2026-00585,background,Brighton & Hove (general),50.863757,-0.160279,tree_works,Felling of trees and replacement planting,2026-08-06,approved
+DEMO-2026-00586,background,Brighton & Hove (general),50.81179,-0.029382,householder,Single-storey rear extension and alterations,2026-02-08,approved
+DEMO-2025-00587,background,Brighton & Hove (general),50.835721,-0.171362,householder,Single-storey rear extension and alterations,2025-03-11,approved
+DEMO-2025-00588,background,Brighton & Hove (general),50.848635,-0.153331,householder,Single-storey rear extension and alterations,2025-07-07,pending
+DEMO-2025-00589,background,Brighton & Hove (general),50.828185,-0.17656,householder,Single-storey rear extension and alterations,2025-04-27,approved
+DEMO-2024-00590,background,Brighton & Hove (general),50.808876,-0.035221,householder,Single-storey rear extension and alterations,2024-11-20,pending
+DEMO-2026-00591,background,Brighton & Hove (general),50.827504,-0.196427,householder,Single-storey rear extension and alterations,2026-09-28,pending
+DEMO-2025-00592,background,Brighton & Hove (general),50.828468,-0.138628,demolition,Demolition of existing building and construction of replacement,2025-09-27,pending
+DEMO-2025-00593,background,Brighton & Hove (general),50.830846,-0.179464,shopfront,Replacement shopfront and illuminated signage,2025-06-04,approved
+DEMO-2026-00594,background,Brighton & Hove (general),50.855694,-0.146383,tree_works,Felling of trees and replacement planting,2026-01-12,approved
+DEMO-2024-00595,background,Brighton & Hove (general),50.870282,-0.13287,householder,Single-storey rear extension and alterations,2024-11-15,approved
+DEMO-2025-00596,background,Brighton & Hove (general),50.805114,-0.064287,demolition,Demolition of existing building and construction of replacement,2025-05-22,approved
+DEMO-2026-00597,background,Brighton & Hove (general),50.818995,-0.07391,shopfront,Replacement shopfront and illuminated signage,2026-04-20,pending
+DEMO-2026-00598,background,Brighton & Hove (general),50.838191,-0.082608,householder,Single-storey rear extension and alterations,2026-02-16,approved
+DEMO-2026-00599,background,Brighton & Hove (general),50.850073,-0.115891,major_residential,Erection of mixed-use residential-led building,2026-10-27,approved
+DEMO-2026-00600,background,Brighton & Hove (general),50.846705,-0.138966,householder,Single-storey rear extension and alterations,2026-02-08,pending
+DEMO-2025-00601,background,Brighton & Hove (general),50.831056,-0.094732,tree_works,Felling of trees and replacement planting,2025-10-07,approved
+DEMO-2026-00602,background,Brighton & Hove (general),50.832631,-0.10471,householder,Single-storey rear extension and alterations,2026-05-19,approved
+DEMO-2026-00603,background,Brighton & Hove (general),50.80328,-0.037578,householder,Single-storey rear extension and alterations,2026-08-10,approved
+DEMO-2026-00604,background,Brighton & Hove (general),50.861044,-0.125846,householder,Single-storey rear extension and alterations,2026-04-01,pending
+DEMO-2026-00605,background,Brighton & Hove (general),50.830038,-0.180271,householder,Single-storey rear extension and alterations,2026-10-15,pending
+DEMO-2026-00606,background,Brighton & Hove (general),50.856053,-0.166551,shopfront,Replacement shopfront and illuminated signage,2026-06-03,approved
+DEMO-2026-00607,background,Brighton & Hove (general),50.832618,-0.187261,householder,Single-storey rear extension and alterations,2026-07-13,pending
+DEMO-2025-00608,background,Brighton & Hove (general),50.833972,-0.078152,demolition,Demolition of existing building and construction of replacement,2025-02-10,refused
+DEMO-2026-00609,background,Brighton & Hove (general),50.854025,-0.16088,tree_works,Felling of trees and replacement planting,2026-04-16,pending
+DEMO-2025-00610,background,Brighton & Hove (general),50.851411,-0.164849,shopfront,Replacement shopfront and illuminated signage,2025-09-20,approved
+DEMO-2025-00611,background,Brighton & Hove (general),50.866242,-0.154939,shopfront,Replacement shopfront and illuminated signage,2025-12-26,approved
+DEMO-2026-00612,background,Brighton & Hove (general),50.822002,-0.099029,tree_works,Felling of trees and replacement planting,2026-03-22,approved
+DEMO-2026-00613,background,Brighton & Hove (general),50.82441,-0.103169,householder,Single-storey rear extension and alterations,2026-10-27,refused
+DEMO-2026-00614,background,Brighton & Hove (general),50.833723,-0.179278,householder,Single-storey rear extension and alterations,2026-10-08,approved
+DEMO-2025-00615,background,Brighton & Hove (general),50.838333,-0.116029,householder,Single-storey rear extension and alterations,2025-06-21,approved
+DEMO-2026-00616,background,Brighton & Hove (general),50.828231,-0.190126,householder,Single-storey rear extension and alterations,2026-05-03,approved
+DEMO-2026-00617,background,Brighton & Hove (general),50.832623,-0.113613,householder,Single-storey rear extension and alterations,2026-05-07,approved
+DEMO-2025-00618,background,Brighton & Hove (general),50.834468,-0.178264,householder,Single-storey rear extension and alterations,2025-07-04,approved
+DEMO-2025-00619,background,Brighton & Hove (general),50.843212,-0.087326,householder,Single-storey rear extension and alterations,2025-02-26,approved
+DEMO-2024-00620,background,Brighton & Hove (general),50.834426,-0.179173,tree_works,Felling of trees and replacement planting,2024-12-23,pending
+DEMO-2026-00621,background,Brighton & Hove (general),50.846342,-0.214809,householder,Single-storey rear extension and alterations,2026-05-10,approved
+DEMO-2025-00622,background,Brighton & Hove (general),50.830768,-0.184929,householder,Single-storey rear extension and alterations,2025-10-30,pending
+DEMO-2026-00623,background,Brighton & Hove (general),50.858478,-0.129815,householder,Single-storey rear extension and alterations,2026-10-21,withdrawn
+DEMO-2025-00624,background,Brighton & Hove (general),50.830857,-0.175476,householder,Single-storey rear extension and alterations,2025-10-28,approved
+DEMO-2026-00625,background,Brighton & Hove (general),50.846951,-0.128273,householder,Single-storey rear extension and alterations,2026-10-05,refused
+DEMO-2025-00626,background,Brighton & Hove (general),50.835393,-0.107666,tree_works,Felling of trees and replacement planting,2025-08-11,refused
+DEMO-2026-00627,background,Brighton & Hove (general),50.841004,-0.071638,householder,Single-storey rear extension and alterations,2026-06-20,approved
+DEMO-2025-00628,background,Brighton & Hove (general),50.818157,-0.103364,householder,Single-storey rear extension and alterations,2025-01-13,approved
+DEMO-2025-00629,background,Brighton & Hove (general),50.858835,-0.127311,householder,Single-storey rear extension and alterations,2025-12-31,pending
+DEMO-2026-00630,background,Brighton & Hove (general),50.855792,-0.11398,householder,Single-storey rear extension and alterations,2026-06-04,withdrawn
+DEMO-2026-00631,background,Brighton & Hove (general),50.862284,-0.140872,householder,Single-storey rear extension and alterations,2026-09-08,refused
+DEMO-2026-00632,background,Brighton & Hove (general),50.860193,-0.146069,shopfront,Replacement shopfront and illuminated signage,2026-06-13,pending
+DEMO-2024-00633,background,Brighton & Hove (general),50.856695,-0.140403,householder,Single-storey rear extension and alterations,2024-12-06,approved
+DEMO-2025-00634,background,Brighton & Hove (general),50.847349,-0.216201,householder,Single-storey rear extension and alterations,2025-07-02,pending
+DEMO-2024-00635,background,Brighton & Hove (general),50.848297,-0.147409,householder,Single-storey rear extension and alterations,2024-12-15,pending
+DEMO-2025-00636,background,Brighton & Hove (general),50.834847,-0.19217,tree_works,Felling of trees and replacement planting,2025-02-17,approved
+DEMO-2026-00637,background,Brighton & Hove (general),50.802881,-0.050101,tree_works,Felling of trees and replacement planting,2026-03-19,pending
+DEMO-2026-00638,background,Brighton & Hove (general),50.854382,-0.138187,tree_works,Felling of trees and replacement planting,2026-04-24,refused
+DEMO-2026-00639,background,Brighton & Hove (general),50.804239,-0.055952,householder,Single-storey rear extension and alterations,2026-05-12,approved
+DEMO-2026-00640,background,Brighton & Hove (general),50.85625,-0.114889,householder,Single-storey rear extension and alterations,2026-07-15,approved
+DEMO-2026-00641,background,Brighton & Hove (general),50.839971,-0.191837,householder,Single-storey rear extension and alterations,2026-05-26,approved
+DEMO-2026-00642,background,Brighton & Hove (general),50.839209,-0.18696,householder,Single-storey rear extension and alterations,2026-06-15,approved
+DEMO-2024-00643,background,Brighton & Hove (general),50.830328,-0.168628,householder,Single-storey rear extension and alterations,2024-12-24,pending
+DEMO-2025-00644,background,Brighton & Hove (general),50.848064,-0.161564,householder,Single-storey rear extension and alterations,2025-05-18,refused
+DEMO-2026-00645,background,Brighton & Hove (general),50.833003,-0.128627,major_residential,Erection of mixed-use residential-led building,2026-02-02,pending
+DEMO-2026-00646,background,Brighton & Hove (general),50.843961,-0.214783,householder,Single-storey rear extension and alterations,2026-07-06,approved
+DEMO-2024-00647,background,Brighton & Hove (general),50.832552,-0.16672,basement,Excavation of basement and lightwell to front,2024-11-16,approved
+DEMO-2025-00648,background,Brighton & Hove (general),50.829046,-0.116682,householder,Single-storey rear extension and alterations,2025-11-19,approved
+DEMO-2026-00649,background,Brighton & Hove (general),50.831197,-0.111016,tree_works,Felling of trees and replacement planting,2026-03-18,pending
+DEMO-2024-00650,background,Brighton & Hove (general),50.843046,-0.214758,householder,Single-storey rear extension and alterations,2024-11-18,withdrawn
+DEMO-2025-00651,background,Brighton & Hove (general),50.806748,-0.055757,householder,Single-storey rear extension and alterations,2025-08-14,pending
+DEMO-2026-00652,background,Brighton & Hove (general),50.831092,-0.171626,demolition,Demolition of existing building and construction of replacement,2026-08-02,pending
+DEMO-2026-00653,background,Brighton & Hove (general),50.855131,-0.139372,householder,Single-storey rear extension and alterations,2026-03-17,approved
+DEMO-2025-00654,background,Brighton & Hove (general),50.85572,-0.16339,householder,Single-storey rear extension and alterations,2025-05-11,refused
+DEMO-2026-00655,background,Brighton & Hove (general),50.843828,-0.184443,tree_works,Felling of trees and replacement planting,2026-07-08,approved
+DEMO-2025-00656,background,Brighton & Hove (general),50.865289,-0.132429,householder,Single-storey rear extension and alterations,2025-07-13,refused
+DEMO-2026-00657,background,Brighton & Hove (general),50.866138,-0.149787,tree_works,Felling of trees and replacement planting,2026-07-12,pending
+DEMO-2025-00658,background,Brighton & Hove (general),50.806931,-0.035611,householder,Single-storey rear extension and alterations,2025-06-01,approved
+DEMO-2026-00659,background,Brighton & Hove (general),50.864952,-0.165126,shopfront,Replacement shopfront and illuminated signage,2026-01-13,approved
+DEMO-2025-00660,background,Brighton & Hove (general),50.847045,-0.13716,demolition,Demolition of existing building and construction of replacement,2025-08-10,refused
+DEMO-2025-00661,background,Brighton & Hove (general),50.805623,-0.042184,householder,Single-storey rear extension and alterations,2025-05-03,approved
+DEMO-2026-00662,background,Brighton & Hove (general),50.838848,-0.132641,shopfront,Replacement shopfront and illuminated signage,2026-08-29,approved
+DEMO-2025-00663,background,Brighton & Hove (general),50.815551,-0.06245,householder,Single-storey rear extension and alterations,2025-03-02,approved
+DEMO-2025-00664,background,Brighton & Hove (general),50.849737,-0.152059,householder,Single-storey rear extension and alterations,2025-01-24,withdrawn
+DEMO-2025-00665,background,Brighton & Hove (general),50.856699,-0.15324,shopfront,Replacement shopfront and illuminated signage,2025-07-29,pending
+DEMO-2026-00666,background,Brighton & Hove (general),50.861971,-0.173746,tree_works,Felling of trees and replacement planting,2026-04-02,pending
+DEMO-2026-00667,background,Brighton & Hove (general),50.811626,-0.047463,tree_works,Felling of trees and replacement planting,2026-06-11,approved
+DEMO-2026-00668,background,Brighton & Hove (general),50.841908,-0.220689,householder,Single-storey rear extension and alterations,2026-10-23,approved
+DEMO-2025-00669,background,Brighton & Hove (general),50.839558,-0.141745,householder,Single-storey rear extension and alterations,2025-06-15,withdrawn
+DEMO-2025-00670,background,Brighton & Hove (general),50.845101,-0.151346,basement,Excavation of basement and lightwell to front,2025-08-08,refused
+DEMO-2025-00671,background,Brighton & Hove (general),50.828094,-0.131521,demolition,Demolition of existing building and construction of replacement,2025-02-20,approved
+DEMO-2026-00672,background,Brighton & Hove (general),50.848527,-0.172582,householder,Single-storey rear extension and alterations,2026-01-04,withdrawn
+DEMO-2026-00673,background,Brighton & Hove (general),50.857944,-0.144546,tree_works,Felling of trees and replacement planting,2026-10-29,withdrawn
+DEMO-2026-00674,background,Brighton & Hove (general),50.804369,-0.047001,demolition,Demolition of existing building and construction of replacement,2026-04-27,approved
+DEMO-2026-00675,background,Brighton & Hove (general),50.80612,-0.038012,tree_works,Felling of trees and replacement planting,2026-01-28,refused
+DEMO-2025-00676,background,Brighton & Hove (general),50.82687,-0.099107,tree_works,Felling of trees and replacement planting,2025-08-17,approved
+DEMO-2026-00677,background,Brighton & Hove (general),50.841149,-0.201649,demolition,Demolition of existing building and construction of replacement,2026-08-02,refused
+DEMO-2025-00678,background,Brighton & Hove (general),50.841924,-0.162469,basement,Excavation of basement and lightwell to front,2025-10-07,approved
+DEMO-2025-00679,background,Brighton & Hove (general),50.846153,-0.125235,householder,Single-storey rear extension and alterations,2025-02-25,withdrawn
+DEMO-2025-00680,background,Brighton & Hove (general),50.855338,-0.186548,householder,Single-storey rear extension and alterations,2025-07-27,pending
+DEMO-2024-00681,background,Brighton & Hove (general),50.822225,-0.10238,householder,Single-storey rear extension and alterations,2024-12-05,approved
+DEMO-2025-00682,background,Brighton & Hove (general),50.856141,-0.163955,householder,Single-storey rear extension and alterations,2025-04-19,approved
+DEMO-2024-00683,background,Brighton & Hove (general),50.840858,-0.213893,major_residential,Erection of mixed-use residential-led building,2024-11-24,withdrawn
+DEMO-2025-00684,background,Brighton & Hove (general),50.828329,-0.119984,basement,Excavation of basement and lightwell to front,2025-09-03,withdrawn
+DEMO-2026-00685,background,Brighton & Hove (general),50.868407,-0.141756,tree_works,Felling of trees and replacement planting,2026-02-05,refused
+DEMO-2025-00686,background,Brighton & Hove (general),50.839607,-0.078592,householder,Single-storey rear extension and alterations,2025-07-01,refused
+DEMO-2025-00687,background,Brighton & Hove (general),50.836006,-0.17961,householder,Single-storey rear extension and alterations,2025-09-01,approved
+DEMO-2026-00688,background,Brighton & Hove (general),50.828476,-0.177344,householder,Single-storey rear extension and alterations,2026-09-13,refused
+DEMO-2026-00689,background,Brighton & Hove (general),50.858206,-0.152668,householder,Single-storey rear extension and alterations,2026-05-03,approved
+DEMO-2025-00690,background,Brighton & Hove (general),50.856513,-0.168624,householder,Single-storey rear extension and alterations,2025-12-04,pending
+DEMO-2025-00691,background,Brighton & Hove (general),50.849374,-0.157108,householder,Single-storey rear extension and alterations,2025-06-06,approved
+DEMO-2026-00692,background,Brighton & Hove (general),50.834885,-0.068056,householder,Single-storey rear extension and alterations,2026-08-02,approved
+DEMO-2025-00693,background,Brighton & Hove (general),50.832706,-0.108565,tree_works,Felling of trees and replacement planting,2025-05-10,approved
+DEMO-2025-00694,background,Brighton & Hove (general),50.805718,-0.045391,householder,Single-storey rear extension and alterations,2025-06-01,pending
+DEMO-2026-00695,background,Brighton & Hove (general),50.855821,-0.151479,tree_works,Felling of trees and replacement planting,2026-08-08,approved
+DEMO-2025-00696,background,Brighton & Hove (general),50.802587,-0.036851,demolition,Demolition of existing building and construction of replacement,2025-11-19,approved
+DEMO-2026-00697,background,Brighton & Hove (general),50.810022,-0.053252,shopfront,Replacement shopfront and illuminated signage,2026-05-22,pending
+DEMO-2026-00698,background,Brighton & Hove (general),50.86692,-0.159245,tree_works,Felling of trees and replacement planting,2026-01-21,pending
+DEMO-2026-00699,background,Brighton & Hove (general),50.848988,-0.171553,householder,Single-storey rear extension and alterations,2026-03-06,approved
+DEMO-2025-00700,background,Brighton & Hove (general),50.867487,-0.152025,householder,Single-storey rear extension and alterations,2025-06-07,approved
+DEMO-2026-00701,lanes_night_economy,North Laine & The Lanes,50.821873,-0.139465,licensing_premises,Extension of opening hours and outdoor seating area,2026-09-21,pending
+DEMO-2026-00702,lanes_night_economy,North Laine & The Lanes,50.819859,-0.143413,shopfront,Replacement shopfront and illuminated signage,2026-07-28,approved
+DEMO-2025-00703,lanes_night_economy,North Laine & The Lanes,50.825228,-0.137581,householder,Single-storey rear extension and alterations,2025-08-11,approved
+DEMO-2026-00704,lanes_night_economy,North Laine & The Lanes,50.824982,-0.143344,licensing_premises,Extension of opening hours and outdoor seating area,2026-10-16,approved
+DEMO-2025-00705,lanes_night_economy,North Laine & The Lanes,50.820048,-0.138468,shopfront,Replacement shopfront and illuminated signage,2025-06-28,withdrawn
+DEMO-2026-00706,lanes_night_economy,North Laine & The Lanes,50.821149,-0.141823,licensing_premises,Extension of opening hours and outdoor seating area,2026-10-20,approved
+DEMO-2025-00707,lanes_night_economy,North Laine & The Lanes,50.829509,-0.137359,shopfront,Replacement shopfront and illuminated signage,2025-06-11,refused
+DEMO-2025-00708,lanes_night_economy,North Laine & The Lanes,50.828754,-0.144561,licensing_premises,Extension of opening hours and outdoor seating area,2025-05-12,approved
+DEMO-2026-00709,lanes_night_economy,North Laine & The Lanes,50.822612,-0.137811,listed_building,Internal and external alterations to listed building,2026-08-06,approved
+DEMO-2025-00710,lanes_night_economy,North Laine & The Lanes,50.823476,-0.137251,listed_building,Internal and external alterations to listed building,2025-10-05,pending
+DEMO-2026-00711,lanes_night_economy,North Laine & The Lanes,50.826204,-0.140769,householder,Single-storey rear extension and alterations,2026-08-26,refused
+DEMO-2026-00712,lanes_night_economy,North Laine & The Lanes,50.824495,-0.143357,licensing_premises,Extension of opening hours and outdoor seating area,2026-07-31,pending
+DEMO-2025-00713,lanes_night_economy,North Laine & The Lanes,50.821997,-0.139393,householder,Single-storey rear extension and alterations,2025-05-09,pending
+DEMO-2025-00714,lanes_night_economy,North Laine & The Lanes,50.821169,-0.138105,shopfront,Replacement shopfront and illuminated signage,2025-05-12,approved
+DEMO-2025-00715,lanes_night_economy,North Laine & The Lanes,50.823704,-0.141879,householder,Single-storey rear extension and alterations,2025-09-23,approved
+DEMO-2026-00716,lanes_night_economy,North Laine & The Lanes,50.82385,-0.13488,listed_building,Internal and external alterations to listed building,2026-03-09,approved
+DEMO-2025-00717,lanes_night_economy,North Laine & The Lanes,50.825601,-0.142381,licensing_premises,Extension of opening hours and outdoor seating area,2025-09-10,refused
+DEMO-2025-00718,lanes_night_economy,North Laine & The Lanes,50.819833,-0.140723,shopfront,Replacement shopfront and illuminated signage,2025-06-01,approved
+DEMO-2025-00719,lanes_night_economy,North Laine & The Lanes,50.825309,-0.144946,licensing_premises,Extension of opening hours and outdoor seating area,2025-06-16,approved
+DEMO-2025-00720,lanes_night_economy,North Laine & The Lanes,50.824506,-0.144792,licensing_premises,Extension of opening hours and outdoor seating area,2025-11-01,refused
+DEMO-2024-00721,lanes_night_economy,North Laine & The Lanes,50.824901,-0.138712,listed_building,Internal and external alterations to listed building,2024-11-12,approved
+DEMO-2025-00722,lanes_night_economy,North Laine & The Lanes,50.821339,-0.136919,licensing_premises,Extension of opening hours and outdoor seating area,2025-09-22,pending
+DEMO-2025-00723,lanes_night_economy,North Laine & The Lanes,50.820946,-0.136347,licensing_premises,Extension of opening hours and outdoor seating area,2025-01-11,withdrawn
+DEMO-2026-00724,lanes_night_economy,North Laine & The Lanes,50.823572,-0.14178,householder,Single-storey rear extension and alterations,2026-08-15,approved
+DEMO-2026-00725,lanes_night_economy,North Laine & The Lanes,50.822019,-0.137023,licensing_premises,Extension of opening hours and outdoor seating area,2026-05-05,approved
+DEMO-2025-00726,lanes_night_economy,North Laine & The Lanes,50.823285,-0.142889,licensing_premises,Extension of opening hours and outdoor seating area,2025-05-18,approved
+DEMO-2026-00727,lanes_night_economy,North Laine & The Lanes,50.821049,-0.139743,licensing_premises,Extension of opening hours and outdoor seating area,2026-07-30,approved
+DEMO-2025-00728,lanes_night_economy,North Laine & The Lanes,50.82207,-0.140606,listed_building,Internal and external alterations to listed building,2025-10-30,approved
+DEMO-2025-00729,lanes_night_economy,North Laine & The Lanes,50.824139,-0.145096,licensing_premises,Extension of opening hours and outdoor seating area,2025-11-17,refused
+DEMO-2025-00730,lanes_night_economy,North Laine & The Lanes,50.820722,-0.138444,shopfront,Replacement shopfront and illuminated signage,2025-07-14,refused
+DEMO-2025-00731,lanes_night_economy,North Laine & The Lanes,50.823723,-0.138759,licensing_premises,Extension of opening hours and outdoor seating area,2025-08-02,pending
+DEMO-2026-00732,lanes_night_economy,North Laine & The Lanes,50.830224,-0.142411,licensing_premises,Extension of opening hours and outdoor seating area,2026-08-11,approved
+DEMO-2025-00733,lanes_night_economy,North Laine & The Lanes,50.824148,-0.138031,listed_building,Internal and external alterations to listed building,2025-05-16,pending
+DEMO-2026-00734,lanes_night_economy,North Laine & The Lanes,50.82707,-0.136555,licensing_premises,Extension of opening hours and outdoor seating area,2026-05-15,approved
+DEMO-2025-00735,lanes_night_economy,North Laine & The Lanes,50.826438,-0.135795,licensing_premises,Extension of opening hours and outdoor seating area,2025-06-19,refused
+DEMO-2025-00736,lanes_night_economy,North Laine & The Lanes,50.825004,-0.135903,listed_building,Internal and external alterations to listed building,2025-09-22,approved
+DEMO-2026-00737,lanes_night_economy,North Laine & The Lanes,50.825336,-0.145742,listed_building,Internal and external alterations to listed building,2026-01-06,withdrawn
+DEMO-2025-00738,lanes_night_economy,North Laine & The Lanes,50.825611,-0.140477,listed_building,Internal and external alterations to listed building,2025-05-09,approved
+DEMO-2025-00739,lanes_night_economy,North Laine & The Lanes,50.821158,-0.141203,licensing_premises,Extension of opening hours and outdoor seating area,2025-04-30,approved
+DEMO-2025-00740,lanes_night_economy,North Laine & The Lanes,50.820998,-0.142652,shopfront,Replacement shopfront and illuminated signage,2025-10-03,withdrawn
+DEMO-2025-00741,lanes_night_economy,North Laine & The Lanes,50.824737,-0.141954,licensing_premises,Extension of opening hours and outdoor seating area,2025-09-28,approved
+DEMO-2026-00742,lanes_night_economy,North Laine & The Lanes,50.821315,-0.133699,shopfront,Replacement shopfront and illuminated signage,2026-09-09,pending
+DEMO-2026-00743,lanes_night_economy,North Laine & The Lanes,50.823082,-0.141192,licensing_premises,Extension of opening hours and outdoor seating area,2026-06-07,refused
+DEMO-2026-00744,lanes_night_economy,North Laine & The Lanes,50.822838,-0.140262,licensing_premises,Extension of opening hours and outdoor seating area,2026-08-16,approved
+DEMO-2026-00745,lanes_night_economy,North Laine & The Lanes,50.819891,-0.140346,householder,Single-storey rear extension and alterations,2026-09-15,pending
+DEMO-2024-00746,lanes_night_economy,North Laine & The Lanes,50.822607,-0.141426,licensing_premises,Extension of opening hours and outdoor seating area,2024-11-12,pending
+DEMO-2026-00747,lanes_night_economy,North Laine & The Lanes,50.820418,-0.137712,licensing_premises,Extension of opening hours and outdoor seating area,2026-08-01,approved
+DEMO-2026-00748,lanes_night_economy,North Laine & The Lanes,50.826952,-0.139715,licensing_premises,Extension of opening hours and outdoor seating area,2026-10-15,approved
+DEMO-2025-00749,lanes_night_economy,North Laine & The Lanes,50.823649,-0.140391,licensing_premises,Extension of opening hours and outdoor seating area,2025-09-24,pending
+DEMO-2026-00750,lanes_night_economy,North Laine & The Lanes,50.823418,-0.147157,listed_building,Internal and external alterations to listed building,2026-05-31,approved
+DEMO-2025-00751,lanes_night_economy,North Laine & The Lanes,50.821194,-0.141905,householder,Single-storey rear extension and alterations,2025-08-26,approved
+DEMO-2025-00752,lanes_night_economy,North Laine & The Lanes,50.827199,-0.1379,licensing_premises,Extension of opening hours and outdoor seating area,2025-04-21,approved
+DEMO-2025-00753,lanes_night_economy,North Laine & The Lanes,50.823252,-0.137871,licensing_premises,Extension of opening hours and outdoor seating area,2025-07-14,withdrawn
+DEMO-2025-00754,lanes_night_economy,North Laine & The Lanes,50.824167,-0.139632,householder,Single-storey rear extension and alterations,2025-04-20,refused
+DEMO-2025-00755,lanes_night_economy,North Laine & The Lanes,50.824563,-0.142847,licensing_premises,Extension of opening hours and outdoor seating area,2025-10-10,withdrawn
+DEMO-2026-00756,lanes_night_economy,North Laine & The Lanes,50.822163,-0.146786,listed_building,Internal and external alterations to listed building,2026-05-15,refused
+DEMO-2024-00757,lanes_night_economy,North Laine & The Lanes,50.824039,-0.144123,householder,Single-storey rear extension and alterations,2024-11-12,approved
+DEMO-2025-00758,lanes_night_economy,North Laine & The Lanes,50.826463,-0.139608,householder,Single-storey rear extension and alterations,2025-06-27,approved
+DEMO-2025-00759,lanes_night_economy,North Laine & The Lanes,50.823592,-0.138084,licensing_premises,Extension of opening hours and outdoor seating area,2025-04-04,approved
+DEMO-2026-00760,lanes_night_economy,North Laine & The Lanes,50.822115,-0.139936,shopfront,Replacement shopfront and illuminated signage,2026-10-18,approved
+DEMO-2026-00761,lanes_night_economy,North Laine & The Lanes,50.824295,-0.145047,licensing_premises,Extension of opening hours and outdoor seating area,2026-07-12,approved
+DEMO-2024-00762,lanes_night_economy,North Laine & The Lanes,50.826857,-0.148612,licensing_premises,Extension of opening hours and outdoor seating area,2024-12-12,approved
+DEMO-2026-00763,lanes_night_economy,North Laine & The Lanes,50.826166,-0.145411,licensing_premises,Extension of opening hours and outdoor seating area,2026-07-04,approved
+DEMO-2026-00764,lanes_night_economy,North Laine & The Lanes,50.821363,-0.137632,shopfront,Replacement shopfront and illuminated signage,2026-08-12,refused
+DEMO-2026-00765,lanes_night_economy,North Laine & The Lanes,50.82805,-0.136346,shopfront,Replacement shopfront and illuminated signage,2026-07-22,pending
+DEMO-2026-00766,lanes_night_economy,North Laine & The Lanes,50.823936,-0.14008,listed_building,Internal and external alterations to listed building,2026-08-04,refused
+DEMO-2025-00767,lanes_night_economy,North Laine & The Lanes,50.824047,-0.140617,licensing_premises,Extension of opening hours and outdoor seating area,2025-10-04,approved
+DEMO-2025-00768,lanes_night_economy,North Laine & The Lanes,50.826782,-0.142341,shopfront,Replacement shopfront and illuminated signage,2025-06-05,refused
+DEMO-2026-00769,lanes_night_economy,North Laine & The Lanes,50.822314,-0.142793,licensing_premises,Extension of opening hours and outdoor seating area,2026-08-17,refused
+DEMO-2026-00770,lanes_night_economy,North Laine & The Lanes,50.823647,-0.136517,listed_building,Internal and external alterations to listed building,2026-08-29,approved
+DEMO-2025-00771,lanes_night_economy,North Laine & The Lanes,50.822557,-0.138944,licensing_premises,Extension of opening hours and outdoor seating area,2025-07-20,approved
+DEMO-2026-00772,lanes_night_economy,North Laine & The Lanes,50.822466,-0.139385,licensing_premises,Extension of opening hours and outdoor seating area,2026-04-21,approved
+DEMO-2026-00773,lanes_night_economy,North Laine & The Lanes,50.82307,-0.146115,listed_building,Internal and external alterations to listed building,2026-03-21,approved
+DEMO-2025-00774,lanes_night_economy,North Laine & The Lanes,50.823139,-0.143604,shopfront,Replacement shopfront and illuminated signage,2025-10-29,approved
+DEMO-2026-00775,lanes_night_economy,North Laine & The Lanes,50.82296,-0.145662,licensing_premises,Extension of opening hours and outdoor seating area,2026-04-27,approved
+DEMO-2025-00776,lanes_night_economy,North Laine & The Lanes,50.823586,-0.142685,licensing_premises,Extension of opening hours and outdoor seating area,2025-04-04,approved
+DEMO-2025-00777,lanes_night_economy,North Laine & The Lanes,50.823623,-0.135145,householder,Single-storey rear extension and alterations,2025-09-15,approved
+DEMO-2025-00778,lanes_night_economy,North Laine & The Lanes,50.824665,-0.140149,licensing_premises,Extension of opening hours and outdoor seating area,2025-07-02,approved
+DEMO-2024-00779,lanes_night_economy,North Laine & The Lanes,50.824794,-0.14518,licensing_premises,Extension of opening hours and outdoor seating area,2024-11-08,approved
+DEMO-2025-00780,lanes_night_economy,North Laine & The Lanes,50.825671,-0.131007,householder,Single-storey rear extension and alterations,2025-11-03,approved
+DEMO-2025-00781,lanes_night_economy,North Laine & The Lanes,50.830086,-0.142591,shopfront,Replacement shopfront and illuminated signage,2025-08-06,approved
+DEMO-2025-00782,lanes_night_economy,North Laine & The Lanes,50.823936,-0.141006,licensing_premises,Extension of opening hours and outdoor seating area,2025-09-20,refused
+DEMO-2025-00783,lanes_night_economy,North Laine & The Lanes,50.82295,-0.134974,shopfront,Replacement shopfront and illuminated signage,2025-05-07,approved
+DEMO-2025-00784,lanes_night_economy,North Laine & The Lanes,50.82747,-0.139209,licensing_premises,Extension of opening hours and outdoor seating area,2025-11-12,approved
+DEMO-2025-00785,lanes_night_economy,North Laine & The Lanes,50.822373,-0.136551,shopfront,Replacement shopfront and illuminated signage,2025-07-11,approved
+DEMO-2024-00786,lanes_night_economy,North Laine & The Lanes,50.825006,-0.136825,householder,Single-storey rear extension and alterations,2024-11-10,withdrawn
+DEMO-2026-00787,lanes_night_economy,North Laine & The Lanes,50.824359,-0.137057,listed_building,Internal and external alterations to listed building,2026-07-24,approved
+DEMO-2026-00788,lanes_night_economy,North Laine & The Lanes,50.824797,-0.139364,licensing_premises,Extension of opening hours and outdoor seating area,2026-05-09,pending
+DEMO-2025-00789,lanes_night_economy,North Laine & The Lanes,50.821085,-0.14801,listed_building,Internal and external alterations to listed building,2025-12-09,pending
+DEMO-2026-00790,lanes_night_economy,North Laine & The Lanes,50.822068,-0.14161,listed_building,Internal and external alterations to listed building,2026-05-09,approved
+DEMO-2025-00791,lanes_night_economy,North Laine & The Lanes,50.823035,-0.14126,licensing_premises,Extension of opening hours and outdoor seating area,2025-07-07,pending
+DEMO-2025-00792,lanes_night_economy,North Laine & The Lanes,50.819223,-0.141142,licensing_premises,Extension of opening hours and outdoor seating area,2025-05-16,approved
+DEMO-2025-00793,lanes_night_economy,North Laine & The Lanes,50.826785,-0.134166,shopfront,Replacement shopfront and illuminated signage,2025-08-21,approved
+DEMO-2026-00794,lanes_night_economy,North Laine & The Lanes,50.827354,-0.140319,shopfront,Replacement shopfront and illuminated signage,2026-07-09,refused
+DEMO-2026-00795,lanes_night_economy,North Laine & The Lanes,50.823563,-0.145443,licensing_premises,Extension of opening hours and outdoor seating area,2026-04-03,approved
+DEMO-2026-00796,lanes_night_economy,North Laine & The Lanes,50.822826,-0.137317,listed_building,Internal and external alterations to listed building,2026-07-05,approved
+DEMO-2026-00797,lanes_night_economy,North Laine & The Lanes,50.82589,-0.140135,licensing_premises,Extension of opening hours and outdoor seating area,2026-09-22,approved
+DEMO-2025-00798,lanes_night_economy,North Laine & The Lanes,50.826398,-0.134921,shopfront,Replacement shopfront and illuminated signage,2025-07-28,pending
+DEMO-2026-00799,lanes_night_economy,North Laine & The Lanes,50.824895,-0.136876,householder,Single-storey rear extension and alterations,2026-09-28,approved
+DEMO-2026-00800,lanes_night_economy,North Laine & The Lanes,50.822315,-0.141811,licensing_premises,Extension of opening hours and outdoor seating area,2026-05-01,pending
+DEMO-2026-00801,lanes_night_economy,North Laine & The Lanes,50.825731,-0.138078,householder,Single-storey rear extension and alterations,2026-03-16,approved
+DEMO-2025-00802,lanes_night_economy,North Laine & The Lanes,50.821593,-0.14142,licensing_premises,Extension of opening hours and outdoor seating area,2025-11-23,pending
+DEMO-2025-00803,lanes_night_economy,North Laine & The Lanes,50.823602,-0.139786,licensing_premises,Extension of opening hours and outdoor seating area,2025-10-26,approved
+DEMO-2025-00804,lanes_night_economy,North Laine & The Lanes,50.819854,-0.144839,shopfront,Replacement shopfront and illuminated signage,2025-04-28,approved
+DEMO-2025-00805,lanes_night_economy,North Laine & The Lanes,50.82753,-0.142207,shopfront,Replacement shopfront and illuminated signage,2025-03-16,approved
+DEMO-2025-00806,lanes_night_economy,North Laine & The Lanes,50.824565,-0.141265,listed_building,Internal and external alterations to listed building,2025-08-31,refused
+DEMO-2025-00807,lanes_night_economy,North Laine & The Lanes,50.824944,-0.142904,shopfront,Replacement shopfront and illuminated signage,2025-06-03,approved
+DEMO-2025-00808,lanes_night_economy,North Laine & The Lanes,50.820196,-0.139796,listed_building,Internal and external alterations to listed building,2025-04-23,pending
+DEMO-2024-00809,lanes_night_economy,North Laine & The Lanes,50.825219,-0.143414,listed_building,Internal and external alterations to listed building,2024-12-02,pending
+DEMO-2026-00810,lanes_night_economy,North Laine & The Lanes,50.822504,-0.138406,licensing_premises,Extension of opening hours and outdoor seating area,2026-10-20,approved
+DEMO-2025-00811,lanes_night_economy,North Laine & The Lanes,50.823025,-0.141888,householder,Single-storey rear extension and alterations,2025-06-01,pending
+DEMO-2026-00812,lanes_night_economy,North Laine & The Lanes,50.823293,-0.139544,licensing_premises,Extension of opening hours and outdoor seating area,2026-10-02,approved
+DEMO-2026-00813,lanes_night_economy,North Laine & The Lanes,50.821282,-0.142743,listed_building,Internal and external alterations to listed building,2026-02-22,refused
+DEMO-2025-00814,lanes_night_economy,North Laine & The Lanes,50.819793,-0.14335,listed_building,Internal and external alterations to listed building,2025-06-10,refused
+DEMO-2025-00815,lanes_night_economy,North Laine & The Lanes,50.825132,-0.139681,licensing_premises,Extension of opening hours and outdoor seating area,2025-05-07,approved
+DEMO-2025-00816,lanes_night_economy,North Laine & The Lanes,50.820912,-0.145385,licensing_premises,Extension of opening hours and outdoor seating area,2025-06-25,refused
+DEMO-2025-00817,lanes_night_economy,North Laine & The Lanes,50.824597,-0.135422,licensing_premises,Extension of opening hours and outdoor seating area,2025-08-20,refused
+DEMO-2025-00818,lanes_night_economy,North Laine & The Lanes,50.829424,-0.142187,licensing_premises,Extension of opening hours and outdoor seating area,2025-06-11,approved
+DEMO-2026-00819,lanes_night_economy,North Laine & The Lanes,50.827567,-0.140143,householder,Single-storey rear extension and alterations,2026-08-11,approved
+DEMO-2025-00820,lanes_night_economy,North Laine & The Lanes,50.821385,-0.142056,householder,Single-storey rear extension and alterations,2025-08-08,refused
+DEMO-2025-00821,lanes_night_economy,North Laine & The Lanes,50.824598,-0.143869,licensing_premises,Extension of opening hours and outdoor seating area,2025-12-11,pending
+DEMO-2025-00822,lanes_night_economy,North Laine & The Lanes,50.822364,-0.141195,licensing_premises,Extension of opening hours and outdoor seating area,2025-11-18,refused
+DEMO-2026-00823,lanes_night_economy,North Laine & The Lanes,50.822966,-0.138314,licensing_premises,Extension of opening hours and outdoor seating area,2026-05-03,approved
+DEMO-2026-00824,lanes_night_economy,North Laine & The Lanes,50.823018,-0.139212,listed_building,Internal and external alterations to listed building,2026-10-19,approved
+DEMO-2025-00825,lanes_night_economy,North Laine & The Lanes,50.820485,-0.141413,licensing_premises,Extension of opening hours and outdoor seating area,2025-09-20,pending
+DEMO-2025-00826,lanes_night_economy,North Laine & The Lanes,50.82239,-0.138086,licensing_premises,Extension of opening hours and outdoor seating area,2025-07-21,pending
+DEMO-2026-00827,lanes_night_economy,North Laine & The Lanes,50.822928,-0.142673,shopfront,Replacement shopfront and illuminated signage,2026-10-26,pending
+DEMO-2026-00828,lanes_night_economy,North Laine & The Lanes,50.824811,-0.138893,licensing_premises,Extension of opening hours and outdoor seating area,2026-10-14,approved
+DEMO-2026-00829,lanes_night_economy,North Laine & The Lanes,50.826522,-0.141548,listed_building,Internal and external alterations to listed building,2026-07-27,pending
+DEMO-2026-00830,lanes_night_economy,North Laine & The Lanes,50.823063,-0.13978,shopfront,Replacement shopfront and illuminated signage,2026-07-26,approved
+DEMO-2025-00831,lanes_night_economy,North Laine & The Lanes,50.824217,-0.142336,listed_building,Internal and external alterations to listed building,2025-09-20,approved
+DEMO-2026-00832,lanes_night_economy,North Laine & The Lanes,50.828903,-0.135448,licensing_premises,Extension of opening hours and outdoor seating area,2026-02-06,refused
+DEMO-2025-00833,lanes_night_economy,North Laine & The Lanes,50.822675,-0.138437,licensing_premises,Extension of opening hours and outdoor seating area,2025-08-04,approved
+DEMO-2026-00834,lanes_night_economy,North Laine & The Lanes,50.824224,-0.141107,licensing_premises,Extension of opening hours and outdoor seating area,2026-05-18,pending
+DEMO-2026-00835,lanes_night_economy,North Laine & The Lanes,50.82479,-0.136849,shopfront,Replacement shopfront and illuminated signage,2026-08-20,pending
+DEMO-2025-00836,lanes_night_economy,North Laine & The Lanes,50.822612,-0.140256,licensing_premises,Extension of opening hours and outdoor seating area,2025-08-07,refused
+DEMO-2026-00837,lanes_night_economy,North Laine & The Lanes,50.824186,-0.143727,licensing_premises,Extension of opening hours and outdoor seating area,2026-01-12,pending
+DEMO-2026-00838,lanes_night_economy,North Laine & The Lanes,50.82488,-0.147363,licensing_premises,Extension of opening hours and outdoor seating area,2026-07-25,approved
+DEMO-2025-00839,lanes_night_economy,North Laine & The Lanes,50.821178,-0.14044,licensing_premises,Extension of opening hours and outdoor seating area,2025-06-30,refused
+DEMO-2026-00840,lanes_night_economy,North Laine & The Lanes,50.820022,-0.145024,licensing_premises,Extension of opening hours and outdoor seating area,2026-05-21,withdrawn
+DEMO-2025-00841,kemptown_heritage,Kemptown & East Cliff,50.818865,-0.117435,listed_building,Internal and external alterations to listed building,2025-06-18,refused
+DEMO-2026-00842,kemptown_heritage,Kemptown & East Cliff,50.817219,-0.123247,listed_building,Internal and external alterations to listed building,2026-04-27,pending
+DEMO-2025-00843,kemptown_heritage,Kemptown & East Cliff,50.82204,-0.125371,listed_building,Internal and external alterations to listed building,2025-03-19,approved
+DEMO-2026-00844,kemptown_heritage,Kemptown & East Cliff,50.818292,-0.118044,householder,Single-storey rear extension and alterations,2026-06-08,approved
+DEMO-2025-00845,kemptown_heritage,Kemptown & East Cliff,50.817754,-0.121399,listed_building,Internal and external alterations to listed building,2025-05-16,approved
+DEMO-2025-00846,kemptown_heritage,Kemptown & East Cliff,50.816911,-0.115408,listed_building,Internal and external alterations to listed building,2025-02-13,approved
+DEMO-2025-00847,kemptown_heritage,Kemptown & East Cliff,50.823771,-0.131464,listed_building,Internal and external alterations to listed building,2025-07-19,pending
+DEMO-2024-00848,kemptown_heritage,Kemptown & East Cliff,50.820012,-0.129396,listed_building,Internal and external alterations to listed building,2024-11-14,approved
+DEMO-2026-00849,kemptown_heritage,Kemptown & East Cliff,50.820177,-0.120064,basement,Excavation of basement and lightwell to front,2026-02-21,approved
+DEMO-2024-00850,kemptown_heritage,Kemptown & East Cliff,50.826007,-0.130673,listed_building,Internal and external alterations to listed building,2024-12-25,approved
+DEMO-2025-00851,kemptown_heritage,Kemptown & East Cliff,50.822625,-0.133932,listed_building,Internal and external alterations to listed building,2025-02-07,approved
+DEMO-2026-00852,kemptown_heritage,Kemptown & East Cliff,50.816665,-0.124656,listed_building,Internal and external alterations to listed building,2026-06-18,pending
+DEMO-2025-00853,kemptown_heritage,Kemptown & East Cliff,50.819555,-0.130236,householder,Single-storey rear extension and alterations,2025-11-29,approved
+DEMO-2026-00854,kemptown_heritage,Kemptown & East Cliff,50.820771,-0.126305,listed_building,Internal and external alterations to listed building,2026-01-20,approved
+DEMO-2025-00855,kemptown_heritage,Kemptown & East Cliff,50.819687,-0.129971,basement,Excavation of basement and lightwell to front,2025-05-23,approved
+DEMO-2026-00856,kemptown_heritage,Kemptown & East Cliff,50.82032,-0.12674,householder,Single-storey rear extension and alterations,2026-10-12,refused
+DEMO-2026-00857,kemptown_heritage,Kemptown & East Cliff,50.821715,-0.117032,listed_building,Internal and external alterations to listed building,2026-10-16,pending
+DEMO-2025-00858,kemptown_heritage,Kemptown & East Cliff,50.820156,-0.131313,basement,Excavation of basement and lightwell to front,2025-07-15,approved
+DEMO-2026-00859,kemptown_heritage,Kemptown & East Cliff,50.821448,-0.123781,listed_building,Internal and external alterations to listed building,2026-05-27,approved
+DEMO-2026-00860,kemptown_heritage,Kemptown & East Cliff,50.821076,-0.128474,householder,Single-storey rear extension and alterations,2026-06-27,approved
+DEMO-2026-00861,kemptown_heritage,Kemptown & East Cliff,50.818296,-0.127916,basement,Excavation of basement and lightwell to front,2026-08-05,pending
+DEMO-2026-00862,kemptown_heritage,Kemptown & East Cliff,50.816999,-0.114723,listed_building,Internal and external alterations to listed building,2026-07-20,approved
+DEMO-2025-00863,kemptown_heritage,Kemptown & East Cliff,50.819032,-0.128518,listed_building,Internal and external alterations to listed building,2025-09-06,approved
+DEMO-2025-00864,kemptown_heritage,Kemptown & East Cliff,50.823465,-0.135476,basement,Excavation of basement and lightwell to front,2025-07-09,pending
+DEMO-2026-00865,kemptown_heritage,Kemptown & East Cliff,50.826309,-0.123173,listed_building,Internal and external alterations to listed building,2026-09-28,approved
+DEMO-2025-00866,kemptown_heritage,Kemptown & East Cliff,50.82145,-0.116235,listed_building,Internal and external alterations to listed building,2025-08-20,approved
+DEMO-2025-00867,kemptown_heritage,Kemptown & East Cliff,50.820258,-0.123948,basement,Excavation of basement and lightwell to front,2025-11-24,approved
+DEMO-2025-00868,kemptown_heritage,Kemptown & East Cliff,50.821955,-0.123103,basement,Excavation of basement and lightwell to front,2025-01-03,approved
+DEMO-2025-00869,kemptown_heritage,Kemptown & East Cliff,50.819241,-0.131305,householder,Single-storey rear extension and alterations,2025-06-24,pending
+DEMO-2025-00870,kemptown_heritage,Kemptown & East Cliff,50.8173,-0.12579,basement,Excavation of basement and lightwell to front,2025-02-07,refused
+DEMO-2024-00871,kemptown_heritage,Kemptown & East Cliff,50.821397,-0.122659,listed_building,Internal and external alterations to listed building,2024-12-30,approved
+DEMO-2025-00872,kemptown_heritage,Kemptown & East Cliff,50.818375,-0.1234,listed_building,Internal and external alterations to listed building,2025-07-17,pending
+DEMO-2025-00873,kemptown_heritage,Kemptown & East Cliff,50.821858,-0.119799,householder,Single-storey rear extension and alterations,2025-11-07,refused
+DEMO-2026-00874,kemptown_heritage,Kemptown & East Cliff,50.822533,-0.122958,listed_building,Internal and external alterations to listed building,2026-05-13,pending
+DEMO-2026-00875,kemptown_heritage,Kemptown & East Cliff,50.82008,-0.128231,householder,Single-storey rear extension and alterations,2026-01-03,pending
+DEMO-2026-00876,kemptown_heritage,Kemptown & East Cliff,50.82014,-0.117297,listed_building,Internal and external alterations to listed building,2026-06-16,pending
+DEMO-2025-00877,kemptown_heritage,Kemptown & East Cliff,50.820389,-0.130576,basement,Excavation of basement and lightwell to front,2025-04-05,refused
+DEMO-2026-00878,kemptown_heritage,Kemptown & East Cliff,50.822902,-0.125362,basement,Excavation of basement and lightwell to front,2026-06-09,refused
+DEMO-2024-00879,kemptown_heritage,Kemptown & East Cliff,50.816792,-0.12455,householder,Single-storey rear extension and alterations,2024-12-25,approved
+DEMO-2025-00880,kemptown_heritage,Kemptown & East Cliff,50.82174,-0.128282,basement,Excavation of basement and lightwell to front,2025-05-06,approved
+DEMO-2025-00881,kemptown_heritage,Kemptown & East Cliff,50.822415,-0.121383,listed_building,Internal and external alterations to listed building,2025-09-06,approved
+DEMO-2026-00882,kemptown_heritage,Kemptown & East Cliff,50.82135,-0.129363,householder,Single-storey rear extension and alterations,2026-09-05,refused
+DEMO-2025-00883,kemptown_heritage,Kemptown & East Cliff,50.827314,-0.128735,basement,Excavation of basement and lightwell to front,2025-01-27,approved
+DEMO-2025-00884,kemptown_heritage,Kemptown & East Cliff,50.822793,-0.118677,listed_building,Internal and external alterations to listed building,2025-05-10,pending
+DEMO-2025-00885,kemptown_heritage,Kemptown & East Cliff,50.818445,-0.126429,basement,Excavation of basement and lightwell to front,2025-02-19,approved
+DEMO-2025-00886,kemptown_heritage,Kemptown & East Cliff,50.818374,-0.131675,basement,Excavation of basement and lightwell to front,2025-09-01,pending
+DEMO-2025-00887,kemptown_heritage,Kemptown & East Cliff,50.823026,-0.123044,basement,Excavation of basement and lightwell to front,2025-06-05,refused
+DEMO-2025-00888,kemptown_heritage,Kemptown & East Cliff,50.8187,-0.132938,basement,Excavation of basement and lightwell to front,2025-01-24,approved
+DEMO-2025-00889,kemptown_heritage,Kemptown & East Cliff,50.816905,-0.122857,listed_building,Internal and external alterations to listed building,2025-10-30,pending
+DEMO-2025-00890,kemptown_heritage,Kemptown & East Cliff,50.818731,-0.126398,listed_building,Internal and external alterations to listed building,2025-10-02,pending
+DEMO-2026-00891,kemptown_heritage,Kemptown & East Cliff,50.823283,-0.128919,listed_building,Internal and external alterations to listed building,2026-02-07,pending
+DEMO-2026-00892,kemptown_heritage,Kemptown & East Cliff,50.821536,-0.131377,listed_building,Internal and external alterations to listed building,2026-07-24,approved
+DEMO-2026-00893,kemptown_heritage,Kemptown & East Cliff,50.818804,-0.125467,listed_building,Internal and external alterations to listed building,2026-10-10,approved
+DEMO-2025-00894,kemptown_heritage,Kemptown & East Cliff,50.819857,-0.130111,listed_building,Internal and external alterations to listed building,2025-01-06,pending
+DEMO-2025-00895,kemptown_heritage,Kemptown & East Cliff,50.820134,-0.133286,listed_building,Internal and external alterations to listed building,2025-07-19,approved
+DEMO-2026-00896,kemptown_heritage,Kemptown & East Cliff,50.818836,-0.133344,listed_building,Internal and external alterations to listed building,2026-10-07,approved
+DEMO-2025-00897,kemptown_heritage,Kemptown & East Cliff,50.819385,-0.113665,basement,Excavation of basement and lightwell to front,2025-12-18,refused
+DEMO-2025-00898,kemptown_heritage,Kemptown & East Cliff,50.819888,-0.125575,listed_building,Internal and external alterations to listed building,2025-08-03,refused
+DEMO-2025-00899,kemptown_heritage,Kemptown & East Cliff,50.82029,-0.117564,listed_building,Internal and external alterations to listed building,2025-09-09,withdrawn
+DEMO-2026-00900,kemptown_heritage,Kemptown & East Cliff,50.822158,-0.121156,listed_building,Internal and external alterations to listed building,2026-07-12,withdrawn
+DEMO-2026-00901,kemptown_heritage,Kemptown & East Cliff,50.817977,-0.126753,basement,Excavation of basement and lightwell to front,2026-07-07,approved
+DEMO-2025-00902,kemptown_heritage,Kemptown & East Cliff,50.821201,-0.131703,listed_building,Internal and external alterations to listed building,2025-06-30,pending
+DEMO-2025-00903,kemptown_heritage,Kemptown & East Cliff,50.816381,-0.122916,householder,Single-storey rear extension and alterations,2025-06-27,pending
+DEMO-2026-00904,kemptown_heritage,Kemptown & East Cliff,50.818981,-0.132928,listed_building,Internal and external alterations to listed building,2026-03-04,approved
+DEMO-2024-00905,kemptown_heritage,Kemptown & East Cliff,50.818772,-0.119239,listed_building,Internal and external alterations to listed building,2024-12-18,approved
+DEMO-2026-00906,kemptown_heritage,Kemptown & East Cliff,50.81832,-0.118153,listed_building,Internal and external alterations to listed building,2026-07-01,approved
+DEMO-2024-00907,kemptown_heritage,Kemptown & East Cliff,50.82131,-0.12851,basement,Excavation of basement and lightwell to front,2024-11-22,approved
+DEMO-2025-00908,kemptown_heritage,Kemptown & East Cliff,50.822059,-0.126247,householder,Single-storey rear extension and alterations,2025-10-16,approved
+DEMO-2026-00909,kemptown_heritage,Kemptown & East Cliff,50.818814,-0.128827,listed_building,Internal and external alterations to listed building,2026-06-01,pending
+DEMO-2026-00910,kemptown_heritage,Kemptown & East Cliff,50.818491,-0.118514,listed_building,Internal and external alterations to listed building,2026-08-10,pending
+DEMO-2026-00911,kemptown_heritage,Kemptown & East Cliff,50.821794,-0.125563,listed_building,Internal and external alterations to listed building,2026-02-20,pending
+DEMO-2025-00912,kemptown_heritage,Kemptown & East Cliff,50.821097,-0.125162,listed_building,Internal and external alterations to listed building,2025-11-04,pending
+DEMO-2026-00913,kemptown_heritage,Kemptown & East Cliff,50.818,-0.126346,listed_building,Internal and external alterations to listed building,2026-03-31,refused
+DEMO-2026-00914,kemptown_heritage,Kemptown & East Cliff,50.818308,-0.125955,listed_building,Internal and external alterations to listed building,2026-07-15,approved
+DEMO-2024-00915,kemptown_heritage,Kemptown & East Cliff,50.820265,-0.120339,listed_building,Internal and external alterations to listed building,2024-11-22,pending
+DEMO-2026-00916,kemptown_heritage,Kemptown & East Cliff,50.823315,-0.122403,listed_building,Internal and external alterations to listed building,2026-01-28,withdrawn
+DEMO-2026-00917,kemptown_heritage,Kemptown & East Cliff,50.825194,-0.123876,listed_building,Internal and external alterations to listed building,2026-05-17,pending
+DEMO-2026-00918,kemptown_heritage,Kemptown & East Cliff,50.822486,-0.118465,listed_building,Internal and external alterations to listed building,2026-09-21,approved
+DEMO-2025-00919,kemptown_heritage,Kemptown & East Cliff,50.817125,-0.121972,listed_building,Internal and external alterations to listed building,2025-08-06,pending
+DEMO-2026-00920,kemptown_heritage,Kemptown & East Cliff,50.817161,-0.120005,basement,Excavation of basement and lightwell to front,2026-08-04,pending
+DEMO-2026-00921,kemptown_heritage,Kemptown & East Cliff,50.823194,-0.123157,listed_building,Internal and external alterations to listed building,2026-02-22,pending
+DEMO-2025-00922,kemptown_heritage,Kemptown & East Cliff,50.816735,-0.125425,listed_building,Internal and external alterations to listed building,2025-07-06,pending
+DEMO-2026-00923,kemptown_heritage,Kemptown & East Cliff,50.821041,-0.129816,listed_building,Internal and external alterations to listed building,2026-10-08,approved
+DEMO-2024-00924,kemptown_heritage,Kemptown & East Cliff,50.814888,-0.116484,listed_building,Internal and external alterations to listed building,2024-12-08,pending
+DEMO-2026-00925,kemptown_heritage,Kemptown & East Cliff,50.817503,-0.127878,householder,Single-storey rear extension and alterations,2026-07-17,pending
+DEMO-2025-00926,kemptown_heritage,Kemptown & East Cliff,50.820516,-0.128828,basement,Excavation of basement and lightwell to front,2025-11-04,pending
+DEMO-2026-00927,kemptown_heritage,Kemptown & East Cliff,50.820468,-0.123507,listed_building,Internal and external alterations to listed building,2026-01-12,withdrawn
+DEMO-2026-00928,kemptown_heritage,Kemptown & East Cliff,50.820213,-0.125541,basement,Excavation of basement and lightwell to front,2026-06-24,approved
+DEMO-2026-00929,kemptown_heritage,Kemptown & East Cliff,50.820309,-0.119786,listed_building,Internal and external alterations to listed building,2026-09-29,approved
+DEMO-2026-00930,kemptown_heritage,Kemptown & East Cliff,50.821875,-0.125682,listed_building,Internal and external alterations to listed building,2026-08-30,refused
+DEMO-2025-00931,lewes_road_hmo,Lewes Road & Moulsecoomb,50.839418,-0.11599,change_of_use_hmo,Change of use from dwelling (C3) to small HMO (C4),2025-05-22,pending
+DEMO-2025-00932,lewes_road_hmo,Lewes Road & Moulsecoomb,50.834022,-0.122503,change_of_use_hmo,Change of use from dwelling (C3) to small HMO (C4),2025-08-03,pending
+DEMO-2025-00933,lewes_road_hmo,Lewes Road & Moulsecoomb,50.834666,-0.125986,change_of_use_hmo,Change of use from dwelling (C3) to small HMO (C4),2025-10-06,approved
+DEMO-2025-00934,lewes_road_hmo,Lewes Road & Moulsecoomb,50.834799,-0.120613,change_of_use_hmo,Change of use from dwelling (C3) to small HMO (C4),2025-11-18,pending
+DEMO-2026-00935,lewes_road_hmo,Lewes Road & Moulsecoomb,50.837774,-0.127366,change_of_use_hmo,Change of use from dwelling (C3) to small HMO (C4),2026-01-16,approved
+DEMO-2026-00936,lewes_road_hmo,Lewes Road & Moulsecoomb,50.844265,-0.116392,change_of_use_hmo,Change of use from dwelling (C3) to small HMO (C4),2026-09-23,refused
+DEMO-2025-00937,lewes_road_hmo,Lewes Road & Moulsecoomb,50.835078,-0.128344,change_of_use_hmo,Change of use from dwelling (C3) to small HMO (C4),2025-10-22,approved
+DEMO-2026-00938,lewes_road_hmo,Lewes Road & Moulsecoomb,50.834577,-0.127531,change_of_use_hmo,Change of use from dwelling (C3) to small HMO (C4),2026-02-11,approved
+DEMO-2025-00939,lewes_road_hmo,Lewes Road & Moulsecoomb,50.845707,-0.117456,change_of_use_hmo,Change of use from dwelling (C3) to small HMO (C4),2025-01-12,approved
+DEMO-2026-00940,lewes_road_hmo,Lewes Road & Moulsecoomb,50.832417,-0.121862,change_of_use_hmo,Change of use from dwelling (C3) to small HMO (C4),2026-07-09,approved
+DEMO-2025-00941,lewes_road_hmo,Lewes Road & Moulsecoomb,50.838913,-0.122483,change_of_use_hmo,Change of use from dwelling (C3) to small HMO (C4),2025-07-05,refused
+DEMO-2026-00942,lewes_road_hmo,Lewes Road & Moulsecoomb,50.840443,-0.128053,change_of_use_hmo,Change of use from dwelling (C3) to small HMO (C4),2026-01-01,pending
+DEMO-2026-00943,lewes_road_hmo,Lewes Road & Moulsecoomb,50.854381,-0.118843,householder,Single-storey rear extension and alterations,2026-10-17,withdrawn
+DEMO-2026-00944,lewes_road_hmo,Lewes Road & Moulsecoomb,50.841695,-0.112198,householder,Single-storey rear extension and alterations,2026-05-16,approved
+DEMO-2025-00945,lewes_road_hmo,Lewes Road & Moulsecoomb,50.836689,-0.116484,householder,Single-storey rear extension and alterations,2025-08-03,pending
+DEMO-2025-00946,lewes_road_hmo,Lewes Road & Moulsecoomb,50.844768,-0.114094,change_of_use_hmo,Change of use from dwelling (C3) to small HMO (C4),2025-09-21,approved
+DEMO-2025-00947,lewes_road_hmo,Lewes Road & Moulsecoomb,50.847096,-0.127907,change_of_use_hmo,Change of use from dwelling (C3) to small HMO (C4),2025-02-12,approved
+DEMO-2026-00948,lewes_road_hmo,Lewes Road & Moulsecoomb,50.846022,-0.108233,householder,Single-storey rear extension and alterations,2026-02-28,refused
+DEMO-2025-00949,lewes_road_hmo,Lewes Road & Moulsecoomb,50.837756,-0.122747,change_of_use_hmo,Change of use from dwelling (C3) to small HMO (C4),2025-12-15,withdrawn
+DEMO-2026-00950,lewes_road_hmo,Lewes Road & Moulsecoomb,50.836383,-0.125313,change_of_use_hmo,Change of use from dwelling (C3) to small HMO (C4),2026-01-20,approved
+DEMO-2025-00951,lewes_road_hmo,Lewes Road & Moulsecoomb,50.846273,-0.113842,householder,Single-storey rear extension and alterations,2025-05-11,pending
+DEMO-2026-00952,lewes_road_hmo,Lewes Road & Moulsecoomb,50.84334,-0.124351,change_of_use_hmo,Change of use from dwelling (C3) to small HMO (C4),2026-04-15,pending
+DEMO-2025-00953,lewes_road_hmo,Lewes Road & Moulsecoomb,50.840193,-0.126357,change_of_use_hmo,Change of use from dwelling (C3) to small HMO (C4),2025-06-08,approved
+DEMO-2025-00954,lewes_road_hmo,Lewes Road & Moulsecoomb,50.843158,-0.120022,householder,Single-storey rear extension and alterations,2025-09-22,pending
+DEMO-2025-00955,lewes_road_hmo,Lewes Road & Moulsecoomb,50.845479,-0.119632,change_of_use_hmo,Change of use from dwelling (C3) to small HMO (C4),2025-02-11,approved
+DEMO-2026-00956,lewes_road_hmo,Lewes Road & Moulsecoomb,50.830116,-0.128557,change_of_use_hmo,Change of use from dwelling (C3) to small HMO (C4),2026-04-04,pending
+DEMO-2025-00957,lewes_road_hmo,Lewes Road & Moulsecoomb,50.839058,-0.130423,householder,Single-storey rear extension and alterations,2025-03-12,approved
+DEMO-2026-00958,lewes_road_hmo,Lewes Road & Moulsecoomb,50.838326,-0.115253,householder,Single-storey rear extension and alterations,2026-01-08,approved
+DEMO-2026-00959,lewes_road_hmo,Lewes Road & Moulsecoomb,50.84703,-0.123195,change_of_use_hmo,Change of use from dwelling (C3) to small HMO (C4),2026-06-30,withdrawn
+DEMO-2026-00960,lewes_road_hmo,Lewes Road & Moulsecoomb,50.842019,-0.109055,change_of_use_hmo,Change of use from dwelling (C3) to small HMO (C4),2026-01-29,pending
+DEMO-2026-00961,lewes_road_hmo,Lewes Road & Moulsecoomb,50.85018,-0.117244,householder,Single-storey rear extension and alterations,2026-01-10,approved
+DEMO-2026-00962,lewes_road_hmo,Lewes Road & Moulsecoomb,50.846249,-0.100436,change_of_use_hmo,Change of use from dwelling (C3) to small HMO (C4),2026-08-11,approved
+DEMO-2026-00963,lewes_road_hmo,Lewes Road & Moulsecoomb,50.837125,-0.121396,change_of_use_hmo,Change of use from dwelling (C3) to small HMO (C4),2026-10-28,approved
+DEMO-2025-00964,lewes_road_hmo,Lewes Road & Moulsecoomb,50.842666,-0.103658,change_of_use_hmo,Change of use from dwelling (C3) to small HMO (C4),2025-03-14,approved
+DEMO-2025-00965,lewes_road_hmo,Lewes Road & Moulsecoomb,50.844886,-0.108831,change_of_use_hmo,Change of use from dwelling (C3) to small HMO (C4),2025-10-24,approved
+DEMO-2025-00966,lewes_road_hmo,Lewes Road & Moulsecoomb,50.844348,-0.125638,change_of_use_hmo,Change of use from dwelling (C3) to small HMO (C4),2025-07-22,approved
+DEMO-2024-00967,lewes_road_hmo,Lewes Road & Moulsecoomb,50.845509,-0.10751,householder,Single-storey rear extension and alterations,2024-12-31,approved
+DEMO-2025-00968,lewes_road_hmo,Lewes Road & Moulsecoomb,50.84853,-0.120526,change_of_use_hmo,Change of use from dwelling (C3) to small HMO (C4),2025-07-11,approved
+DEMO-2026-00969,lewes_road_hmo,Lewes Road & Moulsecoomb,50.836454,-0.127935,change_of_use_hmo,Change of use from dwelling (C3) to small HMO (C4),2026-03-04,pending
+DEMO-2026-00970,lewes_road_hmo,Lewes Road & Moulsecoomb,50.837002,-0.134384,change_of_use_hmo,Change of use from dwelling (C3) to small HMO (C4),2026-07-21,withdrawn
+DEMO-2026-00971,lewes_road_hmo,Lewes Road & Moulsecoomb,50.837784,-0.108731,change_of_use_hmo,Change of use from dwelling (C3) to small HMO (C4),2026-06-24,approved
+DEMO-2024-00972,lewes_road_hmo,Lewes Road & Moulsecoomb,50.83609,-0.122426,change_of_use_hmo,Change of use from dwelling (C3) to small HMO (C4),2024-11-03,approved
+DEMO-2025-00973,lewes_road_hmo,Lewes Road & Moulsecoomb,50.832072,-0.115833,change_of_use_hmo,Change of use from dwelling (C3) to small HMO (C4),2025-08-14,pending
+DEMO-2026-00974,lewes_road_hmo,Lewes Road & Moulsecoomb,50.851962,-0.120808,change_of_use_hmo,Change of use from dwelling (C3) to small HMO (C4),2026-09-16,pending
+DEMO-2025-00975,lewes_road_hmo,Lewes Road & Moulsecoomb,50.853975,-0.121635,change_of_use_hmo,Change of use from dwelling (C3) to small HMO (C4),2025-12-17,refused
+DEMO-2026-00976,lewes_road_hmo,Lewes Road & Moulsecoomb,50.845194,-0.111873,change_of_use_hmo,Change of use from dwelling (C3) to small HMO (C4),2026-10-16,approved
+DEMO-2025-00977,lewes_road_hmo,Lewes Road & Moulsecoomb,50.835518,-0.129676,change_of_use_hmo,Change of use from dwelling (C3) to small HMO (C4),2025-07-26,approved
+DEMO-2025-00978,lewes_road_hmo,Lewes Road & Moulsecoomb,50.842771,-0.114403,change_of_use_hmo,Change of use from dwelling (C3) to small HMO (C4),2025-08-28,pending
+DEMO-2025-00979,lewes_road_hmo,Lewes Road & Moulsecoomb,50.836822,-0.123437,change_of_use_hmo,Change of use from dwelling (C3) to small HMO (C4),2025-09-11,approved
+DEMO-2026-00980,lewes_road_hmo,Lewes Road & Moulsecoomb,50.831109,-0.133117,householder,Single-storey rear extension and alterations,2026-07-01,pending
+DEMO-2025-00981,lewes_road_hmo,Lewes Road & Moulsecoomb,50.848356,-0.117343,householder,Single-storey rear extension and alterations,2025-05-23,approved
+DEMO-2025-00982,lewes_road_hmo,Lewes Road & Moulsecoomb,50.834322,-0.12236,change_of_use_hmo,Change of use from dwelling (C3) to small HMO (C4),2025-09-26,pending
+DEMO-2026-00983,lewes_road_hmo,Lewes Road & Moulsecoomb,50.839813,-0.130921,householder,Single-storey rear extension and alterations,2026-05-06,approved
+DEMO-2025-00984,lewes_road_hmo,Lewes Road & Moulsecoomb,50.835828,-0.130759,change_of_use_hmo,Change of use from dwelling (C3) to small HMO (C4),2025-06-05,withdrawn
+DEMO-2025-00985,lewes_road_hmo,Lewes Road & Moulsecoomb,50.847622,-0.120997,change_of_use_hmo,Change of use from dwelling (C3) to small HMO (C4),2025-08-17,approved
+DEMO-2026-00986,lewes_road_hmo,Lewes Road & Moulsecoomb,50.851351,-0.105823,change_of_use_hmo,Change of use from dwelling (C3) to small HMO (C4),2026-08-12,approved
+DEMO-2025-00987,lewes_road_hmo,Lewes Road & Moulsecoomb,50.839121,-0.12325,change_of_use_hmo,Change of use from dwelling (C3) to small HMO (C4),2025-07-10,approved
+DEMO-2025-00988,lewes_road_hmo,Lewes Road & Moulsecoomb,50.846149,-0.105858,change_of_use_hmo,Change of use from dwelling (C3) to small HMO (C4),2025-12-27,refused
+DEMO-2024-00989,lewes_road_hmo,Lewes Road & Moulsecoomb,50.830111,-0.126515,change_of_use_hmo,Change of use from dwelling (C3) to small HMO (C4),2024-12-06,approved
+DEMO-2026-00990,lewes_road_hmo,Lewes Road & Moulsecoomb,50.84611,-0.107573,householder,Single-storey rear extension and alterations,2026-09-30,approved
+DEMO-2026-00991,lewes_road_hmo,Lewes Road & Moulsecoomb,50.846715,-0.111631,change_of_use_hmo,Change of use from dwelling (C3) to small HMO (C4),2026-02-09,approved
+DEMO-2026-00992,lewes_road_hmo,Lewes Road & Moulsecoomb,50.848446,-0.117853,householder,Single-storey rear extension and alterations,2026-10-12,approved
+DEMO-2026-00993,lewes_road_hmo,Lewes Road & Moulsecoomb,50.844978,-0.110724,change_of_use_hmo,Change of use from dwelling (C3) to small HMO (C4),2026-06-07,pending
+DEMO-2026-00994,lewes_road_hmo,Lewes Road & Moulsecoomb,50.841169,-0.120317,householder,Single-storey rear extension and alterations,2026-05-29,pending
+DEMO-2025-00995,lewes_road_hmo,Lewes Road & Moulsecoomb,50.849753,-0.111672,change_of_use_hmo,Change of use from dwelling (C3) to small HMO (C4),2025-02-13,approved
+DEMO-2025-00996,lewes_road_hmo,Lewes Road & Moulsecoomb,50.844419,-0.119269,change_of_use_hmo,Change of use from dwelling (C3) to small HMO (C4),2025-10-07,approved
+DEMO-2024-00997,lewes_road_hmo,Lewes Road & Moulsecoomb,50.846221,-0.11252,change_of_use_hmo,Change of use from dwelling (C3) to small HMO (C4),2024-11-06,withdrawn
+DEMO-2025-00998,lewes_road_hmo,Lewes Road & Moulsecoomb,50.846298,-0.118141,change_of_use_hmo,Change of use from dwelling (C3) to small HMO (C4),2025-12-08,refused
+DEMO-2026-00999,lewes_road_hmo,Lewes Road & Moulsecoomb,50.847243,-0.117521,householder,Single-storey rear extension and alterations,2026-09-30,approved
+DEMO-2025-01000,lewes_road_hmo,Lewes Road & Moulsecoomb,50.838987,-0.1238,change_of_use_hmo,Change of use from dwelling (C3) to small HMO (C4),2025-08-20,withdrawn
+DEMO-2025-01001,lewes_road_hmo,Lewes Road & Moulsecoomb,50.840383,-0.123091,change_of_use_hmo,Change of use from dwelling (C3) to small HMO (C4),2025-07-08,withdrawn
+DEMO-2025-01002,lewes_road_hmo,Lewes Road & Moulsecoomb,50.84787,-0.098789,change_of_use_hmo,Change of use from dwelling (C3) to small HMO (C4),2025-05-13,approved
+DEMO-2025-01003,lewes_road_hmo,Lewes Road & Moulsecoomb,50.843405,-0.106829,change_of_use_hmo,Change of use from dwelling (C3) to small HMO (C4),2025-12-03,approved
+DEMO-2026-01004,lewes_road_hmo,Lewes Road & Moulsecoomb,50.836345,-0.134504,change_of_use_hmo,Change of use from dwelling (C3) to small HMO (C4),2026-08-05,approved
+DEMO-2026-01005,lewes_road_hmo,Lewes Road & Moulsecoomb,50.841584,-0.11851,change_of_use_hmo,Change of use from dwelling (C3) to small HMO (C4),2026-01-06,refused
+DEMO-2026-01006,lewes_road_hmo,Lewes Road & Moulsecoomb,50.843544,-0.11712,change_of_use_hmo,Change of use from dwelling (C3) to small HMO (C4),2026-05-07,refused
+DEMO-2025-01007,lewes_road_hmo,Lewes Road & Moulsecoomb,50.835676,-0.121853,change_of_use_hmo,Change of use from dwelling (C3) to small HMO (C4),2025-07-05,pending
+DEMO-2025-01008,lewes_road_hmo,Lewes Road & Moulsecoomb,50.849544,-0.11,change_of_use_hmo,Change of use from dwelling (C3) to small HMO (C4),2025-07-15,approved
+DEMO-2025-01009,lewes_road_hmo,Lewes Road & Moulsecoomb,50.833315,-0.129157,change_of_use_hmo,Change of use from dwelling (C3) to small HMO (C4),2025-04-10,approved
+DEMO-2025-01010,lewes_road_hmo,Lewes Road & Moulsecoomb,50.843941,-0.12341,change_of_use_hmo,Change of use from dwelling (C3) to small HMO (C4),2025-01-12,withdrawn
+DEMO-2026-01011,lewes_road_hmo,Lewes Road & Moulsecoomb,50.846091,-0.127785,change_of_use_hmo,Change of use from dwelling (C3) to small HMO (C4),2026-07-12,refused
+DEMO-2026-01012,lewes_road_hmo,Lewes Road & Moulsecoomb,50.842207,-0.119605,change_of_use_hmo,Change of use from dwelling (C3) to small HMO (C4),2026-04-10,approved
+DEMO-2025-01013,lewes_road_hmo,Lewes Road & Moulsecoomb,50.838923,-0.129667,change_of_use_hmo,Change of use from dwelling (C3) to small HMO (C4),2025-02-04,pending
+DEMO-2025-01014,lewes_road_hmo,Lewes Road & Moulsecoomb,50.836921,-0.112698,change_of_use_hmo,Change of use from dwelling (C3) to small HMO (C4),2025-11-21,approved
+DEMO-2026-01015,lewes_road_hmo,Lewes Road & Moulsecoomb,50.842768,-0.114213,change_of_use_hmo,Change of use from dwelling (C3) to small HMO (C4),2026-02-02,approved
+DEMO-2026-01016,lewes_road_hmo,Lewes Road & Moulsecoomb,50.834799,-0.130705,change_of_use_hmo,Change of use from dwelling (C3) to small HMO (C4),2026-07-12,approved
+DEMO-2025-01017,lewes_road_hmo,Lewes Road & Moulsecoomb,50.841097,-0.110738,change_of_use_hmo,Change of use from dwelling (C3) to small HMO (C4),2025-02-11,pending
+DEMO-2025-01018,lewes_road_hmo,Lewes Road & Moulsecoomb,50.838366,-0.124106,change_of_use_hmo,Change of use from dwelling (C3) to small HMO (C4),2025-01-07,pending
+DEMO-2025-01019,lewes_road_hmo,Lewes Road & Moulsecoomb,50.851962,-0.117287,householder,Single-storey rear extension and alterations,2025-05-06,withdrawn
+DEMO-2025-01020,lewes_road_hmo,Lewes Road & Moulsecoomb,50.834667,-0.117535,change_of_use_hmo,Change of use from dwelling (C3) to small HMO (C4),2025-04-17,pending
+DEMO-2025-01021,lewes_road_hmo,Lewes Road & Moulsecoomb,50.847255,-0.11561,change_of_use_hmo,Change of use from dwelling (C3) to small HMO (C4),2025-02-10,pending
+DEMO-2026-01022,lewes_road_hmo,Lewes Road & Moulsecoomb,50.835267,-0.119313,change_of_use_hmo,Change of use from dwelling (C3) to small HMO (C4),2026-08-17,approved
+DEMO-2026-01023,lewes_road_hmo,Lewes Road & Moulsecoomb,50.834003,-0.127129,change_of_use_hmo,Change of use from dwelling (C3) to small HMO (C4),2026-10-03,pending
+DEMO-2026-01024,lewes_road_hmo,Lewes Road & Moulsecoomb,50.8362,-0.130139,householder,Single-storey rear extension and alterations,2026-02-23,approved
+DEMO-2026-01025,lewes_road_hmo,Lewes Road & Moulsecoomb,50.844827,-0.124029,change_of_use_hmo,Change of use from dwelling (C3) to small HMO (C4),2026-05-04,pending
+DEMO-2025-01026,lewes_road_hmo,Lewes Road & Moulsecoomb,50.847073,-0.110039,change_of_use_hmo,Change of use from dwelling (C3) to small HMO (C4),2025-11-13,pending
+DEMO-2026-01027,lewes_road_hmo,Lewes Road & Moulsecoomb,50.84781,-0.127589,change_of_use_hmo,Change of use from dwelling (C3) to small HMO (C4),2026-01-26,pending
+DEMO-2026-01028,lewes_road_hmo,Lewes Road & Moulsecoomb,50.835331,-0.117368,change_of_use_hmo,Change of use from dwelling (C3) to small HMO (C4),2026-07-04,approved
+DEMO-2026-01029,lewes_road_hmo,Lewes Road & Moulsecoomb,50.836436,-0.121795,change_of_use_hmo,Change of use from dwelling (C3) to small HMO (C4),2026-08-02,pending
+DEMO-2025-01030,lewes_road_hmo,Lewes Road & Moulsecoomb,50.841805,-0.113729,householder,Single-storey rear extension and alterations,2025-06-20,withdrawn
+DEMO-2026-01031,lewes_road_hmo,Lewes Road & Moulsecoomb,50.831809,-0.124288,change_of_use_hmo,Change of use from dwelling (C3) to small HMO (C4),2026-06-22,approved
+DEMO-2024-01032,lewes_road_hmo,Lewes Road & Moulsecoomb,50.849879,-0.127325,change_of_use_hmo,Change of use from dwelling (C3) to small HMO (C4),2024-11-21,pending
+DEMO-2025-01033,lewes_road_hmo,Lewes Road & Moulsecoomb,50.839734,-0.120683,change_of_use_hmo,Change of use from dwelling (C3) to small HMO (C4),2025-01-03,refused
+DEMO-2025-01034,lewes_road_hmo,Lewes Road & Moulsecoomb,50.848413,-0.110389,change_of_use_hmo,Change of use from dwelling (C3) to small HMO (C4),2025-06-28,refused
+DEMO-2025-01035,lewes_road_hmo,Lewes Road & Moulsecoomb,50.849462,-0.122287,householder,Single-storey rear extension and alterations,2025-10-18,approved
+DEMO-2025-01036,lewes_road_hmo,Lewes Road & Moulsecoomb,50.83608,-0.133168,change_of_use_hmo,Change of use from dwelling (C3) to small HMO (C4),2025-04-25,approved
+DEMO-2026-01037,lewes_road_hmo,Lewes Road & Moulsecoomb,50.843889,-0.111932,change_of_use_hmo,Change of use from dwelling (C3) to small HMO (C4),2026-07-16,pending
+DEMO-2025-01038,lewes_road_hmo,Lewes Road & Moulsecoomb,50.839011,-0.120636,householder,Single-storey rear extension and alterations,2025-12-15,withdrawn
+DEMO-2025-01039,lewes_road_hmo,Lewes Road & Moulsecoomb,50.83692,-0.125834,change_of_use_hmo,Change of use from dwelling (C3) to small HMO (C4),2025-08-06,pending
+DEMO-2026-01040,lewes_road_hmo,Lewes Road & Moulsecoomb,50.846503,-0.124826,householder,Single-storey rear extension and alterations,2026-06-10,approved
+DEMO-2026-01041,lewes_road_hmo,Lewes Road & Moulsecoomb,50.838085,-0.116693,change_of_use_hmo,Change of use from dwelling (C3) to small HMO (C4),2026-03-17,approved
+DEMO-2026-01042,lewes_road_hmo,Lewes Road & Moulsecoomb,50.84777,-0.104196,change_of_use_hmo,Change of use from dwelling (C3) to small HMO (C4),2026-05-12,refused
+DEMO-2025-01043,lewes_road_hmo,Lewes Road & Moulsecoomb,50.851209,-0.112268,householder,Single-storey rear extension and alterations,2025-06-25,approved
+DEMO-2025-01044,lewes_road_hmo,Lewes Road & Moulsecoomb,50.837565,-0.125578,change_of_use_hmo,Change of use from dwelling (C3) to small HMO (C4),2025-06-14,pending
+DEMO-2025-01045,lewes_road_hmo,Lewes Road & Moulsecoomb,50.843491,-0.115728,change_of_use_hmo,Change of use from dwelling (C3) to small HMO (C4),2025-06-30,pending
+DEMO-2026-01046,lewes_road_hmo,Lewes Road & Moulsecoomb,50.837028,-0.11342,change_of_use_hmo,Change of use from dwelling (C3) to small HMO (C4),2026-05-28,approved
+DEMO-2025-01047,lewes_road_hmo,Lewes Road & Moulsecoomb,50.854428,-0.122102,change_of_use_hmo,Change of use from dwelling (C3) to small HMO (C4),2025-08-05,approved
+DEMO-2025-01048,lewes_road_hmo,Lewes Road & Moulsecoomb,50.835901,-0.12052,change_of_use_hmo,Change of use from dwelling (C3) to small HMO (C4),2025-01-17,approved
+DEMO-2025-01049,lewes_road_hmo,Lewes Road & Moulsecoomb,50.839566,-0.106276,householder,Single-storey rear extension and alterations,2025-11-28,refused
+DEMO-2025-01050,lewes_road_hmo,Lewes Road & Moulsecoomb,50.84604,-0.120556,change_of_use_hmo,Change of use from dwelling (C3) to small HMO (C4),2025-04-19,approved
+DEMO-2025-01051,lewes_road_hmo,Lewes Road & Moulsecoomb,50.843118,-0.126659,change_of_use_hmo,Change of use from dwelling (C3) to small HMO (C4),2025-12-16,approved
+DEMO-2025-01052,lewes_road_hmo,Lewes Road & Moulsecoomb,50.834104,-0.120788,householder,Single-storey rear extension and alterations,2025-11-25,approved
+DEMO-2025-01053,lewes_road_hmo,Lewes Road & Moulsecoomb,50.842185,-0.127789,change_of_use_hmo,Change of use from dwelling (C3) to small HMO (C4),2025-05-11,pending
+DEMO-2026-01054,lewes_road_hmo,Lewes Road & Moulsecoomb,50.838137,-0.125795,change_of_use_hmo,Change of use from dwelling (C3) to small HMO (C4),2026-09-11,pending
+DEMO-2025-01055,lewes_road_hmo,Lewes Road & Moulsecoomb,50.841105,-0.129703,change_of_use_hmo,Change of use from dwelling (C3) to small HMO (C4),2025-09-23,refused
+DEMO-2025-01056,lewes_road_hmo,Lewes Road & Moulsecoomb,50.832339,-0.115347,change_of_use_hmo,Change of use from dwelling (C3) to small HMO (C4),2025-11-26,approved
+DEMO-2026-01057,lewes_road_hmo,Lewes Road & Moulsecoomb,50.831226,-0.119069,change_of_use_hmo,Change of use from dwelling (C3) to small HMO (C4),2026-04-18,refused
+DEMO-2026-01058,lewes_road_hmo,Lewes Road & Moulsecoomb,50.852231,-0.109873,change_of_use_hmo,Change of use from dwelling (C3) to small HMO (C4),2026-02-01,approved
+DEMO-2024-01059,lewes_road_hmo,Lewes Road & Moulsecoomb,50.842186,-0.12711,change_of_use_hmo,Change of use from dwelling (C3) to small HMO (C4),2024-11-18,pending
+DEMO-2025-01060,lewes_road_hmo,Lewes Road & Moulsecoomb,50.836604,-0.115879,change_of_use_hmo,Change of use from dwelling (C3) to small HMO (C4),2025-10-25,refused
+DEMO-2026-01061,lewes_road_hmo,Lewes Road & Moulsecoomb,50.847104,-0.121477,change_of_use_hmo,Change of use from dwelling (C3) to small HMO (C4),2026-08-17,pending
+DEMO-2026-01062,lewes_road_hmo,Lewes Road & Moulsecoomb,50.837368,-0.128662,change_of_use_hmo,Change of use from dwelling (C3) to small HMO (C4),2026-08-10,approved
+DEMO-2025-01063,lewes_road_hmo,Lewes Road & Moulsecoomb,50.834944,-0.130065,change_of_use_hmo,Change of use from dwelling (C3) to small HMO (C4),2025-02-04,withdrawn
+DEMO-2025-01064,lewes_road_hmo,Lewes Road & Moulsecoomb,50.840937,-0.124805,change_of_use_hmo,Change of use from dwelling (C3) to small HMO (C4),2025-06-28,pending
+DEMO-2025-01065,lewes_road_hmo,Lewes Road & Moulsecoomb,50.840438,-0.11287,change_of_use_hmo,Change of use from dwelling (C3) to small HMO (C4),2025-05-26,refused
+DEMO-2026-01066,lewes_road_hmo,Lewes Road & Moulsecoomb,50.831079,-0.11357,change_of_use_hmo,Change of use from dwelling (C3) to small HMO (C4),2026-08-16,approved
+DEMO-2026-01067,lewes_road_hmo,Lewes Road & Moulsecoomb,50.83937,-0.128717,change_of_use_hmo,Change of use from dwelling (C3) to small HMO (C4),2026-10-13,approved
+DEMO-2025-01068,lewes_road_hmo,Lewes Road & Moulsecoomb,50.833591,-0.134159,change_of_use_hmo,Change of use from dwelling (C3) to small HMO (C4),2025-09-29,approved
+DEMO-2026-01069,lewes_road_hmo,Lewes Road & Moulsecoomb,50.842332,-0.114683,change_of_use_hmo,Change of use from dwelling (C3) to small HMO (C4),2026-03-19,approved
+DEMO-2025-01070,lewes_road_hmo,Lewes Road & Moulsecoomb,50.852856,-0.110685,change_of_use_hmo,Change of use from dwelling (C3) to small HMO (C4),2025-03-17,approved
+DEMO-2026-01071,lewes_road_hmo,Lewes Road & Moulsecoomb,50.839907,-0.127153,change_of_use_hmo,Change of use from dwelling (C3) to small HMO (C4),2026-02-07,pending
+DEMO-2024-01072,lewes_road_hmo,Lewes Road & Moulsecoomb,50.846973,-0.11432,change_of_use_hmo,Change of use from dwelling (C3) to small HMO (C4),2024-12-12,pending
+DEMO-2024-01073,lewes_road_hmo,Lewes Road & Moulsecoomb,50.838125,-0.133187,change_of_use_hmo,Change of use from dwelling (C3) to small HMO (C4),2024-12-01,approved
+DEMO-2025-01074,lewes_road_hmo,Lewes Road & Moulsecoomb,50.834417,-0.120917,change_of_use_hmo,Change of use from dwelling (C3) to small HMO (C4),2025-08-19,approved
+DEMO-2026-01075,lewes_road_hmo,Lewes Road & Moulsecoomb,50.839055,-0.110998,householder,Single-storey rear extension and alterations,2026-07-18,approved
+DEMO-2024-01076,lewes_road_hmo,Lewes Road & Moulsecoomb,50.853966,-0.111381,change_of_use_hmo,Change of use from dwelling (C3) to small HMO (C4),2024-11-09,refused
+DEMO-2025-01077,lewes_road_hmo,Lewes Road & Moulsecoomb,50.844204,-0.121804,change_of_use_hmo,Change of use from dwelling (C3) to small HMO (C4),2025-06-03,refused
+DEMO-2026-01078,lewes_road_hmo,Lewes Road & Moulsecoomb,50.846145,-0.10648,householder,Single-storey rear extension and alterations,2026-02-17,approved
+DEMO-2025-01079,lewes_road_hmo,Lewes Road & Moulsecoomb,50.85236,-0.119084,change_of_use_hmo,Change of use from dwelling (C3) to small HMO (C4),2025-06-27,pending
+DEMO-2024-01080,lewes_road_hmo,Lewes Road & Moulsecoomb,50.829582,-0.127511,change_of_use_hmo,Change of use from dwelling (C3) to small HMO (C4),2024-11-10,refused
+DEMO-2025-01081,lewes_road_hmo,Lewes Road & Moulsecoomb,50.83648,-0.117416,change_of_use_hmo,Change of use from dwelling (C3) to small HMO (C4),2025-11-03,refused
+DEMO-2025-01082,lewes_road_hmo,Lewes Road & Moulsecoomb,50.833294,-0.130891,householder,Single-storey rear extension and alterations,2025-01-17,pending
+DEMO-2025-01083,lewes_road_hmo,Lewes Road & Moulsecoomb,50.848289,-0.11396,change_of_use_hmo,Change of use from dwelling (C3) to small HMO (C4),2025-06-16,withdrawn
+DEMO-2026-01084,lewes_road_hmo,Lewes Road & Moulsecoomb,50.837327,-0.128348,householder,Single-storey rear extension and alterations,2026-08-13,withdrawn
+DEMO-2026-01085,lewes_road_hmo,Lewes Road & Moulsecoomb,50.839948,-0.128827,householder,Single-storey rear extension and alterations,2026-01-09,approved
+DEMO-2026-01086,lewes_road_hmo,Lewes Road & Moulsecoomb,50.83776,-0.122524,change_of_use_hmo,Change of use from dwelling (C3) to small HMO (C4),2026-04-23,pending
+DEMO-2025-01087,lewes_road_hmo,Lewes Road & Moulsecoomb,50.833727,-0.112512,change_of_use_hmo,Change of use from dwelling (C3) to small HMO (C4),2025-02-20,pending
+DEMO-2026-01088,lewes_road_hmo,Lewes Road & Moulsecoomb,50.843605,-0.115125,change_of_use_hmo,Change of use from dwelling (C3) to small HMO (C4),2026-04-18,approved
+DEMO-2025-01089,lewes_road_hmo,Lewes Road & Moulsecoomb,50.841425,-0.110484,change_of_use_hmo,Change of use from dwelling (C3) to small HMO (C4),2025-03-04,approved
+DEMO-2026-01090,lewes_road_hmo,Lewes Road & Moulsecoomb,50.83549,-0.116932,change_of_use_hmo,Change of use from dwelling (C3) to small HMO (C4),2026-08-16,approved
+DEMO-2025-01091,hove_seafront_tall,Hove seafront,50.827324,-0.16478,tall_building,Redevelopment to provide a tall residential building with ground-floor uses,2025-08-10,approved
+DEMO-2026-01092,hove_seafront_tall,Hove seafront,50.824968,-0.16879,tall_building,Redevelopment to provide a tall residential building with ground-floor uses,2026-02-08,withdrawn
+DEMO-2025-01093,hove_seafront_tall,Hove seafront,50.824835,-0.170804,tall_building,Redevelopment to provide a tall residential building with ground-floor uses,2025-06-19,pending
+DEMO-2026-01094,hove_seafront_tall,Hove seafront,50.82532,-0.170325,tall_building,Redevelopment to provide a tall residential building with ground-floor uses,2026-09-25,pending
+DEMO-2025-01095,hove_seafront_tall,Hove seafront,50.823814,-0.170766,tall_building,Redevelopment to provide a tall residential building with ground-floor uses,2025-03-19,approved
+DEMO-2024-01096,hove_seafront_tall,Hove seafront,50.825814,-0.172966,tall_building,Redevelopment to provide a tall residential building with ground-floor uses,2024-11-27,approved
+DEMO-2026-01097,hove_seafront_tall,Hove seafront,50.826308,-0.166221,tall_building,Redevelopment to provide a tall residential building with ground-floor uses,2026-09-13,approved
+DEMO-2025-01098,hove_seafront_tall,Hove seafront,50.827562,-0.165453,tall_building,Redevelopment to provide a tall residential building with ground-floor uses,2025-10-11,approved
+DEMO-2026-01099,hove_seafront_tall,Hove seafront,50.824893,-0.170357,tall_building,Redevelopment to provide a tall residential building with ground-floor uses,2026-06-18,approved
+DEMO-2026-01100,hove_seafront_tall,Hove seafront,50.826959,-0.170753,tall_building,Redevelopment to provide a tall residential building with ground-floor uses,2026-03-03,approved
+DEMO-2025-01101,marina_tall,Brighton Marina,50.814206,-0.105834,tall_building,Redevelopment to provide a tall residential building with ground-floor uses,2025-02-16,approved
+DEMO-2025-01102,marina_tall,Brighton Marina,50.811826,-0.097691,tall_building,Redevelopment to provide a tall residential building with ground-floor uses,2025-08-29,refused
+DEMO-2025-01103,marina_tall,Brighton Marina,50.814434,-0.104132,tall_building,Redevelopment to provide a tall residential building with ground-floor uses,2025-05-23,approved
+DEMO-2026-01104,marina_tall,Brighton Marina,50.812341,-0.100263,tall_building,Redevelopment to provide a tall residential building with ground-floor uses,2026-01-07,pending
+DEMO-2025-01105,marina_tall,Brighton Marina,50.814619,-0.101793,tall_building,Redevelopment to provide a tall residential building with ground-floor uses,2025-04-29,pending
+DEMO-2025-01106,marina_tall,Brighton Marina,50.814545,-0.104087,tall_building,Redevelopment to provide a tall residential building with ground-floor uses,2025-09-22,approved
+DEMO-2025-01107,london_road_regen,London Road & Preston Road,50.833877,-0.139523,regeneration,Estate regeneration including affordable homes and public realm,2025-09-16,approved
+DEMO-2025-01108,london_road_regen,London Road & Preston Road,50.832849,-0.140202,regeneration,Estate regeneration including affordable homes and public realm,2025-02-21,withdrawn
+DEMO-2025-01109,london_road_regen,London Road & Preston Road,50.830109,-0.131699,regeneration,Estate regeneration including affordable homes and public realm,2025-02-14,pending
+DEMO-2024-01110,london_road_regen,London Road & Preston Road,50.833828,-0.140843,major_residential,Erection of mixed-use residential-led building,2024-11-13,pending
+DEMO-2025-01111,london_road_regen,London Road & Preston Road,50.835817,-0.137969,regeneration,Estate regeneration including affordable homes and public realm,2025-01-13,approved
+DEMO-2025-01112,london_road_regen,London Road & Preston Road,50.832828,-0.142692,regeneration,Estate regeneration including affordable homes and public realm,2025-05-01,approved
+DEMO-2025-01113,london_road_regen,London Road & Preston Road,50.83519,-0.13966,regeneration,Estate regeneration including affordable homes and public realm,2025-02-17,approved
+DEMO-2026-01114,london_road_regen,London Road & Preston Road,50.828389,-0.132869,regeneration,Estate regeneration including affordable homes and public realm,2026-10-11,pending
+DEMO-2025-01115,london_road_regen,London Road & Preston Road,50.833128,-0.13628,regeneration,Estate regeneration including affordable homes and public realm,2025-12-12,pending
+DEMO-2025-01116,london_road_regen,London Road & Preston Road,50.829648,-0.133552,regeneration,Estate regeneration including affordable homes and public realm,2025-05-06,approved
+DEMO-2025-01117,london_road_regen,London Road & Preston Road,50.834769,-0.139862,regeneration,Estate regeneration including affordable homes and public realm,2025-03-05,pending
+DEMO-2025-01118,london_road_regen,London Road & Preston Road,50.83304,-0.140509,regeneration,Estate regeneration including affordable homes and public realm,2025-03-26,approved
+DEMO-2025-01119,london_road_regen,London Road & Preston Road,50.837267,-0.14528,major_residential,Erection of mixed-use residential-led building,2025-03-07,approved
+DEMO-2025-01120,london_road_regen,London Road & Preston Road,50.835311,-0.143625,major_residential,Erection of mixed-use residential-led building,2025-06-18,pending
+DEMO-2025-01121,london_road_regen,London Road & Preston Road,50.830679,-0.143404,regeneration,Estate regeneration including affordable homes and public realm,2025-02-24,refused
+DEMO-2026-01122,london_road_regen,London Road & Preston Road,50.833057,-0.132544,regeneration,Estate regeneration including affordable homes and public realm,2026-07-12,approved
+DEMO-2025-01123,london_road_regen,London Road & Preston Road,50.830252,-0.134025,major_residential,Erection of mixed-use residential-led building,2025-04-27,refused
+DEMO-2025-01124,london_road_regen,London Road & Preston Road,50.83449,-0.139986,major_residential,Erection of mixed-use residential-led building,2025-05-22,approved
+DEMO-2025-01125,london_road_regen,London Road & Preston Road,50.831425,-0.14026,regeneration,Estate regeneration including affordable homes and public realm,2025-08-29,approved
+DEMO-2025-01126,london_road_regen,London Road & Preston Road,50.831406,-0.133627,major_residential,Erection of mixed-use residential-led building,2025-08-19,approved
+DEMO-2025-01127,london_road_regen,London Road & Preston Road,50.830545,-0.139451,regeneration,Estate regeneration including affordable homes and public realm,2025-04-17,refused
+DEMO-2025-01128,london_road_regen,London Road & Preston Road,50.833529,-0.130437,regeneration,Estate regeneration including affordable homes and public realm,2025-02-05,approved
+DEMO-2025-01129,london_road_regen,London Road & Preston Road,50.8324,-0.136256,regeneration,Estate regeneration including affordable homes and public realm,2025-06-15,refused
+DEMO-2025-01130,london_road_regen,London Road & Preston Road,50.834766,-0.127355,regeneration,Estate regeneration including affordable homes and public realm,2025-03-12,approved
+DEMO-2024-01131,london_road_regen,London Road & Preston Road,50.832422,-0.14625,regeneration,Estate regeneration including affordable homes and public realm,2024-11-09,approved
+DEMO-2026-01132,western_road_baseline,Western Road,50.824282,-0.15076,shopfront,Replacement shopfront and illuminated signage,2026-04-27,refused
+DEMO-2026-01133,western_road_baseline,Western Road,50.8247,-0.1569,shopfront,Replacement shopfront and illuminated signage,2026-02-15,approved
+DEMO-2024-01134,western_road_baseline,Western Road,50.82667,-0.160016,householder,Single-storey rear extension and alterations,2024-12-25,approved
+DEMO-2026-01135,western_road_baseline,Western Road,50.824859,-0.158937,householder,Single-storey rear extension and alterations,2026-04-10,approved
+DEMO-2024-01136,western_road_baseline,Western Road,50.824215,-0.155479,householder,Single-storey rear extension and alterations,2024-12-01,approved
+DEMO-2025-01137,western_road_baseline,Western Road,50.825504,-0.162247,shopfront,Replacement shopfront and illuminated signage,2025-03-05,pending
+DEMO-2024-01138,western_road_baseline,Western Road,50.824725,-0.145626,householder,Single-storey rear extension and alterations,2024-12-17,approved
+DEMO-2026-01139,western_road_baseline,Western Road,50.824491,-0.146535,householder,Single-storey rear extension and alterations,2026-05-24,pending
+DEMO-2026-01140,western_road_baseline,Western Road,50.825778,-0.161167,householder,Single-storey rear extension and alterations,2026-03-15,approved
+DEMO-2026-01141,western_road_baseline,Western Road,50.824588,-0.158705,householder,Single-storey rear extension and alterations,2026-09-24,approved
+DEMO-2026-01142,western_road_baseline,Western Road,50.825453,-0.166147,householder,Single-storey rear extension and alterations,2026-07-17,pending
+DEMO-2025-01143,western_road_baseline,Western Road,50.825578,-0.16308,shopfront,Replacement shopfront and illuminated signage,2025-01-26,approved
+DEMO-2026-01144,western_road_baseline,Western Road,50.825079,-0.156981,shopfront,Replacement shopfront and illuminated signage,2026-04-05,pending
+DEMO-2026-01145,western_road_baseline,Western Road,50.824949,-0.161005,shopfront,Replacement shopfront and illuminated signage,2026-09-13,refused
+DEMO-2024-01146,western_road_baseline,Western Road,50.825283,-0.150812,licensing_premises,Extension of opening hours and outdoor seating area,2024-11-18,pending
+DEMO-2025-01147,western_road_baseline,Western Road,50.82436,-0.148965,shopfront,Replacement shopfront and illuminated signage,2025-02-04,pending
+DEMO-2026-01148,western_road_baseline,Western Road,50.825829,-0.16434,householder,Single-storey rear extension and alterations,2026-04-15,approved
+DEMO-2026-01149,western_road_baseline,Western Road,50.825842,-0.163598,householder,Single-storey rear extension and alterations,2026-07-27,approved
+DEMO-2025-01150,western_road_baseline,Western Road,50.824356,-0.151681,licensing_premises,Extension of opening hours and outdoor seating area,2025-12-09,approved
+DEMO-2026-01151,western_road_baseline,Western Road,50.824777,-0.15357,householder,Single-storey rear extension and alterations,2026-03-24,approved
+DEMO-2025-01152,western_road_baseline,Western Road,50.825141,-0.154754,householder,Single-storey rear extension and alterations,2025-06-27,approved
+DEMO-2025-01153,western_road_baseline,Western Road,50.824775,-0.156085,licensing_premises,Extension of opening hours and outdoor seating area,2025-03-16,approved
+DEMO-2024-01154,western_road_baseline,Western Road,50.826438,-0.163259,householder,Single-storey rear extension and alterations,2024-12-03,refused
+DEMO-2025-01155,western_road_baseline,Western Road,50.825127,-0.158397,shopfront,Replacement shopfront and illuminated signage,2025-10-02,pending
+DEMO-2025-01156,western_road_baseline,Western Road,50.825034,-0.149607,shopfront,Replacement shopfront and illuminated signage,2025-07-14,approved
+DEMO-2025-01157,western_road_baseline,Western Road,50.826459,-0.165331,licensing_premises,Extension of opening hours and outdoor seating area,2025-05-23,approved
+DEMO-2026-01158,western_road_baseline,Western Road,50.82545,-0.148807,householder,Single-storey rear extension and alterations,2026-06-15,approved
+DEMO-2025-01159,western_road_baseline,Western Road,50.82581,-0.160897,shopfront,Replacement shopfront and illuminated signage,2025-06-26,approved
+DEMO-2025-01160,western_road_baseline,Western Road,50.824912,-0.160844,householder,Single-storey rear extension and alterations,2025-06-19,pending
+DEMO-2026-01161,western_road_baseline,Western Road,50.82635,-0.161582,householder,Single-storey rear extension and alterations,2026-03-03,refused
+DEMO-2024-01162,western_road_baseline,Western Road,50.82479,-0.161716,shopfront,Replacement shopfront and illuminated signage,2024-11-01,approved
+DEMO-2025-01163,western_road_baseline,Western Road,50.82693,-0.165164,shopfront,Replacement shopfront and illuminated signage,2025-07-21,approved
+DEMO-2025-01164,western_road_baseline,Western Road,50.824224,-0.15399,shopfront,Replacement shopfront and illuminated signage,2025-07-04,approved
+DEMO-2025-01165,western_road_baseline,Western Road,50.82402,-0.152684,householder,Single-storey rear extension and alterations,2025-12-09,approved
+DEMO-2026-01166,western_road_baseline,Western Road,50.824921,-0.148557,shopfront,Replacement shopfront and illuminated signage,2026-02-25,pending
+DEMO-2025-01167,western_road_baseline,Western Road,50.824904,-0.142489,shopfront,Replacement shopfront and illuminated signage,2025-07-30,approved
+DEMO-2026-01168,western_road_baseline,Western Road,50.825074,-0.149872,shopfront,Replacement shopfront and illuminated signage,2026-10-29,withdrawn
+DEMO-2025-01169,western_road_baseline,Western Road,50.824726,-0.154451,householder,Single-storey rear extension and alterations,2025-12-13,withdrawn
+DEMO-2025-01170,western_road_baseline,Western Road,50.824369,-0.156719,shopfront,Replacement shopfront and illuminated signage,2025-03-05,approved
+DEMO-2024-01171,western_road_baseline,Western Road,50.825058,-0.152219,shopfront,Replacement shopfront and illuminated signage,2024-12-06,approved
+DEMO-2025-01172,western_road_baseline,Western Road,50.825908,-0.163007,householder,Single-storey rear extension and alterations,2025-10-05,approved
+DEMO-2026-01173,western_road_baseline,Western Road,50.825269,-0.158561,licensing_premises,Extension of opening hours and outdoor seating area,2026-02-26,refused
+DEMO-2024-01174,western_road_baseline,Western Road,50.823862,-0.152584,shopfront,Replacement shopfront and illuminated signage,2024-11-16,pending
+DEMO-2026-01175,western_road_baseline,Western Road,50.825245,-0.155472,shopfront,Replacement shopfront and illuminated signage,2026-02-22,approved
+DEMO-2025-01176,western_road_baseline,Western Road,50.824346,-0.145255,householder,Single-storey rear extension and alterations,2025-04-11,approved
+DEMO-2025-01177,western_road_baseline,Western Road,50.825688,-0.158998,shopfront,Replacement shopfront and illuminated signage,2025-09-06,approved
+DEMO-2026-01178,western_road_baseline,Western Road,50.824501,-0.14977,licensing_premises,Extension of opening hours and outdoor seating area,2026-04-24,approved
+DEMO-2025-01179,western_road_baseline,Western Road,50.82374,-0.144088,shopfront,Replacement shopfront and illuminated signage,2025-09-28,approved
+DEMO-2024-01180,western_road_baseline,Western Road,50.825646,-0.162673,licensing_premises,Extension of opening hours and outdoor seating area,2024-12-23,withdrawn
+DEMO-2025-01181,western_road_baseline,Western Road,50.824543,-0.147288,shopfront,Replacement shopfront and illuminated signage,2025-06-18,approved
+DEMO-2025-01182,western_road_baseline,Western Road,50.825642,-0.153832,householder,Single-storey rear extension and alterations,2025-03-29,pending
+DEMO-2024-01183,western_road_baseline,Western Road,50.825757,-0.160325,shopfront,Replacement shopfront and illuminated signage,2024-11-07,pending
+DEMO-2025-01184,western_road_baseline,Western Road,50.82624,-0.161948,householder,Single-storey rear extension and alterations,2025-05-02,approved
+DEMO-2026-01185,western_road_baseline,Western Road,50.8239,-0.147073,shopfront,Replacement shopfront and illuminated signage,2026-09-26,refused
+DEMO-2025-01186,western_road_baseline,Western Road,50.823916,-0.143749,licensing_premises,Extension of opening hours and outdoor seating area,2025-04-14,approved
+DEMO-2025-01187,western_road_baseline,Western Road,50.825081,-0.147963,shopfront,Replacement shopfront and illuminated signage,2025-06-14,refused
+DEMO-2026-01188,western_road_baseline,Western Road,50.825697,-0.163567,shopfront,Replacement shopfront and illuminated signage,2026-09-19,refused
+DEMO-2026-01189,western_road_baseline,Western Road,50.823636,-0.146824,shopfront,Replacement shopfront and illuminated signage,2026-02-17,approved
+DEMO-2026-01190,western_road_baseline,Western Road,50.825208,-0.144772,shopfront,Replacement shopfront and illuminated signage,2026-04-05,approved
+DEMO-2026-01191,western_road_baseline,Western Road,50.823901,-0.14734,householder,Single-storey rear extension and alterations,2026-07-03,pending
+DEMO-2025-01192,western_road_baseline,Western Road,50.824381,-0.149423,householder,Single-storey rear extension and alterations,2025-11-25,approved
+DEMO-2025-01193,western_road_baseline,Western Road,50.824807,-0.146757,shopfront,Replacement shopfront and illuminated signage,2025-08-22,approved
+DEMO-2025-01194,western_road_baseline,Western Road,50.823882,-0.147462,shopfront,Replacement shopfront and illuminated signage,2025-04-08,approved
+DEMO-2025-01195,western_road_baseline,Western Road,50.825715,-0.162166,shopfront,Replacement shopfront and illuminated signage,2025-01-18,refused
+DEMO-2026-01196,western_road_baseline,Western Road,50.826299,-0.164145,licensing_premises,Extension of opening hours and outdoor seating area,2026-08-27,approved
+DEMO-2025-01197,western_road_baseline,Western Road,50.824905,-0.149086,householder,Single-storey rear extension and alterations,2025-02-16,approved
+DEMO-2026-01198,western_road_baseline,Western Road,50.824795,-0.152075,shopfront,Replacement shopfront and illuminated signage,2026-09-23,approved
+DEMO-2025-01199,western_road_baseline,Western Road,50.82461,-0.148436,shopfront,Replacement shopfront and illuminated signage,2025-09-04,approved
+DEMO-2026-01200,western_road_baseline,Western Road,50.824666,-0.163407,shopfront,Replacement shopfront and illuminated signage,2026-01-20,approved
+DEMO-2025-01201,western_road_baseline,Western Road,50.825054,-0.163715,householder,Single-storey rear extension and alterations,2025-06-13,approved
+DEMO-2024-01202,western_road_baseline,Western Road,50.824233,-0.151727,shopfront,Replacement shopfront and illuminated signage,2024-11-07,pending
+DEMO-2026-01203,western_road_baseline,Western Road,50.825137,-0.144455,shopfront,Replacement shopfront and illuminated signage,2026-01-14,approved
+DEMO-2026-01204,western_road_baseline,Western Road,50.825226,-0.160722,householder,Single-storey rear extension and alterations,2026-09-05,pending
+DEMO-2025-01205,western_road_baseline,Western Road,50.823756,-0.152446,shopfront,Replacement shopfront and illuminated signage,2025-03-12,approved
+DEMO-2025-01206,western_road_baseline,Western Road,50.826048,-0.16386,shopfront,Replacement shopfront and illuminated signage,2025-12-16,pending
+DEMO-2025-01207,western_road_baseline,Western Road,50.824533,-0.150124,householder,Single-storey rear extension and alterations,2025-10-17,approved
+DEMO-2026-01208,western_road_baseline,Western Road,50.82568,-0.145846,householder,Single-storey rear extension and alterations,2026-06-08,approved
+DEMO-2026-01209,western_road_baseline,Western Road,50.82493,-0.15798,householder,Single-storey rear extension and alterations,2026-06-01,approved
+DEMO-2025-01210,western_road_baseline,Western Road,50.825692,-0.158328,licensing_premises,Extension of opening hours and outdoor seating area,2025-12-27,refused
+DEMO-2026-01211,western_road_baseline,Western Road,50.826042,-0.160969,shopfront,Replacement shopfront and illuminated signage,2026-03-16,approved
+DEMO-2026-01212,western_road_works,Western Road,50.823887,-0.149788,utility_works,Temporary works compound and highway works,2026-10-03,approved
+DEMO-2026-01213,western_road_works,Western Road,50.823715,-0.144005,utility_works,Temporary works compound and highway works,2026-09-14,pending
+DEMO-2026-01214,western_road_works,Western Road,50.826118,-0.15986,demolition,Demolition of existing building and construction of replacement,2026-10-11,approved
+DEMO-2026-01215,western_road_works,Western Road,50.823581,-0.153258,utility_works,Temporary works compound and highway works,2026-09-14,approved
+DEMO-2026-01216,western_road_works,Western Road,50.826842,-0.166177,utility_works,Temporary works compound and highway works,2026-03-02,approved
+DEMO-2026-01217,western_road_works,Western Road,50.825223,-0.157676,utility_works,Temporary works compound and highway works,2026-07-18,pending
+DEMO-2026-01218,western_road_works,Western Road,50.823643,-0.145788,demolition,Demolition of existing building and construction of replacement,2026-07-29,refused
+DEMO-2026-01219,western_road_works,Western Road,50.825692,-0.15855,utility_works,Temporary works compound and highway works,2026-07-02,pending
+DEMO-2026-01220,western_road_works,Western Road,50.827067,-0.164801,demolition,Demolition of existing building and construction of replacement,2026-05-19,approved
+DEMO-2026-01221,western_road_works,Western Road,50.824641,-0.153131,utility_works,Temporary works compound and highway works,2026-08-09,pending
+DEMO-2026-01222,western_road_works,Western Road,50.825761,-0.157613,utility_works,Temporary works compound and highway works,2026-04-29,pending
+DEMO-2026-01223,western_road_works,Western Road,50.82394,-0.147098,utility_works,Temporary works compound and highway works,2026-09-28,withdrawn
+DEMO-2026-01224,western_road_works,Western Road,50.826334,-0.161558,utility_works,Temporary works compound and highway works,2026-05-23,approved
+DEMO-2026-01225,western_road_works,Western Road,50.826397,-0.16424,demolition,Demolition of existing building and construction of replacement,2026-05-13,approved
+DEMO-2026-01226,western_road_works,Western Road,50.82468,-0.151937,utility_works,Temporary works compound and highway works,2026-07-30,refused
+DEMO-2026-01227,western_road_works,Western Road,50.824102,-0.154469,utility_works,Temporary works compound and highway works,2026-04-26,approved
+DEMO-2026-01228,western_road_works,Western Road,50.82576,-0.145055,demolition,Demolition of existing building and construction of replacement,2026-08-25,withdrawn
+DEMO-2026-01229,western_road_works,Western Road,50.823722,-0.150452,utility_works,Temporary works compound and highway works,2026-09-06,approved
+DEMO-2026-01230,western_road_works,Western Road,50.824837,-0.156952,demolition,Demolition of existing building and construction of replacement,2026-06-06,approved
+DEMO-2026-01231,western_road_works,Western Road,50.825637,-0.147195,major_residential,Erection of mixed-use residential-led building,2026-03-23,refused
+DEMO-2026-01232,western_road_works,Western Road,50.824598,-0.160483,utility_works,Temporary works compound and highway works,2026-05-30,withdrawn
+DEMO-2026-01233,western_road_works,Western Road,50.823685,-0.157269,demolition,Demolition of existing building and construction of replacement,2026-09-04,pending
+DEMO-2026-01234,western_road_works,Western Road,50.824898,-0.161667,demolition,Demolition of existing building and construction of replacement,2026-05-18,approved
+DEMO-2026-01235,western_road_works,Western Road,50.824849,-0.157001,demolition,Demolition of existing building and construction of replacement,2026-03-02,withdrawn
+DEMO-2026-01236,western_road_works,Western Road,50.824499,-0.149746,utility_works,Temporary works compound and highway works,2026-09-26,refused
+DEMO-2026-01237,western_road_works,Western Road,50.824502,-0.154197,utility_works,Temporary works compound and highway works,2026-07-25,approved
+DEMO-2026-01238,western_road_works,Western Road,50.826262,-0.165105,utility_works,Temporary works compound and highway works,2026-09-18,withdrawn
+DEMO-2026-01239,western_road_works,Western Road,50.824172,-0.152498,major_residential,Erection of mixed-use residential-led building,2026-10-23,refused
+DEMO-2026-01240,western_road_works,Western Road,50.826109,-0.157569,demolition,Demolition of existing building and construction of replacement,2026-07-02,approved
+DEMO-2026-01241,western_road_works,Western Road,50.823974,-0.150753,utility_works,Temporary works compound and highway works,2026-07-25,pending
+DEMO-2026-01242,western_road_works,Western Road,50.823866,-0.144024,utility_works,Temporary works compound and highway works,2026-10-25,approved
+DEMO-2026-01243,western_road_works,Western Road,50.82549,-0.162664,major_residential,Erection of mixed-use residential-led building,2026-08-29,approved
+DEMO-2026-01244,western_road_works,Western Road,50.826532,-0.165717,utility_works,Temporary works compound and highway works,2026-04-19,approved
+DEMO-2026-01245,western_road_works,Western Road,50.825289,-0.158064,utility_works,Temporary works compound and highway works,2026-09-22,approved
+DEMO-2026-01246,western_road_works,Western Road,50.825509,-0.159393,major_residential,Erection of mixed-use residential-led building,2026-04-09,refused
